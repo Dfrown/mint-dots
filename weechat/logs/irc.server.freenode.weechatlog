@@ -1,0 +1,584 @@
+2014-01-26 11:15:20	--	irc: connecting to server chat.freenode.net/6667...
+2014-01-26 11:15:20	--	irc: connected to chat.freenode.net/6667 (193.219.128.49)
+2014-01-26 11:15:21	--	sendak.freenode.net (sendak.freenode.net): *** Looking up your hostname...
+2014-01-26 11:15:21	--	sendak.freenode.net (sendak.freenode.net): *** Checking Ident
+2014-01-26 11:15:22	--	sendak.freenode.net (sendak.freenode.net): *** Found your hostname
+2014-01-26 11:15:30	--	sendak.freenode.net (sendak.freenode.net): *** No Ident response
+2014-01-26 11:15:31	--	irc: nickname "dan" is already in use, trying nickname "dan1"
+2014-01-26 11:15:31	--	Welcome to the freenode Internet Relay Chat Network dan1
+2014-01-26 11:15:31	--	Your host is sendak.freenode.net[193.219.128.49/6667], running version ircd-seven-1.1.3
+2014-01-26 11:15:31	--	This server was created Mon Dec 31 2012 at 23:37:24 EET
+2014-01-26 11:15:31	--	sendak.freenode.net ircd-seven-1.1.3 DOQRSZaghilopswz CFILMPQSbcefgijklmnopqrstvz bkloveqjfI
+2014-01-26 11:15:31	--	CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode KNOCK STATUSMSG=@+ CALLERID=g :are supported by this server
+2014-01-26 11:15:31	--	CASEMAPPING=rfc1459 CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 ETRACE CPRIVMSG CNOTICE DEAF=D MONITOR=100 FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: :are supported by this server
+2014-01-26 11:15:31	--	EXTBAN=$,arxz WHOX CLIENTVER=3.0 SAFELIST ELIST=CTU :are supported by this server
+2014-01-26 11:15:31	--	There are 224 users and 89360 invisible on 26 servers
+2014-01-26 11:15:31	--	33 :IRC Operators online
+2014-01-26 11:15:31	--	7 :unknown connection(s)
+2014-01-26 11:15:31	--	56757 :channels formed
+2014-01-26 11:15:31	--	I have 5457 clients and 1 servers
+2014-01-26 11:15:31	--	5457 6205 :Current local users 5457, max 6205
+2014-01-26 11:15:31	--	89584 98248 :Current global users 89584, max 98248
+2014-01-26 11:15:31	--	Highest connection count: 6206 (6205 clients) (339170 connections received)
+2014-01-26 11:15:31	--	- sendak.freenode.net Message of the Day -
+2014-01-26 11:15:31	--	- Welcome to sendak.freenode.net in Vilnius, Lithuania, EU.
+2014-01-26 11:15:31	--	- Thanks to Microlink Lietuva (http://www.microlink.lt) for providing this
+2014-01-26 11:15:31	--	- server!
+2014-01-26 11:15:31	--	-
+2014-01-26 11:15:31	--	- SENDAK, MAURICE [1928-2012].  The author of Seven Little
+2014-01-26 11:15:31	--	- Monsters and Where the Wild Things Are, Maurice Sendak was
+2014-01-26 11:15:31	--	- born in Brooklyn, NY, US, to a family of poor Polish
+2014-01-26 11:15:31	--	- immigrants who moved to the US before World War II.  He
+2014-01-26 11:15:31	--	- became an illustrator while in high school.
+2014-01-26 11:15:31	--	-
+2014-01-26 11:15:31	--	- Welcome to freenode - supporting the free and open source
+2014-01-26 11:15:31	--	- software communities since 1998.
+2014-01-26 11:15:31	--	-
+2014-01-26 11:15:31	--	- By connecting to freenode you indicate that you have read and
+2014-01-26 11:15:31	--	- agree to adhere to our policies and procedures as per the
+2014-01-26 11:15:31	--	- website (http://freenode.net/).
+2014-01-26 11:15:31	--	-
+2014-01-26 11:15:31	--	- We would like to remind you that unauthorised public logging
+2014-01-26 11:15:31	--	- of channels on the network is prohibited. Public channel
+2014-01-26 11:15:31	--	- logging should only take place where the channel owner(s) has
+2014-01-26 11:15:31	--	- requested this and users of the channel are all made aware
+2014-01-26 11:15:31	--	- (if you are publically logging your channel, you may wish to
+2014-01-26 11:15:31	--	- keep a notice in the topic and perhaps as an on-join message).
+2014-01-26 11:15:31	--	-
+2014-01-26 11:15:31	--	- freenode runs an open proxy scanner. For details on freenode
+2014-01-26 11:15:31	--	- network policy, please take a look at our policy page
+2014-01-26 11:15:31	--	- (http://freenode.net/policy.shtml).  Your use of the network
+2014-01-26 11:15:31	--	- indicates your acceptance of this policy.
+2014-01-26 11:15:31	--	-
+2014-01-26 11:15:31	--	- Please join #freenode for any network-related questions or
+2014-01-26 11:15:31	--	- queries, there are numerous freenode volunteers and helpful
+2014-01-26 11:15:31	--	- users who would be happy to try answer any questions you might
+2014-01-26 11:15:31	--	- have.
+2014-01-26 11:15:31	--	-
+2014-01-26 11:15:31	--	- Check out www.fossevents.org to find out what is happening in
+2014-01-26 11:15:32	--	- your area, join us at FOSSCON (www.fosscon.org) for talks and
+2014-01-26 11:15:32	--	- real-life collaboration or bring a picnic and come join
+2014-01-26 11:15:32	--	- like-minded geeks for a geeknic (www.geeknic.org) somewhere
+2014-01-26 11:15:32	--	- close to you.
+2014-01-26 11:15:32	--	- Lastly, massive thanks to the OSU Open Source Lab
+2014-01-26 11:15:32	--	- (http://osuosl.org/) and Private Internet Access
+2014-01-26 11:15:32	--	- (https://www.privateinternetaccess.com/) for their sustained,
+2014-01-26 11:15:32	--	- long term support and dedication they show to the FOSS
+2014-01-26 11:15:32	--	- communities.
+2014-01-26 11:15:32	--	-
+2014-01-26 11:15:32	--	- ***************************************************************
+2014-01-26 11:15:32	--	- Please read http://blog.freenode.net/2010/11/be-safe-out-there/
+2014-01-26 11:15:32	--	- ***************************************************************
+2014-01-26 11:15:32	--	End of /MOTD command.
+2014-01-26 11:15:32	--	User mode [+i] by dan1
+2014-01-26 11:15:36	--	NickServ (NickServ@services.): This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify <password>.
+2014-01-26 11:16:03	--	MSG(nickserv): identify ******
+2014-01-26 11:16:04	--	NickServ (NickServ@services.): Invalid password for dan1.
+2014-01-26 11:16:15	--	NickServ (NickServ@services.): This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify <password>.
+2014-01-26 11:16:19	--	MSG(nickserv): identify ******
+2014-01-26 11:16:21	--	NickServ (NickServ@services.): Invalid password for brutha37.
+2014-01-26 11:16:25	--	MSG(nickserv): identify *******
+2014-01-26 11:16:26	--	NickServ (NickServ@services.): Invalid password for brutha37.
+2014-01-26 11:16:41	--	MSG(nickserv): identify ******
+2014-01-26 11:16:41	--	NickServ (NickServ@services.): You are now identified for brutha37.
+2014-01-26 11:16:41	--	NickServ (NickServ@services.): 2 failed logins since last login.
+2014-01-26 11:16:41	--	NickServ (NickServ@services.): Last failed attempt from: brutha37!~dan@99-37-64-159.lightspeed.simica.sbcglobal.net on Jan 26 19:16:25 2014.
+2014-01-26 11:16:56	=!=	irc: this buffer is not a channel!
+2014-01-26 11:17:06	--	[brutha37] (~dan@99-37-64-159.lightspeed.simica.sbcglobal.net): dan
+2014-01-26 11:17:06	--	[brutha37] sendak.freenode.net (Vilnius, Lithuania, EU)
+2014-01-26 11:17:06	--	[brutha37] is connecting from *@99-37-64-159.lightspeed.simica.sbcglobal.net 99.37.64.159
+2014-01-26 11:17:06	--	[brutha37] idle: 00 hours 00 minutes 25 seconds, signon at: Sun, 26 Jan 2014 11:15:31
+2014-01-26 11:17:06	--	[brutha37] is logged in as brutha37
+2014-01-26 11:17:06	--	[brutha37] End of /WHOIS list.
+2014-07-22 19:14:46	--	irc: connected to chat.freenode.net/6667 (195.148.124.79)
+2014-07-22 19:14:46	--	rajaniemi.freenode.net (rajaniemi.freenode.net): *** Looking up your hostname...
+2014-07-22 19:14:46	--	rajaniemi.freenode.net (rajaniemi.freenode.net): *** Checking Ident
+2014-07-22 19:14:46	--	rajaniemi.freenode.net (rajaniemi.freenode.net): *** Found your hostname
+2014-07-22 19:14:56	--	rajaniemi.freenode.net (rajaniemi.freenode.net): *** No Ident response
+2014-07-22 19:14:56	--	Welcome to the freenode Internet Relay Chat Network dfrown
+2014-07-22 19:14:56	--	Your host is rajaniemi.freenode.net[195.148.124.79/6667], running version ircd-seven-1.1.3
+2014-07-22 19:14:56	--	This server was created Mon Dec 31 2012 at 23:37:13 EET
+2014-07-22 19:14:56	--	rajaniemi.freenode.net ircd-seven-1.1.3 DOQRSZaghilopswz CFILMPQSbcefgijklmnopqrstvz bkloveqjfI
+2014-07-22 19:14:56	--	CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode KNOCK STATUSMSG=@+ CALLERID=g :are supported by this server
+2014-07-22 19:14:56	--	CASEMAPPING=rfc1459 CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 ETRACE CPRIVMSG CNOTICE DEAF=D MONITOR=100 FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: :are supported by this server
+2014-07-22 19:14:56	--	EXTBAN=$,ajrxz WHOX CLIENTVER=3.0 SAFELIST ELIST=CTU :are supported by this server
+2014-07-22 19:14:56	--	There are 188 users and 84318 invisible on 28 servers
+2014-07-22 19:14:56	--	29 :IRC Operators online
+2014-07-22 19:14:56	--	6 :unknown connection(s)
+2014-07-22 19:14:56	--	48159 :channels formed
+2014-07-22 19:14:56	--	I have 9194 clients and 1 servers
+2014-07-22 19:14:56	--	9194 11067 :Current local users 9194, max 11067
+2014-07-22 19:14:56	--	84506 97885 :Current global users 84506, max 97885
+2014-07-22 19:14:56	--	Highest connection count: 11068 (11067 clients) (860535 connections received)
+2014-07-22 19:14:56	--	- rajaniemi.freenode.net Message of the Day -
+2014-07-22 19:14:56	--	- Welcome to rajaniemi.freenode.net in Helsinki, Finland.  Our thanks to
+2014-07-22 19:14:56	--	- Aalto University for sponsoring this server!
+2014-07-22 19:14:56	--	-
+2014-07-22 19:14:56	--	- RAJANIEMI, Hannu  (1978-). Born in Ylivieska, Finland, Rajaniemi is the
+2014-07-22 19:14:56	--	- author of two novels and several short stories, and his debut novel 'The
+2014-07-22 19:14:56	--	- Quantum Thief' was nominated for the 2011 Locus Award for Best First
+2014-07-22 19:14:56	--	- Novel.  Rajaniemi lives in Edinburgh, Scotland where he is founding
+2014-07-22 19:14:56	--	- director of ThinkTank Maths, a commercial research organisation.
+2014-07-22 19:14:56	--	-
+2014-07-22 19:14:56	--	-
+2014-07-22 19:14:56	--	- Welcome to freenode - supporting the free and open source
+2014-07-22 19:14:56	--	- software communities since 1998.
+2014-07-22 19:14:56	--	-
+2014-07-22 19:14:56	--	- By connecting to freenode you indicate that you have read and
+2014-07-22 19:14:56	--	- accept our policies as set out on http://www.freenode.net
+2014-07-22 19:14:56	--	- freenode runs an open proxy scanner. Please join #freenode for
+2014-07-22 19:14:56	--	- any network-related questions or queries, where a number of
+2014-07-22 19:14:56	--	- volunteer staff and helpful users will be happy to assist you.
+2014-07-22 19:14:56	--	-
+2014-07-22 19:14:56	--	- You can meet us at FOSSCON (http://www.fosscon.org) where we get
+2014-07-22 19:14:56	--	- together with like-minded FOSS enthusiasts for talks and
+2014-07-22 19:14:56	--	- real-life collaboration.
+2014-07-22 19:14:56	--	-
+2014-07-22 19:14:56	--	- We would like to thank Private Internet Access
+2014-07-22 19:14:56	--	- (https://www.privateinternetaccess.com/) and the other
+2014-07-22 19:14:56	--	- organisations that help keep freenode and our other projects
+2014-07-22 19:14:56	--	- running for their sustained support.
+2014-07-22 19:14:56	--	-
+2014-07-22 19:14:56	--	- In particular we would like to thank the sponsor
+2014-07-22 19:14:56	--	- of this server, details of which can be found above.
+2014-07-22 19:14:56	--	-
+2014-07-22 19:14:57	--	- ***************************************************************
+2014-07-22 19:14:57	--	- Please read http://blog.freenode.net/2010/11/be-safe-out-there/
+2014-07-22 19:14:57	--	- ***************************************************************
+2014-07-22 19:14:57	--	End of /MOTD command.
+2014-07-22 19:14:57	--	User mode [+i] by dfrown
+2014-07-22 19:14:57	--	NickServ (NickServ@services.): This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify <password>.
+2014-07-22 19:15:16	--	MSG(NickServ): identify ******
+2014-07-22 19:15:17	--	NickServ (NickServ@services.): You are now identified for dfrown.
+2014-07-22 19:18:44	--	ChanServ (ChanServ@services.): [#python] Welcome to #python, puny fleshlings. Please see our website, http://pound-python.org/ , for information about the channel and Python.
+2014-07-22 19:39:01	--	irc: connected to chat.freenode.net/6667 (64.32.24.176)
+2014-07-22 19:39:01	--	morgan.freenode.net (morgan.freenode.net): *** Looking up your hostname...
+2014-07-22 19:39:01	--	morgan.freenode.net (morgan.freenode.net): *** Checking Ident
+2014-07-22 19:39:02	--	morgan.freenode.net (morgan.freenode.net): *** Found your hostname
+2014-07-22 19:39:11	--	morgan.freenode.net (morgan.freenode.net): *** No Ident response
+2014-07-22 19:39:11	--	Welcome to the freenode Internet Relay Chat Network dfrown
+2014-07-22 19:39:11	--	MSG(nickserv): identify ******
+2014-07-22 19:39:11	--	Your host is morgan.freenode.net[64.32.24.176/6667], running version ircd-seven-1.1.3
+2014-07-22 19:39:11	--	This server was created Tue Mar 12 2013 at 18:27:25 EDT
+2014-07-22 19:39:11	--	morgan.freenode.net ircd-seven-1.1.3 DOQRSZaghilopswz CFILMPQSbcefgijklmnopqrstvz bkloveqjfI
+2014-07-22 19:39:11	--	CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode KNOCK STATUSMSG=@+ CALLERID=g :are supported by this server
+2014-07-22 19:39:11	--	CASEMAPPING=rfc1459 CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 ETRACE CPRIVMSG CNOTICE DEAF=D MONITOR=100 FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: :are supported by this server
+2014-07-22 19:39:11	--	EXTBAN=$,ajrxz WHOX CLIENTVER=3.0 SAFELIST ELIST=CTU :are supported by this server
+2014-07-22 19:39:11	--	There are 189 users and 84092 invisible on 28 servers
+2014-07-22 19:39:11	--	29 :IRC Operators online
+2014-07-22 19:39:11	--	12 :unknown connection(s)
+2014-07-22 19:39:11	--	48164 :channels formed
+2014-07-22 19:39:11	--	I have 8665 clients and 1 servers
+2014-07-22 19:39:11	--	8665 11257 :Current local users 8665, max 11257
+2014-07-22 19:39:11	--	84281 97886 :Current global users 84281, max 97886
+2014-07-22 19:39:11	--	Highest connection count: 11258 (11257 clients) (1095985 connections received)
+2014-07-22 19:39:11	--	- morgan.freenode.net Message of the Day -
+2014-07-22 19:39:11	--	- Welcome to morgan.freenode.net in Chicago, IL, USA! Thank
+2014-07-22 19:39:11	--	- you to psyprus for sponsoring this server!
+2014-07-22 19:39:11	--	-
+2014-07-22 19:39:11	--	- MORGAN, RICHARD K. (1965-) is an English science fiction
+2014-07-22 19:39:11	--	- author. Morgan's books are generally set in a dystopian world.
+2014-07-22 19:39:11	--	- His breakout novel Altered Carbon won the Philip K. Dick Award,
+2014-07-22 19:39:11	--	- and he has written many successful and amazing works to follow.
+2014-07-22 19:39:11	--	- His more recent writings explore the theme of autonomy
+2014-07-22 19:39:11	--	- in science fiction and escapism in fantasy.
+2014-07-22 19:39:11	--	-
+2014-07-22 19:39:11	--	-
+2014-07-22 19:39:11	--	- Welcome to freenode - supporting the free and open source
+2014-07-22 19:39:11	--	- software communities since 1998.
+2014-07-22 19:39:11	--	-
+2014-07-22 19:39:11	--	- By connecting to freenode you indicate that you have read and
+2014-07-22 19:39:11	--	- accept our policies as set out on http://www.freenode.net
+2014-07-22 19:39:11	--	- freenode runs an open proxy scanner. Please join #freenode for
+2014-07-22 19:39:11	--	- any network-related questions or queries, where a number of
+2014-07-22 19:39:11	--	- volunteer staff and helpful users will be happy to assist you.
+2014-07-22 19:39:11	--	-
+2014-07-22 19:39:11	--	- You can meet us at FOSSCON (http://www.fosscon.org) where we get
+2014-07-22 19:39:11	--	- together with like-minded FOSS enthusiasts for talks and
+2014-07-22 19:39:11	--	- real-life collaboration.
+2014-07-22 19:39:11	--	-
+2014-07-22 19:39:11	--	- We would like to thank Private Internet Access
+2014-07-22 19:39:11	--	- (https://www.privateinternetaccess.com/) and the other
+2014-07-22 19:39:11	--	- organisations that help keep freenode and our other projects
+2014-07-22 19:39:11	--	- running for their sustained support.
+2014-07-22 19:39:11	--	-
+2014-07-22 19:39:11	--	- In particular we would like to thank the sponsor
+2014-07-22 19:39:11	--	- of this server, details of which can be found above.
+2014-07-22 19:39:11	--	-
+2014-07-22 19:39:11	--	- ***************************************************************
+2014-07-22 19:39:11	--	- Please read http://blog.freenode.net/2010/11/be-safe-out-there/
+2014-07-22 19:39:11	--	- ***************************************************************
+2014-07-22 19:39:11	--	End of /MOTD command.
+2014-07-22 19:39:11	--	User mode [+i] by dfrown
+2014-07-22 19:39:12	--	NickServ (NickServ@services.): This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify <password>.
+2014-07-22 19:39:17	--	NickServ (NickServ@services.): You are now identified for dfrown.
+2014-07-22 19:56:42	--	irc: connected to chat.freenode.net/6667 (162.213.39.42)
+2014-07-22 19:56:42	--	weber.freenode.net (weber.freenode.net): *** Looking up your hostname...
+2014-07-22 19:56:42	--	weber.freenode.net (weber.freenode.net): *** Checking Ident
+2014-07-22 19:56:42	--	weber.freenode.net (weber.freenode.net): *** Found your hostname
+2014-07-22 19:56:48	--	weber.freenode.net (weber.freenode.net): *** No Ident response
+2014-07-22 19:56:48	--	Welcome to the freenode Internet Relay Chat Network dfrown
+2014-07-22 19:56:48	--	MSG(nickserv): identify ******
+2014-07-22 19:56:48	--	Your host is weber.freenode.net[162.213.39.42/6667], running version ircd-seven-1.1.3
+2014-07-22 19:56:48	--	This server was created Sun Jul 6 2014 at 19:37:14 BST
+2014-07-22 19:56:48	--	weber.freenode.net ircd-seven-1.1.3 DOQRSZaghilopswz CFILMPQSbcefgijklmnopqrstvz bkloveqjfI
+2014-07-22 19:56:48	--	CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode KNOCK STATUSMSG=@+ CALLERID=g :are supported by this server
+2014-07-22 19:56:48	--	CASEMAPPING=rfc1459 CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 ETRACE CPRIVMSG CNOTICE DEAF=D MONITOR=100 FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: :are supported by this server
+2014-07-22 19:56:48	--	EXTBAN=$,ajrxz WHOX CLIENTVER=3.0 SAFELIST ELIST=CTU :are supported by this server
+2014-07-22 19:56:48	--	There are 188 users and 83921 invisible on 28 servers
+2014-07-22 19:56:48	--	29 :IRC Operators online
+2014-07-22 19:56:48	--	10 :unknown connection(s)
+2014-07-22 19:56:48	--	48158 :channels formed
+2014-07-22 19:56:48	--	I have 3370 clients and 1 servers
+2014-07-22 19:56:48	--	3370 4260 :Current local users 3370, max 4260
+2014-07-22 19:56:48	--	84109 97246 :Current global users 84109, max 97246
+2014-07-22 19:56:48	--	Highest connection count: 4261 (4260 clients) (105016 connections received)
+2014-07-22 19:56:48	--	- weber.freenode.net Message of the Day -
+2014-07-22 19:56:48	--	- Welcome to weber.freenode.net in California, USA.
+2014-07-22 19:56:48	--	- Thanks to https://www.cloudsigma.com/ for sponsoring
+2014-07-22 19:56:48	--	- this server!
+2014-07-22 19:56:48	--	-
+2014-07-22 19:56:48	--	- WEBER, DAVID M. (1952-), an American fantasy and scifi
+2014-07-22 19:56:48	--	- author. Best known for his 'Honor Harrington' series, his
+2014-07-22 19:56:48	--	- works span several genres, including alternate history,
+2014-07-22 19:56:48	--	- epic fantasy, military scifi and space opera. He's also
+2014-07-22 19:56:48	--	- done wargame design mainly for the StarFire tabletop
+2014-07-22 19:56:48	--	- boardgame series, a job which later evolved into the novel,
+2014-07-22 19:56:48	--	- 'Insurrection' (collaboration with Steve White, published
+2014-07-22 19:56:48	--	- in 1990).
+2014-07-22 19:56:48	--	-
+2014-07-22 19:56:48	--	- Welcome to freenode - supporting the free and open source
+2014-07-22 19:56:48	--	- software communities since 1998.
+2014-07-22 19:56:48	--	-
+2014-07-22 19:56:48	--	- By connecting to freenode you indicate that you have read and
+2014-07-22 19:56:48	--	- accept our policies as set out on http://www.freenode.net
+2014-07-22 19:56:48	--	- freenode runs an open proxy scanner. Please join #freenode for
+2014-07-22 19:56:48	--	- any network-related questions or queries, where a number of
+2014-07-22 19:56:48	--	- volunteer staff and helpful users will be happy to assist you.
+2014-07-22 19:56:48	--	-
+2014-07-22 19:56:48	--	- You can meet us at FOSSCON (http://www.fosscon.org) where we get
+2014-07-22 19:56:48	--	- together with like-minded FOSS enthusiasts for talks and
+2014-07-22 19:56:48	--	- real-life collaboration.
+2014-07-22 19:56:48	--	-
+2014-07-22 19:56:48	--	- We would like to thank Private Internet Access
+2014-07-22 19:56:48	--	- (https://www.privateinternetaccess.com/) and the other
+2014-07-22 19:56:48	--	- organisations that help keep freenode and our other projects
+2014-07-22 19:56:48	--	- running for their sustained support.
+2014-07-22 19:56:48	--	-
+2014-07-22 19:56:48	--	- In particular we would like to thank the sponsor
+2014-07-22 19:56:48	--	- of this server, details of which can be found above.
+2014-07-22 19:56:48	--	-
+2014-07-22 19:56:48	--	- ***************************************************************
+2014-07-22 19:56:48	--	- Please read http://blog.freenode.net/2010/11/be-safe-out-there/
+2014-07-22 19:56:48	--	- ***************************************************************
+2014-07-22 19:56:48	--	End of /MOTD command.
+2014-07-22 19:56:48	--	User mode [+i] by dfrown
+2014-07-22 19:56:49	--	NickServ (NickServ@services.): This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify <password>.
+2014-07-22 19:56:55	--	NickServ (NickServ@services.): You are now identified for dfrown.
+2014-07-22 19:57:09	--	ChanServ (ChanServ@services.): [#python] Welcome to #python, puny fleshlings. Please see our website, http://pound-python.org/ , for information about the channel and Python.
+2014-07-22 20:06:17	=!=	irc: "part" command can only be executed in a channel or private buffer
+2014-07-22 20:25:20	--	irc: connected to chat.freenode.net/6667 (64.32.24.176)
+2014-07-22 20:25:20	--	morgan.freenode.net (morgan.freenode.net): *** Looking up your hostname...
+2014-07-22 20:25:20	--	morgan.freenode.net (morgan.freenode.net): *** Checking Ident
+2014-07-22 20:25:20	--	morgan.freenode.net (morgan.freenode.net): *** Found your hostname
+2014-07-22 20:25:26	--	morgan.freenode.net (morgan.freenode.net): *** No Ident response
+2014-07-22 20:25:26	--	Welcome to the freenode Internet Relay Chat Network dfrown
+2014-07-22 20:25:26	--	MSG(nickserv): identify ******
+2014-07-22 20:25:26	--	Your host is morgan.freenode.net[64.32.24.176/6667], running version ircd-seven-1.1.3
+2014-07-22 20:25:26	--	This server was created Tue Mar 12 2013 at 18:27:25 EDT
+2014-07-22 20:25:26	--	morgan.freenode.net ircd-seven-1.1.3 DOQRSZaghilopswz CFILMPQSbcefgijklmnopqrstvz bkloveqjfI
+2014-07-22 20:25:26	--	CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode KNOCK STATUSMSG=@+ CALLERID=g :are supported by this server
+2014-07-22 20:25:26	--	CASEMAPPING=rfc1459 CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 ETRACE CPRIVMSG CNOTICE DEAF=D MONITOR=100 FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: :are supported by this server
+2014-07-22 20:25:26	--	EXTBAN=$,ajrxz WHOX CLIENTVER=3.0 SAFELIST ELIST=CTU :are supported by this server
+2014-07-22 20:25:26	--	There are 187 users and 83545 invisible on 28 servers
+2014-07-22 20:25:26	--	29 :IRC Operators online
+2014-07-22 20:25:26	--	9 :unknown connection(s)
+2014-07-22 20:25:26	--	48117 :channels formed
+2014-07-22 20:25:26	--	I have 8628 clients and 1 servers
+2014-07-22 20:25:26	--	8628 11257 :Current local users 8628, max 11257
+2014-07-22 20:25:26	--	83732 97886 :Current global users 83732, max 97886
+2014-07-22 20:25:26	--	Highest connection count: 11258 (11257 clients) (1096523 connections received)
+2014-07-22 20:25:26	--	- morgan.freenode.net Message of the Day -
+2014-07-22 20:25:26	--	- Welcome to morgan.freenode.net in Chicago, IL, USA! Thank
+2014-07-22 20:25:26	--	- you to psyprus for sponsoring this server!
+2014-07-22 20:25:26	--	-
+2014-07-22 20:25:26	--	- MORGAN, RICHARD K. (1965-) is an English science fiction
+2014-07-22 20:25:26	--	- author. Morgan's books are generally set in a dystopian world.
+2014-07-22 20:25:26	--	- His breakout novel Altered Carbon won the Philip K. Dick Award,
+2014-07-22 20:25:26	--	- and he has written many successful and amazing works to follow.
+2014-07-22 20:25:26	--	- His more recent writings explore the theme of autonomy
+2014-07-22 20:25:26	--	- in science fiction and escapism in fantasy.
+2014-07-22 20:25:26	--	-
+2014-07-22 20:25:26	--	-
+2014-07-22 20:25:26	--	- Welcome to freenode - supporting the free and open source
+2014-07-22 20:25:26	--	- software communities since 1998.
+2014-07-22 20:25:26	--	-
+2014-07-22 20:25:26	--	- By connecting to freenode you indicate that you have read and
+2014-07-22 20:25:26	--	- accept our policies as set out on http://www.freenode.net
+2014-07-22 20:25:26	--	- freenode runs an open proxy scanner. Please join #freenode for
+2014-07-22 20:25:26	--	- any network-related questions or queries, where a number of
+2014-07-22 20:25:26	--	- volunteer staff and helpful users will be happy to assist you.
+2014-07-22 20:25:26	--	-
+2014-07-22 20:25:26	--	- You can meet us at FOSSCON (http://www.fosscon.org) where we get
+2014-07-22 20:25:26	--	- together with like-minded FOSS enthusiasts for talks and
+2014-07-22 20:25:26	--	- real-life collaboration.
+2014-07-22 20:25:26	--	-
+2014-07-22 20:25:26	--	- We would like to thank Private Internet Access
+2014-07-22 20:25:26	--	- (https://www.privateinternetaccess.com/) and the other
+2014-07-22 20:25:26	--	- organisations that help keep freenode and our other projects
+2014-07-22 20:25:26	--	- running for their sustained support.
+2014-07-22 20:25:26	--	-
+2014-07-22 20:25:26	--	- In particular we would like to thank the sponsor
+2014-07-22 20:25:26	--	- of this server, details of which can be found above.
+2014-07-22 20:25:26	--	-
+2014-07-22 20:25:26	--	- ***************************************************************
+2014-07-22 20:25:26	--	- Please read http://blog.freenode.net/2010/11/be-safe-out-there/
+2014-07-22 20:25:26	--	- ***************************************************************
+2014-07-22 20:25:26	--	End of /MOTD command.
+2014-07-22 20:25:26	--	User mode [+i] by dfrown
+2014-07-22 20:25:26	--	NickServ (NickServ@services.): This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify <password>.
+2014-07-22 20:25:32	--	NickServ (NickServ@services.): You are now identified for dfrown.
+2014-07-22 20:34:31	--	irc: connected to chat.freenode.net/6667 (64.32.24.176)
+2014-07-22 20:34:31	--	morgan.freenode.net (morgan.freenode.net): *** Looking up your hostname...
+2014-07-22 20:34:31	--	morgan.freenode.net (morgan.freenode.net): *** Checking Ident
+2014-07-22 20:34:31	--	morgan.freenode.net (morgan.freenode.net): *** Found your hostname
+2014-07-22 22:16:24	--	irc: connected to chat.freenode.net/6667 (193.219.128.49)
+2014-07-22 22:16:24	--	sendak.freenode.net (sendak.freenode.net): *** Looking up your hostname...
+2014-07-22 22:16:24	--	sendak.freenode.net (sendak.freenode.net): *** Checking Ident
+2014-07-22 22:16:25	--	sendak.freenode.net (sendak.freenode.net): *** Found your hostname
+2014-07-22 22:16:34	--	sendak.freenode.net (sendak.freenode.net): *** No Ident response
+2014-07-22 22:16:34	--	irc: nickname "dfrown" is already in use, trying nickname "dfrown_"
+2014-07-22 22:16:34	--	Welcome to the freenode Internet Relay Chat Network dfrown_
+2014-07-22 22:16:34	--	MSG(nickserv): identify ******
+2014-07-22 22:16:34	--	Your host is sendak.freenode.net[193.219.128.49/6667], running version ircd-seven-1.1.3
+2014-07-22 22:16:34	--	This server was created Tue Apr 8 2014 at 17:59:15 EEST
+2014-07-22 22:16:34	--	sendak.freenode.net ircd-seven-1.1.3 DOQRSZaghilopswz CFILMPQSbcefgijklmnopqrstvz bkloveqjfI
+2014-07-22 22:16:34	--	CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode KNOCK STATUSMSG=@+ CALLERID=g :are supported by this server
+2014-07-22 22:16:34	--	CASEMAPPING=rfc1459 CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 ETRACE CPRIVMSG CNOTICE DEAF=D MONITOR=100 FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: :are supported by this server
+2014-07-22 22:16:34	--	EXTBAN=$,ajrxz WHOX CLIENTVER=3.0 SAFELIST ELIST=CTU :are supported by this server
+2014-07-22 22:16:34	--	There are 187 users and 82819 invisible on 28 servers
+2014-07-22 22:16:34	--	30 :IRC Operators online
+2014-07-22 22:16:34	--	4 :unknown connection(s)
+2014-07-22 22:16:34	--	48115 :channels formed
+2014-07-22 22:16:34	--	I have 4351 clients and 1 servers
+2014-07-22 22:16:34	--	4351 5348 :Current local users 4351, max 5348
+2014-07-22 22:16:34	--	83006 97246 :Current global users 83006, max 97246
+2014-07-22 22:16:34	--	Highest connection count: 5349 (5348 clients) (140320 connections received)
+2014-07-22 22:16:34	--	- sendak.freenode.net Message of the Day -
+2014-07-22 22:16:34	--	- Welcome to sendak.freenode.net in Vilnius, Lithuania, EU.
+2014-07-22 22:16:34	--	- Thanks to Microlink Lietuva (http://www.microlink.lt) for providing this
+2014-07-22 22:16:34	--	- server!
+2014-07-22 22:16:34	--	-
+2014-07-22 22:16:34	--	- SENDAK, MAURICE [1928-2012].  The author of Seven Little
+2014-07-22 22:16:34	--	- Monsters and Where the Wild Things Are, Maurice Sendak was
+2014-07-22 22:16:34	--	- born in Brooklyn, NY, US, to a family of poor Polish
+2014-07-22 22:16:34	--	- immigrants who moved to the US before World War II.  He
+2014-07-22 22:16:34	--	- became an illustrator while in high school.
+2014-07-22 22:16:34	--	-
+2014-07-22 22:16:34	--	- Welcome to freenode - supporting the free and open source
+2014-07-22 22:16:34	--	- software communities since 1998.
+2014-07-22 22:16:34	--	-
+2014-07-22 22:16:34	--	- By connecting to freenode you indicate that you have read and
+2014-07-22 22:16:34	--	- accept our policies as set out on http://www.freenode.net
+2014-07-22 22:16:34	--	- freenode runs an open proxy scanner. Please join #freenode for
+2014-07-22 22:16:34	--	- any network-related questions or queries, where a number of
+2014-07-22 22:16:34	--	- volunteer staff and helpful users will be happy to assist you.
+2014-07-22 22:16:34	--	-
+2014-07-22 22:16:34	--	- You can meet us at FOSSCON (http://www.fosscon.org) where we get
+2014-07-22 22:16:34	--	- together with like-minded FOSS enthusiasts for talks and
+2014-07-22 22:16:34	--	- real-life collaboration.
+2014-07-22 22:16:34	--	-
+2014-07-22 22:16:34	--	- We would like to thank Private Internet Access
+2014-07-22 22:16:34	--	- (https://www.privateinternetaccess.com/) and the other
+2014-07-22 22:16:34	--	- organisations that help keep freenode and our other projects
+2014-07-22 22:16:34	--	- running for their sustained support.
+2014-07-22 22:16:34	--	-
+2014-07-22 22:16:34	--	- In particular we would like to thank the sponsor
+2014-07-22 22:16:34	--	- of this server, details of which can be found above.
+2014-07-22 22:16:34	--	-
+2014-07-22 22:16:34	--	- ***************************************************************
+2014-07-22 22:16:34	--	- Please read http://blog.freenode.net/2010/11/be-safe-out-there/
+2014-07-22 22:16:35	--	- ***************************************************************
+2014-07-22 22:16:35	--	End of /MOTD command.
+2014-07-22 22:16:35	--	User mode [+i] by dfrown_
+2014-07-22 22:16:40	--	NickServ (NickServ@services.): dfrown_ is not a registered nickname.
+2014-07-22 22:24:52	--	irc: connected to chat.freenode.net/6667 (84.240.3.129)
+2014-07-22 22:24:52	--	cameron.freenode.net (cameron.freenode.net): *** Looking up your hostname...
+2014-07-22 22:24:53	--	cameron.freenode.net (cameron.freenode.net): *** Checking Ident
+2014-07-22 22:24:53	--	cameron.freenode.net (cameron.freenode.net): *** Found your hostname
+2014-07-23 11:49:17	--	irc: connected to chat.freenode.net/6667 (193.219.128.49)
+2014-07-23 11:49:17	--	sendak.freenode.net (sendak.freenode.net): *** Looking up your hostname...
+2014-07-23 11:49:17	--	sendak.freenode.net (sendak.freenode.net): *** Checking Ident
+2014-07-23 11:49:17	--	sendak.freenode.net (sendak.freenode.net): *** Found your hostname
+2014-07-23 11:49:23	--	sendak.freenode.net (sendak.freenode.net): *** No Ident response
+2014-07-23 11:49:24	--	irc: nickname "dfrown" is already in use, trying nickname "dfrown_"
+2014-07-23 11:49:24	--	Welcome to the freenode Internet Relay Chat Network dfrown_
+2014-07-23 11:49:24	--	MSG(nickserv): identify ******
+2014-07-23 11:49:24	--	Your host is sendak.freenode.net[193.219.128.49/6667], running version ircd-seven-1.1.3
+2014-07-23 11:49:24	--	This server was created Tue Apr 8 2014 at 17:59:15 EEST
+2014-07-23 11:49:24	--	sendak.freenode.net ircd-seven-1.1.3 DOQRSZaghilopswz CFILMPQSbcefgijklmnopqrstvz bkloveqjfI
+2014-07-23 11:49:24	--	CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode KNOCK STATUSMSG=@+ CALLERID=g :are supported by this server
+2014-07-23 11:49:24	--	CASEMAPPING=rfc1459 CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 ETRACE CPRIVMSG CNOTICE DEAF=D MONITOR=100 FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: :are supported by this server
+2014-07-23 11:49:24	--	EXTBAN=$,ajrxz WHOX CLIENTVER=3.0 SAFELIST ELIST=CTU :are supported by this server
+2014-07-23 11:49:24	--	There are 195 users and 96495 invisible on 28 servers
+2014-07-23 11:49:24	--	30 :IRC Operators online
+2014-07-23 11:49:24	--	12 :unknown connection(s)
+2014-07-23 11:49:24	--	49569 :channels formed
+2014-07-23 11:49:24	--	I have 5361 clients and 1 servers
+2014-07-23 11:49:24	--	5361 5365 :Current local users 5361, max 5365
+2014-07-23 11:49:24	--	96690 97246 :Current global users 96690, max 97246
+2014-07-23 11:49:24	--	Highest connection count: 5366 (5365 clients) (152954 connections received)
+2014-07-23 11:49:24	--	- sendak.freenode.net Message of the Day -
+2014-07-23 11:49:24	--	- Welcome to sendak.freenode.net in Vilnius, Lithuania, EU.
+2014-07-23 11:49:24	--	- Thanks to Microlink Lietuva (http://www.microlink.lt) for providing this
+2014-07-23 11:49:24	--	- server!
+2014-07-23 11:49:24	--	-
+2014-07-23 11:49:24	--	- SENDAK, MAURICE [1928-2012].  The author of Seven Little
+2014-07-23 11:49:24	--	- Monsters and Where the Wild Things Are, Maurice Sendak was
+2014-07-23 11:49:24	--	- born in Brooklyn, NY, US, to a family of poor Polish
+2014-07-23 11:49:24	--	- immigrants who moved to the US before World War II.  He
+2014-07-23 11:49:24	--	- became an illustrator while in high school.
+2014-07-23 11:49:24	--	-
+2014-07-23 11:49:24	--	- Welcome to freenode - supporting the free and open source
+2014-07-23 11:49:24	--	- software communities since 1998.
+2014-07-23 11:49:24	--	-
+2014-07-23 11:49:24	--	- By connecting to freenode you indicate that you have read and
+2014-07-23 11:49:24	--	- accept our policies as set out on http://www.freenode.net
+2014-07-23 11:49:24	--	- freenode runs an open proxy scanner. Please join #freenode for
+2014-07-23 11:49:24	--	- any network-related questions or queries, where a number of
+2014-07-23 11:49:24	--	- volunteer staff and helpful users will be happy to assist you.
+2014-07-23 11:49:24	--	-
+2014-07-23 11:49:24	--	- You can meet us at FOSSCON (http://www.fosscon.org) where we get
+2014-07-23 11:49:24	--	- together with like-minded FOSS enthusiasts for talks and
+2014-07-23 11:49:24	--	- real-life collaboration.
+2014-07-23 11:49:24	--	-
+2014-07-23 11:49:24	--	- We would like to thank Private Internet Access
+2014-07-23 11:49:24	--	- (https://www.privateinternetaccess.com/) and the other
+2014-07-23 11:49:24	--	- organisations that help keep freenode and our other projects
+2014-07-23 11:49:24	--	- running for their sustained support.
+2014-07-23 11:49:24	--	-
+2014-07-23 11:49:24	--	- In particular we would like to thank the sponsor
+2014-07-23 11:49:24	--	- of this server, details of which can be found above.
+2014-07-23 11:49:24	--	-
+2014-07-23 11:49:24	--	- ***************************************************************
+2014-07-23 11:49:24	--	- Please read http://blog.freenode.net/2010/11/be-safe-out-there/
+2014-07-23 11:49:24	--	- ***************************************************************
+2014-07-23 11:49:24	--	End of /MOTD command.
+2014-07-23 11:49:24	--	User mode [+i] by dfrown_
+2014-07-23 11:49:30	--	NickServ (NickServ@services.): dfrown_ is not a registered nickname.
+2014-07-23 11:49:49	--	dfrown: Nickname is already in use.
+2014-07-23 11:51:15	--	irc: connected to chat.freenode.net/6667 (37.48.83.75)
+2014-07-23 11:51:15	--	wilhelm.freenode.net (wilhelm.freenode.net): *** Looking up your hostname...
+2014-07-23 11:51:15	--	wilhelm.freenode.net (wilhelm.freenode.net): *** Checking Ident
+2014-07-23 11:51:16	--	wilhelm.freenode.net (wilhelm.freenode.net): *** Found your hostname
+2014-07-23 11:51:24	--	wilhelm.freenode.net (wilhelm.freenode.net): *** No Ident response
+2014-07-23 11:51:24	--	Welcome to the freenode Internet Relay Chat Network dfrown
+2014-07-23 11:51:24	--	MSG(nickserv): identify ******
+2014-07-23 11:51:24	--	Your host is wilhelm.freenode.net[37.48.83.75/6667], running version ircd-seven-1.1.3
+2014-07-23 11:51:24	--	This server was created Sat Mar 8 2014 at 15:57:41 CET
+2014-07-23 11:51:24	--	wilhelm.freenode.net ircd-seven-1.1.3 DOQRSZaghilopswz CFILMPQSbcefgijklmnopqrstvz bkloveqjfI
+2014-07-23 11:51:24	--	CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode KNOCK STATUSMSG=@+ CALLERID=g :are supported by this server
+2014-07-23 11:51:24	--	CASEMAPPING=rfc1459 CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 ETRACE CPRIVMSG CNOTICE DEAF=D MONITOR=100 FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: :are supported by this server
+2014-07-23 11:51:24	--	EXTBAN=$,ajrxz WHOX CLIENTVER=3.0 SAFELIST ELIST=CTU :are supported by this server
+2014-07-23 11:51:24	--	There are 195 users and 96478 invisible on 28 servers
+2014-07-23 11:51:24	--	30 :IRC Operators online
+2014-07-23 11:51:24	--	26 :unknown connection(s)
+2014-07-23 11:51:24	--	49591 :channels formed
+2014-07-23 11:51:24	--	I have 8668 clients and 1 servers
+2014-07-23 11:51:24	--	8668 11257 :Current local users 8668, max 11257
+2014-07-23 11:51:24	--	96673 97885 :Current global users 96673, max 97885
+2014-07-23 11:51:24	--	Highest connection count: 11258 (11257 clients) (868670 connections received)
+2014-07-23 11:51:24	--	- wilhelm.freenode.net Message of the Day -
+2014-07-23 11:51:24	--	- Welcome to wilhelm.freenode.net in Netherlands, EU.
+2014-07-23 11:51:24	--	- Thanks to https://www.cubecraftgames.net for sponsoring
+2014-07-23 11:51:24	--	- this server!
+2014-07-23 11:51:24	--	-
+2014-07-23 11:51:24	--	- Welcome to freenode - supporting the free and open source
+2014-07-23 11:51:24	--	- software communities since 1998.
+2014-07-23 11:51:24	--	-
+2014-07-23 11:51:24	--	- By connecting to freenode you indicate that you have read and
+2014-07-23 11:51:24	--	- accept our policies as set out on http://www.freenode.net
+2014-07-23 11:51:24	--	- freenode runs an open proxy scanner. Please join #freenode for
+2014-07-23 11:51:24	--	- any network-related questions or queries, where a number of
+2014-07-23 11:51:24	--	- volunteer staff and helpful users will be happy to assist you.
+2014-07-23 11:51:24	--	-
+2014-07-23 11:51:24	--	- You can meet us at FOSSCON (http://www.fosscon.org) where we get
+2014-07-23 11:51:24	--	- together with like-minded FOSS enthusiasts for talks and
+2014-07-23 11:51:24	--	- real-life collaboration.
+2014-07-23 11:51:24	--	-
+2014-07-23 11:51:24	--	- We would like to thank Private Internet Access
+2014-07-23 11:51:24	--	- (https://www.privateinternetaccess.com/) and the other
+2014-07-23 11:51:24	--	- organisations that help keep freenode and our other projects
+2014-07-23 11:51:24	--	- running for their sustained support.
+2014-07-23 11:51:24	--	-
+2014-07-23 11:51:24	--	- In particular we would like to thank the sponsor
+2014-07-23 11:51:24	--	- of this server, details of which can be found above.
+2014-07-23 11:51:24	--	-
+2014-07-23 11:51:24	--	- ***************************************************************
+2014-07-23 11:51:24	--	- Please read http://blog.freenode.net/2010/11/be-safe-out-there/
+2014-07-23 11:51:24	--	- ***************************************************************
+2014-07-23 11:51:24	--	End of /MOTD command.
+2014-07-23 11:51:24	--	User mode [+i] by dfrown
+2014-07-23 11:51:24	--	NickServ (NickServ@services.): This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify <password>.
+2014-07-23 11:51:30	--	NickServ (NickServ@services.): You are now identified for dfrown.
+2014-07-23 12:08:46	--	irc: connected to chat.freenode.net/6667 (195.148.124.79)
+2014-07-23 12:08:46	--	rajaniemi.freenode.net (rajaniemi.freenode.net): *** Looking up your hostname...
+2014-07-23 12:08:47	--	rajaniemi.freenode.net (rajaniemi.freenode.net): *** Checking Ident
+2014-07-23 12:08:47	--	rajaniemi.freenode.net (rajaniemi.freenode.net): *** Found your hostname
+2014-07-23 12:08:57	--	rajaniemi.freenode.net (rajaniemi.freenode.net): *** No Ident response
+2014-07-23 12:08:57	--	Welcome to the freenode Internet Relay Chat Network dfrown
+2014-07-23 12:08:57	--	MSG(nickserv): identify ******
+2014-07-23 12:08:57	--	Your host is rajaniemi.freenode.net[195.148.124.79/6667], running version ircd-seven-1.1.3
+2014-07-23 12:08:57	--	This server was created Mon Dec 31 2012 at 23:37:13 EET
+2014-07-23 12:08:57	--	rajaniemi.freenode.net ircd-seven-1.1.3 DOQRSZaghilopswz CFILMPQSbcefgijklmnopqrstvz bkloveqjfI
+2014-07-23 12:08:57	--	CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode KNOCK STATUSMSG=@+ CALLERID=g :are supported by this server
+2014-07-23 12:08:57	--	CASEMAPPING=rfc1459 CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 ETRACE CPRIVMSG CNOTICE DEAF=D MONITOR=100 FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: :are supported by this server
+2014-07-23 12:08:57	--	EXTBAN=$,ajrxz WHOX CLIENTVER=3.0 SAFELIST ELIST=CTU :are supported by this server
+2014-07-23 12:08:57	--	There are 197 users and 96375 invisible on 28 servers
+2014-07-23 12:08:57	--	30 :IRC Operators online
+2014-07-23 12:08:57	--	8 :unknown connection(s)
+2014-07-23 12:08:57	--	49587 :channels formed
+2014-07-23 12:08:57	--	I have 9836 clients and 1 servers
+2014-07-23 12:08:57	--	9836 11067 :Current local users 9836, max 11067
+2014-07-23 12:08:57	--	96572 97885 :Current global users 96572, max 97885
+2014-07-23 12:08:57	--	Highest connection count: 11068 (11067 clients) (874865 connections received)
+2014-07-23 12:08:57	--	- rajaniemi.freenode.net Message of the Day -
+2014-07-23 12:08:57	--	- Welcome to rajaniemi.freenode.net in Helsinki, Finland.  Our thanks to
+2014-07-23 12:08:57	--	- Aalto University for sponsoring this server!
+2014-07-23 12:08:57	--	-
+2014-07-23 12:08:57	--	- RAJANIEMI, Hannu  (1978-). Born in Ylivieska, Finland, Rajaniemi is the
+2014-07-23 12:08:57	--	- author of two novels and several short stories, and his debut novel 'The
+2014-07-23 12:08:57	--	- Quantum Thief' was nominated for the 2011 Locus Award for Best First
+2014-07-23 12:08:57	--	- Novel.  Rajaniemi lives in Edinburgh, Scotland where he is founding
+2014-07-23 12:08:57	--	- director of ThinkTank Maths, a commercial research organisation.
+2014-07-23 12:08:57	--	-
+2014-07-23 12:08:57	--	-
+2014-07-23 12:08:57	--	- Welcome to freenode - supporting the free and open source
+2014-07-23 12:08:57	--	- software communities since 1998.
+2014-07-23 12:08:57	--	-
+2014-07-23 12:08:57	--	- By connecting to freenode you indicate that you have read and
+2014-07-23 12:08:57	--	- accept our policies as set out on http://www.freenode.net
+2014-07-23 12:08:57	--	- freenode runs an open proxy scanner. Please join #freenode for
+2014-07-23 12:08:57	--	- any network-related questions or queries, where a number of
+2014-07-23 12:08:57	--	- volunteer staff and helpful users will be happy to assist you.
+2014-07-23 12:08:57	--	-
+2014-07-23 12:08:57	--	- You can meet us at FOSSCON (http://www.fosscon.org) where we get
+2014-07-23 12:08:57	--	- together with like-minded FOSS enthusiasts for talks and
+2014-07-23 12:08:57	--	- real-life collaboration.
+2014-07-23 12:08:57	--	-
+2014-07-23 12:08:57	--	- We would like to thank Private Internet Access
+2014-07-23 12:08:57	--	- (https://www.privateinternetaccess.com/) and the other
+2014-07-23 12:08:57	--	- organisations that help keep freenode and our other projects
+2014-07-23 12:08:57	--	- running for their sustained support.
+2014-07-23 12:08:57	--	-
+2014-07-23 12:08:57	--	- In particular we would like to thank the sponsor
+2014-07-23 12:08:57	--	- of this server, details of which can be found above.
+2014-07-23 12:08:57	--	-
+2014-07-23 12:08:57	--	- ***************************************************************
+2014-07-23 12:08:57	--	- Please read http://blog.freenode.net/2010/11/be-safe-out-there/
+2014-07-23 12:08:57	--	- ***************************************************************
+2014-07-23 12:08:57	--	End of /MOTD command.
+2014-07-23 12:08:57	--	User mode [+i] by dfrown
+2014-07-23 12:09:12	--	NickServ (NickServ@services.): This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify <password>.
+2014-07-23 12:09:12	--	NickServ (NickServ@services.): You are now identified for dfrown.
+2014-07-23 12:28:04	--	irc: disconnected from server

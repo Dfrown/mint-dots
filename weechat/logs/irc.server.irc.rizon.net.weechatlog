@@ -1,0 +1,265 @@
+2014-07-22 22:16:48	--	irc: connecting to server irc.rizon.net/6667...
+2014-07-22 22:16:49	--	irc: connected to irc.rizon.net/6667 (76.72.161.18)
+2014-07-22 22:16:49	--	* :Please wait while we process your connection.
+2014-07-22 22:16:49	--	irc.broke-it.com (irc.broke-it.com): *** Looking up your hostname...
+2014-07-22 22:16:49	--	irc.broke-it.com (irc.broke-it.com): *** Checking Ident
+2014-07-22 22:16:49	--	irc.broke-it.com (irc.broke-it.com): *** Found your hostname
+2014-07-22 22:16:50	--	irc.broke-it.com (irc.broke-it.com): *** No Ident response
+2014-07-22 22:16:50	--	irc: nickname "dan" is already in use, trying nickname "dan1"
+2014-07-22 22:16:50	--	irc.broke-it.com (irc.broke-it.com): *** Your host is masked (Rizon-53C190C9.socal.res.rr.com)
+2014-07-22 22:16:50	--	Welcome to the Rizon Internet Relay Chat Network dan1
+2014-07-22 22:16:50	--	Your host is irc.broke-it.com, running version hybrid-7.2.3+plexus-3.1.0(20140509_0-542)
+2014-07-22 22:16:50	--	This server was created Jun 11 2014 at 16:40:32
+2014-07-22 22:16:50	--	irc.broke-it.com hybrid-7.2.3+plexus-3.1.0(20140509_0-542) CDFGNRSUWXabcdfgijklnopqrsuwxyz BIMNORSabcehiklmnopqstvz Iabehkloqv
+2014-07-22 22:16:50	--	CALLERID CASEMAPPING=rfc1459 DEAF=D KICKLEN=160 MODES=4 NICKLEN=30 TOPICLEN=390 PREFIX=(qaohv)~&@%+ STATUSMSG=~&@%+ NETWORK=Rizon MAXLIST=beI:250 TARGMAX=ACCEPT:,KICK:1,LIST:1,NAMES:1,NOTICE:4,PRIVMSG:4,WHOIS:1 CHANTYPES=# :are supported by this server
+2014-07-22 22:16:50	--	CHANLIMIT=#:75 CHANNELLEN=50 CHANMODES=beI,k,l,BCMNORScimnpstz AWAYLEN=160 KNOCK NAMESX UHNAMES ELIST=CMNTU SAFELIST FNC EXCEPTS=e INVEX=I :are supported by this server
+2014-07-22 22:16:50	--	90CAAGJIT :your unique ID
+2014-07-22 22:16:50	--	There are 35 users and 19677 invisible on 21 servers
+2014-07-22 22:16:50	--	80 :IRC Operators online
+2014-07-22 22:16:50	--	3 :unknown connection(s)
+2014-07-22 22:16:50	--	21412 :channels formed
+2014-07-22 22:16:50	--	I have 19712 clients and 21 servers
+2014-07-22 22:16:50	--	19712 23046 :Current local users 19712, max 23046
+2014-07-22 22:16:50	--	19712 23046 :Current global users 19712, max 23046
+2014-07-22 22:16:50	--	- irc.broke-it.com Message of the Day -
+2014-07-22 22:16:50	--	-    Welcome to irc.broke-it.com
+2014-07-22 22:16:50	--	-
+2014-07-22 22:16:50	--	-         Now its time for **UPDATED** conversational spanish with grimlock
+2014-07-22 22:16:50	--	-
+2014-07-22 22:16:50	--	-    Las ardillas. Me persiguen. Quieren mis tuercas pero no pueden tenerlas.
+2014-07-22 22:16:50	--	-
+2014-07-22 22:16:50	--	-    no habla? the squirrels. they chase me. they want my nuts but they
+2014-07-22 22:16:50	--	-    can not have them.
+2014-07-22 22:16:50	--	-
+2014-07-22 22:16:50	--	-    El gato en mi pantalones, quiere mi burrito. Pero el no puede
+2014-07-22 22:16:50	--	-    tenerlo. No compartire con el.
+2014-07-22 22:16:50	--	-
+2014-07-22 22:16:50	--	-    Still no habla? the cat in my pants, he wants my burrito. But he can
+2014-07-22 22:16:50	--	-    not have it. I will not share with him.
+2014-07-22 22:16:50	--	-
+2014-07-22 22:16:50	--	-    Por que el perro que lame mis bolas? Debo de haber banado en mantequilla
+2014-07-22 22:16:50	--	-    de mani de nuevo ...
+2014-07-22 22:16:50	--	-
+2014-07-22 22:16:50	--	-    Really!?!? No habla?! You really need to work on your spanglish skills..
+2014-07-22 22:16:50	--	-    Why is the dog licking my balls? I must have bathed in peanut butter
+2014-07-22 22:16:50	--	-    again...
+2014-07-22 22:16:50	--	-
+2014-07-22 22:16:50	--	-    Cuando salgo de la peluqueria despues de tener mi espalda afeitado, me
+2014-07-22 22:16:50	--	-    doy cuenta de que seria mucho mas barato tener un rebano de cabras.
+2014-07-22 22:16:50	--	-
+2014-07-22 22:16:50	--	-    You really need to sign up for my formal spanish lessons.  I can teach
+2014-07-22 22:16:50	--	-    many more useful phrases phrases!  When I leave the barber after having
+2014-07-22 22:16:50	--	-    my back shaved, I realize it would be much cheaper to own a herd of goats.
+2014-07-22 22:16:50	--	-
+2014-07-22 22:16:50	--	-    Usted dice que el tomate, digo que me gusta la leche con chocolate y
+2014-07-22 22:16:50	--	-    panecillos. Has visto a mi cepillo de dientes?
+2014-07-22 22:16:50	--	-
+2014-07-22 22:16:50	--	-    My lesson rates are very reasonable!  I can teach you to splanglish like
+2014-07-22 22:16:50	--	-    I do!  You say tomato, I say I like chocolate milk and bagels.  Have you
+2014-07-22 22:16:50	--	-    seen my toothbrush?
+2014-07-22 22:16:50	--	-
+2014-07-22 22:16:50	--	-    mi escroto es como un helicóptero de dolor. no recibir un golpe en el oj
+2014-07-22 22:16:50	--	-    o con esa mierda.
+2014-07-22 22:16:50	--	-
+2014-07-22 22:16:50	--	-    I am considering expanding my lessons to french.  Did you know I spoke
+2014-07-22 22:16:50	--	-    french?  I speak it quite well.  My ball sack is like a helicopter of pain.
+2014-07-22 22:16:50	--	-    Do not get hit in the eye with that shit.
+2014-07-22 22:16:50	--	-
+2014-07-22 22:16:50	--	-         This has been conversational spanish with grimlock, time for
+2014-07-22 22:16:50	--	-         something more serious.
+2014-07-22 22:16:50	--	-
+2014-07-22 22:16:50	--	-          oo                            
+2014-07-22 22:16:50	--	-
+2014-07-22 22:16:50	--	- 88d888b. dP d888888b .d8888b. 88d888b. 
+2014-07-22 22:16:50	--	- 88'  `88 88    .d8P' 88'  `88 88'  `88 
+2014-07-22 22:16:50	--	- 88       88  .Y8P    88.  .88 88    88 
+2014-07-22 22:16:50	--	- dP       dP d888888P `88888P' dP    dP
+2014-07-22 22:16:50	--	-
+2014-07-22 22:16:50	--	- Rizon Chat Network -- http://rizon.net
+2014-07-22 22:16:50	--	-
+2014-07-22 22:16:50	--	- Listening on ports: 6660 - 6669, 7000. SSL: 6697, 9999
+2014-07-22 22:16:50	--	-
+2014-07-22 22:16:50	--	- Rules:
+2014-07-22 22:16:50	--	- o No spamming or flooding
+2014-07-22 22:16:50	--	- o No clones or malicious bots
+2014-07-22 22:16:50	--	- o No takeovers
+2014-07-22 22:16:50	--	- o No distribution of child pornography
+2014-07-22 22:16:50	--	- o Clients must respond to VERSION requests
+2014-07-22 22:16:50	--	- o Rizon staff may disconnect clients for any or no reason
+2014-07-22 22:16:50	--	-
+2014-07-22 22:16:50	--	- First steps:
+2014-07-22 22:16:50	--	- o To register your nick: /msg NickServ HELP
+2014-07-22 22:16:50	--	- o To register your channel: /msg ChanServ HELP
+2014-07-22 22:16:50	--	- o To get a vHost: /msg HostServ HELP REQUEST
+2014-07-22 22:16:50	--	- o For other help with Rizon: /join #help
+2014-07-22 22:16:50	--	-
+2014-07-22 22:16:50	--	- Usage of this network is a privilege, not a right. Rizon is a
+2014-07-22 22:16:50	--	- transit provider, therefore no person or entity involved with
+2014-07-22 22:16:50	--	- *.rizon.net or irc.broke-it.com takes any responsibility for
+2014-07-22 22:16:50	--	- users' actions. Absolutely no warranty is expressed or implied.
+2014-07-22 22:16:50	--	End of /MOTD command.
+2014-07-22 22:16:50	--	User mode [+ix] by dan1
+2014-07-22 22:16:50	--	CTCP requested by py-ctcp: VERSION
+2014-07-22 22:16:50	--	CTCP reply to py-ctcp: VERSION WeeChat 0.4.1 (Jun 29 2013)
+2014-07-22 22:16:50	--	Global (service@rizon.net): [Logon News - May 21 2011] First time on Rizon? Be sure to read the FAQ! http://s.rizon.net/FAQ
+2014-07-22 22:16:50	--	Global (service@rizon.net): [Logon News - Dec 16 2013] Own a large/active channel or plan to get one going? Please read http://s.rizon.net/authline
+2014-07-22 22:16:50	--	Global (service@rizon.net): [Random News - Nov 29 2013] Want to make your vhost shiny by adding colors to it? Try your luck in #VIzon
+2014-07-22 22:16:50	--	peer (service@rizon.net): For network safety, your client is being scanned for open proxies by scanner.rizon.net (80.65.51.222). This scan will not harm your computer.
+2014-07-22 22:16:58	--	NickServ (service@rizon.net): This nickname is registered and protected. If it is your
+2014-07-22 22:16:58	--	NickServ (service@rizon.net): nick, type /msg NickServ IDENTIFY password. Otherwise,
+2014-07-22 22:16:58	--	NickServ (service@rizon.net): please choose a different nick.
+2014-07-22 22:17:15	--	MSG(nickserv): identify ******
+2014-07-22 22:17:15	--	User mode [+r] by dfrown
+2014-07-22 22:17:15	--	NickServ (service@rizon.net): Password accepted - you are now recognized.
+2014-07-22 22:17:28	--	#/g/: Cannot join channel (SSL is required)
+2014-07-22 22:17:34	=!=	irc: this buffer is not a channel!
+2014-07-23 11:51:35	--	irc: connecting to server irc.rizon.net/6667...
+2014-07-23 11:51:35	--	irc: connected to irc.rizon.net/6667 (54.88.154.64)
+2014-07-23 11:51:35	--	* :Please wait while we process your connection.
+2014-07-23 11:51:35	--	irc.nova.tf (irc.nova.tf): *** Looking up your hostname...
+2014-07-23 11:51:35	--	irc.nova.tf (irc.nova.tf): *** Checking Ident
+2014-07-23 11:51:35	--	irc.nova.tf (irc.nova.tf): *** Found your hostname
+2014-07-23 11:51:36	--	irc.nova.tf (irc.nova.tf): *** No Ident response
+2014-07-23 11:51:36	--	irc: nickname "dan" is already in use, trying nickname "dan1"
+2014-07-23 11:51:36	--	irc.nova.tf (irc.nova.tf): *** Your host is masked (Rizon-53C190C9.socal.res.rr.com)
+2014-07-23 11:51:36	--	Welcome to the Rizon Internet Relay Chat Network dan1
+2014-07-23 11:51:36	--	Your host is irc.nova.tf, running version hybrid-7.2.3+plexus-3.1.0(20140630_0-542)
+2014-07-23 11:51:36	--	This server was created Jul  1 2014 at 20:34:06
+2014-07-23 11:51:36	--	irc.nova.tf hybrid-7.2.3+plexus-3.1.0(20140630_0-542) CDFGNRSUWXabcdfgijklnopqrsuwxyz BIMNORSabcehiklmnopqstvz Iabehkloqv
+2014-07-23 11:51:36	--	CALLERID CASEMAPPING=rfc1459 DEAF=D KICKLEN=160 MODES=4 NICKLEN=30 TOPICLEN=390 PREFIX=(qaohv)~&@%+ STATUSMSG=~&@%+ NETWORK=Rizon MAXLIST=beI:250 TARGMAX=ACCEPT:,KICK:1,LIST:1,NAMES:1,NOTICE:4,PRIVMSG:4,WHOIS:1 CHANTYPES=# :are supported by this server
+2014-07-23 11:51:36	--	CHANLIMIT=#:75 CHANNELLEN=50 CHANMODES=beI,k,l,BCMNORScimnpstz FNC KNOCK NAMESX UHNAMES ELIST=CMNTU SAFELIST AWAYLEN=160 EXCEPTS=e INVEX=I :are supported by this server
+2014-07-23 11:51:36	--	98CAAC4G2 :your unique ID
+2014-07-23 11:51:36	--	There are 35 users and 21879 invisible on 21 servers
+2014-07-23 11:51:36	--	79 :IRC Operators online
+2014-07-23 11:51:37	--	5 :unknown connection(s)
+2014-07-23 11:51:37	--	21620 :channels formed
+2014-07-23 11:51:37	--	I have 21914 clients and 21 servers
+2014-07-23 11:51:37	--	21914 23046 :Current local users 21914, max 23046
+2014-07-23 11:51:37	--	21914 23046 :Current global users 21914, max 23046
+2014-07-23 11:51:37	--	- irc.nova.tf Message of the Day -
+2014-07-23 11:51:37	--	-          oo                            
+2014-07-23 11:51:37	--	-
+2014-07-23 11:51:37	--	- 88d888b. dP d888888b .d8888b. 88d888b. 
+2014-07-23 11:51:37	--	- 88'  `88 88    .d8P' 88'  `88 88'  `88 
+2014-07-23 11:51:37	--	- 88       88  .Y8P    88.  .88 88    88 
+2014-07-23 11:51:37	--	- dP       dP d888888P `88888P' dP    dP
+2014-07-23 11:51:37	--	-
+2014-07-23 11:51:37	--	- Rizon Chat Network -- http://rizon.net
+2014-07-23 11:51:37	--	-
+2014-07-23 11:51:37	--	- Listening on ports: 6660 - 6669, 7000. SSL: 6697, 9999
+2014-07-23 11:51:37	--	-
+2014-07-23 11:51:37	--	- Your Local Operators:
+2014-07-23 11:51:37	--	- [A] Clear - Server Administrator
+2014-07-23 11:51:37	--	- [O] danneh_ - Local Operator / Dev Team
+2014-07-23 11:51:37	--	- [O] Dwarf - Local Operator / Services Operator
+2014-07-23 11:51:37	--	-
+2014-07-23 11:51:37	--	- Rules:
+2014-07-23 11:51:37	--	- o No spamming or flooding
+2014-07-23 11:51:37	--	- o No clones or malicious bots
+2014-07-23 11:51:37	--	- o No takeovers
+2014-07-23 11:51:37	--	- o No distribution of child pornography
+2014-07-23 11:51:37	--	- o Clients must respond to VERSION requests
+2014-07-23 11:51:37	--	- o Rizon staff may disconnect clients for any or no reason
+2014-07-23 11:51:37	--	-
+2014-07-23 11:51:37	--	- First steps:
+2014-07-23 11:51:37	--	- o To register your nick: /msg NickServ HELP
+2014-07-23 11:51:37	--	- o To register your channel: /msg ChanServ HELP
+2014-07-23 11:51:37	--	- o To get a vHost: /msg HostServ HELP REQUEST
+2014-07-23 11:51:37	--	- o For other help with Rizon: /join #help
+2014-07-23 11:51:37	--	- o Join #nova.tf to get or to give support on this client server.
+2014-07-23 11:51:37	--	-
+2014-07-23 11:51:37	--	- Usage of this network is a privilege, not a right. Rizon is a
+2014-07-23 11:51:37	--	- transit provider, therefore no person or entity involved with
+2014-07-23 11:51:37	--	- *.rizon.net or irc.nova.tf takes any responsibility for
+2014-07-23 11:51:37	--	- users' actions. Absolutely no warranty is expressed or implied.
+2014-07-23 11:51:37	--	End of /MOTD command.
+2014-07-23 11:51:37	--	User mode [+ix] by dan1
+2014-07-23 11:51:37	--	CTCP requested by py-ctcp: VERSION
+2014-07-23 11:51:37	--	CTCP reply to py-ctcp: VERSION WeeChat 0.4.1 (Jun 29 2013)
+2014-07-23 11:51:37	--	Global (service@rizon.net): [Logon News - May 21 2011] First time on Rizon? Be sure to read the FAQ! http://s.rizon.net/FAQ
+2014-07-23 11:51:37	--	Global (service@rizon.net): [Logon News - Dec 16 2013] Own a large/active channel or plan to get one going? Please read http://s.rizon.net/authline
+2014-07-23 11:51:37	--	Global (service@rizon.net): [Random News - Mar 20 2009] Idle on Rizon a lot? Why not play our idlerpg game, you can check it out at #RizonIRPG for more information visit the website http://idlerpg.rizon.net -Rizon Staff
+2014-07-23 11:51:37	--	peer (service@rizon.net): For network safety, your client is being scanned for open proxies by scanner.rizon.net (80.65.51.222). This scan will not harm your computer.
+2014-07-23 11:51:45	--	NickServ (service@rizon.net): This nickname is registered and protected. If it is your
+2014-07-23 11:51:45	--	NickServ (service@rizon.net): nick, type /msg NickServ IDENTIFY password. Otherwise,
+2014-07-23 11:51:45	--	NickServ (service@rizon.net): please choose a different nick.
+2014-07-23 11:52:00	--	MSG(nickserv): identify ******
+2014-07-23 11:52:01	--	User mode [+r] by DanKai
+2014-07-23 11:52:01	--	NickServ (service@rizon.net): Password accepted - you are now recognized.
+2014-07-23 12:09:27	--	irc: connecting to server irc.rizon.net/6667...
+2014-07-23 12:09:27	--	irc: connected to irc.rizon.net/6667 (54.88.154.64)
+2014-07-23 12:09:27	--	* :Please wait while we process your connection.
+2014-07-23 12:09:27	--	irc.nova.tf (irc.nova.tf): *** Looking up your hostname...
+2014-07-23 12:09:27	--	irc.nova.tf (irc.nova.tf): *** Checking Ident
+2014-07-23 12:09:27	--	irc.nova.tf (irc.nova.tf): *** Found your hostname
+2014-07-23 12:09:28	--	irc.nova.tf (irc.nova.tf): *** No Ident response
+2014-07-23 12:09:28	--	irc: nickname "dan" is already in use, trying nickname "dan1"
+2014-07-23 12:09:28	--	irc.nova.tf (irc.nova.tf): *** Your host is masked (Rizon-53C190C9.socal.res.rr.com)
+2014-07-23 12:09:28	--	Welcome to the Rizon Internet Relay Chat Network dan1
+2014-07-23 12:09:28	--	Your host is irc.nova.tf, running version hybrid-7.2.3+plexus-3.1.0(20140630_0-542)
+2014-07-23 12:09:28	--	This server was created Jul  1 2014 at 20:34:06
+2014-07-23 12:09:28	--	irc.nova.tf hybrid-7.2.3+plexus-3.1.0(20140630_0-542) CDFGNRSUWXabcdfgijklnopqrsuwxyz BIMNORSabcehiklmnopqstvz Iabehkloqv
+2014-07-23 12:09:28	--	CALLERID CASEMAPPING=rfc1459 DEAF=D KICKLEN=160 MODES=4 NICKLEN=30 TOPICLEN=390 PREFIX=(qaohv)~&@%+ STATUSMSG=~&@%+ NETWORK=Rizon MAXLIST=beI:250 TARGMAX=ACCEPT:,KICK:1,LIST:1,NAMES:1,NOTICE:4,PRIVMSG:4,WHOIS:1 CHANTYPES=# :are supported by this server
+2014-07-23 12:09:28	--	CHANLIMIT=#:75 CHANNELLEN=50 CHANMODES=beI,k,l,BCMNORScimnpstz FNC KNOCK NAMESX UHNAMES ELIST=CMNTU SAFELIST AWAYLEN=160 EXCEPTS=e INVEX=I :are supported by this server
+2014-07-23 12:09:28	--	98CAAC4KQ :your unique ID
+2014-07-23 12:09:28	--	There are 35 users and 22009 invisible on 21 servers
+2014-07-23 12:09:28	--	79 :IRC Operators online
+2014-07-23 12:09:29	--	2 :unknown connection(s)
+2014-07-23 12:09:29	--	21627 :channels formed
+2014-07-23 12:09:29	--	I have 22044 clients and 21 servers
+2014-07-23 12:09:29	--	22044 23046 :Current local users 22044, max 23046
+2014-07-23 12:09:29	--	22044 23046 :Current global users 22044, max 23046
+2014-07-23 12:09:29	--	- irc.nova.tf Message of the Day -
+2014-07-23 12:09:29	--	-          oo                            
+2014-07-23 12:09:29	--	-
+2014-07-23 12:09:29	--	- 88d888b. dP d888888b .d8888b. 88d888b. 
+2014-07-23 12:09:29	--	- 88'  `88 88    .d8P' 88'  `88 88'  `88 
+2014-07-23 12:09:29	--	- 88       88  .Y8P    88.  .88 88    88 
+2014-07-23 12:09:29	--	- dP       dP d888888P `88888P' dP    dP
+2014-07-23 12:09:29	--	-
+2014-07-23 12:09:29	--	- Rizon Chat Network -- http://rizon.net
+2014-07-23 12:09:29	--	-
+2014-07-23 12:09:29	--	- Listening on ports: 6660 - 6669, 7000. SSL: 6697, 9999
+2014-07-23 12:09:29	--	-
+2014-07-23 12:09:29	--	- Your Local Operators:
+2014-07-23 12:09:29	--	- [A] Clear - Server Administrator
+2014-07-23 12:09:29	--	- [O] danneh_ - Local Operator / Dev Team
+2014-07-23 12:09:29	--	- [O] Dwarf - Local Operator / Services Operator
+2014-07-23 12:09:29	--	-
+2014-07-23 12:09:29	--	- Rules:
+2014-07-23 12:09:29	--	- o No spamming or flooding
+2014-07-23 12:09:29	--	- o No clones or malicious bots
+2014-07-23 12:09:29	--	- o No takeovers
+2014-07-23 12:09:29	--	- o No distribution of child pornography
+2014-07-23 12:09:29	--	- o Clients must respond to VERSION requests
+2014-07-23 12:09:29	--	- o Rizon staff may disconnect clients for any or no reason
+2014-07-23 12:09:29	--	-
+2014-07-23 12:09:29	--	- First steps:
+2014-07-23 12:09:29	--	- o To register your nick: /msg NickServ HELP
+2014-07-23 12:09:29	--	- o To register your channel: /msg ChanServ HELP
+2014-07-23 12:09:29	--	- o To get a vHost: /msg HostServ HELP REQUEST
+2014-07-23 12:09:29	--	- o For other help with Rizon: /join #help
+2014-07-23 12:09:29	--	- o Join #nova.tf to get or to give support on this client server.
+2014-07-23 12:09:29	--	-
+2014-07-23 12:09:29	--	- Usage of this network is a privilege, not a right. Rizon is a
+2014-07-23 12:09:29	--	- transit provider, therefore no person or entity involved with
+2014-07-23 12:09:29	--	- *.rizon.net or irc.nova.tf takes any responsibility for
+2014-07-23 12:09:29	--	- users' actions. Absolutely no warranty is expressed or implied.
+2014-07-23 12:09:29	--	End of /MOTD command.
+2014-07-23 12:09:29	--	User mode [+ix] by dan1
+2014-07-23 12:09:29	--	CTCP requested by py-ctcp: VERSION
+2014-07-23 12:09:29	--	CTCP reply to py-ctcp: VERSION WeeChat 0.4.1 (Jun 29 2013)
+2014-07-23 12:09:29	--	Global (service@rizon.net): [Logon News - May 21 2011] First time on Rizon? Be sure to read the FAQ! http://s.rizon.net/FAQ
+2014-07-23 12:09:29	--	Global (service@rizon.net): [Logon News - Dec 16 2013] Own a large/active channel or plan to get one going? Please read http://s.rizon.net/authline
+2014-07-23 12:09:29	--	Global (service@rizon.net): [Random News - Mar 20 2009] Idle on Rizon a lot? Why not play our idlerpg game, you can check it out at #RizonIRPG for more information visit the website http://idlerpg.rizon.net -Rizon Staff
+2014-07-23 12:09:29	--	peer (service@rizon.net): For network safety, your client is being scanned for open proxies by scanner.rizon.net (80.65.51.219). This scan will not harm your computer.
+2014-07-23 12:09:35	--	NickServ (service@rizon.net): This nickname is registered and protected. If it is your
+2014-07-23 12:09:35	--	NickServ (service@rizon.net): nick, type /msg NickServ IDENTIFY password. Otherwise,
+2014-07-23 12:09:35	--	NickServ (service@rizon.net): please choose a different nick.
+2014-07-23 12:09:51	--	MSG(nickserv): idenify dr.wu1
+2014-07-23 12:09:51	--	NickServ (service@rizon.net): Unknown command idenify.  "/msg NickServ HELP" for help.
+2014-07-23 12:10:03	--	MSG(nickserv): identify ******
+2014-07-23 12:10:03	--	User mode [+r] by DanKai
+2014-07-23 12:10:03	--	NickServ (service@rizon.net): Password accepted - you are now recognized.
+2014-07-23 12:10:21	--	Chat (Chat@rizon.net): [#chat] Welcome to #Chat - now serving  color   induced   headaches  for a limited time only!
+2014-07-23 12:28:14	--	irc: disconnected from server

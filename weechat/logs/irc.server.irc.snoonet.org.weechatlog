@@ -1,0 +1,799 @@
+2014-01-26 11:26:26	--	irc: connecting to server irc.snoonet.org/6667...
+2014-01-26 11:26:26	--	irc: connected to irc.snoonet.org/6667 (146.185.140.50)
+2014-01-26 11:26:26	--	amsterdam.snoonet.org (amsterdam.snoonet.org): *** Looking up your hostname...
+2014-01-26 11:26:27	--	amsterdam.snoonet.org (amsterdam.snoonet.org): *** If you are having problems connecting due to ping timeouts, please type /quote PONG @MBgLVDwBP or /raw PONG @MBgLVDwBP now.
+2014-01-26 11:26:27	--	This server has anti-spambot mechanisms enabled.
+2014-01-26 11:26:27	--	Malicious bots, spammers, and other automated systems of dubious origin are NOT welcome here.
+2014-01-26 11:26:27	--	CTCP requested by amsterdam.snoonet.org: TIME
+2014-01-26 11:26:27	--	CTCP reply to amsterdam.snoonet.org: TIME Sun, 26 Jan 2014 11:26:27 -0800
+2014-01-26 11:26:27	--	amsterdam.snoonet.org (amsterdam.snoonet.org): *** Found your hostname (99-37-64-159.lightspeed.simica.sbcglobal.net)
+2014-01-26 11:26:28	--	amsterdam.snoonet.org (amsterdam.snoonet.org): Welcome to Snoonet!
+2014-01-26 11:26:28	--	Welcome to the Snoonet IRC Network dan!dan@99-37-64-159.lightspeed.simica.sbcglobal.net
+2014-01-26 11:26:28	--	Your host is amsterdam.snoonet.org, running version InspIRCd-2.0
+2014-01-26 11:26:28	--	This server was created 17:03:02 Oct  9 2013
+2014-01-26 11:26:28	--	amsterdam.snoonet.org InspIRCd-2.0 BGHILRSTWcdghikorswx ABCDFGHIJKLMNOPQRSTXYZbcdefghijklmnoprstuvwz FHIJLXYZbdefghjklovw
+2014-01-26 11:26:28	--	AWAYLEN=200 CALLERID=g CASEMAPPING=rfc1459 CHANMODES=IXZbegw,k,FHJLdfjl,ABCDGKMNOPQRSTcimnprstuz CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU ESILENCE EXCEPTS=e EXTBAN=,ABCNOQRSTUcjmprsz FNC INVEX=I :are supported by this server
+2014-01-26 11:26:28	--	KICKLEN=255 MAP MAXBANS=60 MAXCHANNELS=200 MAXPARA=32 MAXTARGETS=20 MODES=50 NAMESX NETWORK=Snoonet NICKLEN=48 OPERLOG PREFIX=(Yohv)!@%+ REMOVE :are supported by this server
+2014-01-26 11:26:28	--	SECURELIST SILENCE=32 SSL=[::]:6697 STARTTLS STATUSMSG=!@%+ TOPICLEN=1000 UHNAMES USERIP VBANLIST WALLCHOPS WALLVOICES WATCH=64 :are supported by this server
+2014-01-26 11:26:28	--	1AMAALZWQ :your unique ID
+2014-01-26 11:26:28	--	amsterdam.snoonet.org message of the day
+2014-01-26 11:26:28	--	- Welcome to the Snoonet IRC Network
+2014-01-26 11:26:28	--	- The home of reddit communities on IRC!
+2014-01-26 11:26:28	--	- Type /list to see which communities might
+2014-01-26 11:26:28	--	- interest you! The full channel list (with more detailed info) may also
+2014-01-26 11:26:28	--	- be found at http://stats.snoonet.org/index.php/channel.
+2014-01-26 11:26:28	--	-
+2014-01-26 11:26:28	--	- We offer channel and user statistics for communities who wish to
+2014-01-26 11:26:28	--	- have them at http://stats.snoonet.org
+2014-01-26 11:26:28	--	- To request the stats services bot for your channel, please
+2014-01-26 11:26:28	--	- request assistance in #help.
+2014-01-26 11:26:28	--	-
+2014-01-26 11:26:28	--	- New to IRC? Please view http://www.irchelp.org/irchelp/new2irc.html
+2014-01-26 11:26:28	--	- to make sure you're up to par! It's not as hard as you think!
+2014-01-26 11:26:28	--	- If you need any help for Snoonet or IRC related questions,
+2014-01-26 11:26:28	--	- please /join #help and you will be assisted.
+2014-01-26 11:26:28	--	-
+2014-01-26 11:26:28	--	- Please note: #help is not for technical support with your computer.
+2014-01-26 11:26:28	--	- For technical support with your computer, please visit #techsupport.
+2014-01-26 11:26:28	--	-
+2014-01-26 11:26:28	--	- TOR users may access our services by viewing
+2014-01-26 11:26:28	--	- http://www.snoonet.org/tor and following its instructions.
+2014-01-26 11:26:28	--	-
+2014-01-26 11:26:28	--	- We encourage the use of SASL identification, but do not require it.
+2014-01-26 11:26:28	--	- http://www.snoonet.org/connect-auth for information on SASL connectivity.
+2014-01-26 11:26:28	--	-
+2014-01-26 11:26:28	--	- vHosts (hiding your scrambled IP address) are automatically applied
+2014-01-26 11:26:28	--	- to your account upon registration with nickserv and verification of
+2014-01-26 11:26:28	--	- your email address.
+2014-01-26 11:26:28	--	-
+2014-01-26 11:26:28	--	-
+2014-01-26 11:26:28	--	-
+2014-01-26 11:26:28	--	- Please view our short ruleset on www.snoonet.org
+2014-01-26 11:26:28	--	- We do not have very many rules, but our network is fully protected
+2014-01-26 11:26:28	--	- by automation. Failure to comply will result in a network ban.
+2014-01-26 11:26:28	--	-
+2014-01-26 11:26:28	--	-
+2014-01-26 11:26:28	--	- Our twitter may be found at http://www.twitter.com/snoonetwork
+2014-01-26 11:26:28	--	- Or @snoonetwork - Feel free to follow us on events, give-aways, tournaments,
+2014-01-26 11:26:28	--	- network news, and all Snoonet.org related news.
+2014-01-26 11:26:28	--	- For more detailed updates and network news, subscribe to
+2014-01-26 11:26:28	--	- www.reddit.com/r/snoonet on reddit
+2014-01-26 11:26:28	--	-
+2014-01-26 11:26:28	--	-
+2014-01-26 11:26:28	--	- This network is based on www.reddit.com communities
+2014-01-26 11:26:28	--	-
+2014-01-26 11:26:28	--	- Our IRC Operators can be found by typing /stats p
+2014-01-26 11:26:28	--	- Viewing http://www.snoonet.org/staff
+2014-01-26 11:26:28	--	- Our staff will continue to work closely with users and communities
+2014-01-26 11:26:28	--	-  to develop new features and accommodations for events communities may
+2014-01-26 11:26:28	--	- be having.
+2014-01-26 11:26:28	--	-
+2014-01-26 11:26:28	--	- Need help? /join #help
+2014-01-26 11:26:28	--	- Have ideas/requests? /join #snoonet
+2014-01-26 11:26:28	--	-
+2014-01-26 11:26:28	--	- You may modmail /r/snoonet (http://goo.gl/WYIs1P) for web based support.
+2014-01-26 11:26:28	--	- Please be specific in details, be sure to include your NickServ name
+2014-01-26 11:26:28	--	- and any issues you may have.
+2014-01-26 11:26:28	--	-
+2014-01-26 11:26:28	--	-
+2014-01-26 11:26:28	--	-
+2014-01-26 11:26:28	--	- Snoonet COPPA Notice
+2014-01-26 11:26:28	--	- --------------------
+2014-01-26 11:26:28	--	-
+2014-01-26 11:26:28	--	- While Snoonet welcomes users and communities from all ends
+2014-01-26 11:26:28	--	- of the spectrum, our network is not designed for nor aimed
+2014-01-26 11:26:28	--	- at children - in accordance with the United States government
+2014-01-26 11:26:28	--	- and the Children's Online Privacy Protection Act of 1998,
+2014-01-26 11:26:28	--	- individuals under the age of 13 are not permitted to browse
+2014-01-26 11:26:28	--	- Snoonet nor create user accounts. We strongly recommend that
+2014-01-26 11:26:28	--	- minors 13 years of age or older ask their parents for
+2014-01-26 11:26:28	--	- permission before logging on, and to refrain from posting
+2014-01-26 11:26:28	--	- any information about themselves, personal or otherwise, on
+2014-01-26 11:26:28	--	- the network. If you have collected information from or about
+2014-01-26 11:26:28	--	- a child under the age of 13, you will face a network ban.
+2014-01-26 11:26:28	--	-
+2014-01-26 11:26:28	--	End of message of the day.
+2014-01-26 11:26:28	--	There are 100 users and 1534 invisible on 14 servers
+2014-01-26 11:26:28	--	68 :operator(s) online
+2014-01-26 11:26:28	--	1 :unknown connections
+2014-01-26 11:26:28	--	918 :channels formed
+2014-01-26 11:26:28	--	I have 121 clients and 1 servers
+2014-01-26 11:26:28	--	Current Local Users: 121  Max: 360
+2014-01-26 11:26:28	--	Current Global Users: 1634  Max: 4618
+2014-01-26 11:26:28	--	Snoonet-5jp.hj7.2kvoan.IP :is now your displayed host
+2014-01-26 11:26:28	--	User mode [+xiw] by dan
+2014-01-26 11:26:28	--	CTCP requested by SnooStat: VERSION
+2014-01-26 11:26:28	--	CTCP reply to SnooStat: VERSION WeeChat 0.4.1 (Jun 29 2013)
+2014-01-26 11:26:28	--	InfoServ (InfoServ@services.snoonet.org): *** Message(s) of the Day ***
+2014-01-26 11:26:28	--	InfoServ (InfoServ@services.snoonet.org): [Open Proxy Scanning] Notice from idahodude, posted 22:01 on 10/29/2013:
+2014-01-26 11:26:28	--	InfoServ (InfoServ@services.snoonet.org): On connect to this network, you will be actively scanned to determine if your IP address is running an open proxy or poses a risk to our servers.  This is for the safety of the network and its users.
+2014-01-26 11:26:28	--	InfoServ (InfoServ@services.snoonet.org): [Transition] Notice from Robin, posted 04:36 on 10/20/2013:
+2014-01-26 11:26:28	--	InfoServ (InfoServ@services.snoonet.org): Snoonet has transitioned to a new IRCd - see http://snoonet.org/updates/16-snoonet-transition-guide for details. Quassel users may need to restart their core to properly function on the new network.
+2014-01-26 11:26:28	--	InfoServ (InfoServ@services.snoonet.org): [VHOSTS and Network Info] Notice from rdv, posted 03:06 on 04/12/2013:
+2014-01-26 11:26:28	--	InfoServ (InfoServ@services.snoonet.org): Please type /motd if hasn't been presented already for information regarding policies, vhosts (IP Spoofing), and network events such as gaming channels etc.
+2014-01-26 11:26:28	--	InfoServ (InfoServ@services.snoonet.org): [Webchat] Notice from rdv, posted 05:42 on 03/13/2013:
+2014-01-26 11:26:28	--	InfoServ (InfoServ@services.snoonet.org): For communities http://webchat.snoonet.org/yourchannel will link users directly to your IRC channel - We will be making webchat more user-friendly as time progresses, for those that do not know IRC too well. An example of webchat linking to reddit would be: http://webchat.snoonet.org/reddit - If you'd like to donate/help snoonet, contact us in #snoonet !
+2014-01-26 11:26:28	--	InfoServ (InfoServ@services.snoonet.org): *** End of Message(s) of the Day ***
+2014-01-26 11:26:28	--	NickServ (NickServ@services.snoonet.org): This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify <password>.
+2014-01-26 11:26:28	--	NickServ (NickServ@services.snoonet.org): You have 30 seconds to identify to your nickname before it is changed.
+2014-01-26 11:26:38	--	NickServ (NickServ@services.snoonet.org): Welcome to Snoonet, brutha37! Here on Snoonet, we provide services to enable the registration of nicknames and channels! For details, type /msg NickServ help and /msg ChanServ help.
+2014-01-26 11:26:54	--	ChanServ (ChanServ@services.snoonet.org): [#subredditdrama] Rules for #subredditdrama: Don't be a dick and don't release personal info. Mods are oped but may not be available at any given time
+2014-01-26 11:27:32	--	MSG(nickserv): identify ******
+2014-01-26 11:27:33	--	NickServ (NickServ@services.snoonet.org): brutha37 is not a registered nickname.
+2014-01-26 11:28:02	--	MSG(nickserv): help
+2014-01-26 11:28:03	--	NickServ (NickServ@services.snoonet.org): ***** NickServ Help *****
+2014-01-26 11:28:03	--	NickServ (NickServ@services.snoonet.org): NickServ allows users to 'register' a nickname, and stop
+2014-01-26 11:28:03	--	NickServ (NickServ@services.snoonet.org): others from using that nick. NickServ allows the owner of a
+2014-01-26 11:28:03	--	NickServ (NickServ@services.snoonet.org): nickname to disconnect a user from the network that is using
+2014-01-26 11:28:03	--	NickServ (NickServ@services.snoonet.org): their nickname.
+2014-01-26 11:28:03	--	NickServ (NickServ@services.snoonet.org):  
+2014-01-26 11:28:03	--	NickServ (NickServ@services.snoonet.org): For more information on a command, type:
+2014-01-26 11:28:03	--	NickServ (NickServ@services.snoonet.org): /msg NickServ help <command>
+2014-01-26 11:28:03	--	NickServ (NickServ@services.snoonet.org): For a verbose listing of all commands, type:
+2014-01-26 11:28:03	--	NickServ (NickServ@services.snoonet.org): /msg NickServ help commands
+2014-01-26 11:28:03	--	NickServ (NickServ@services.snoonet.org):  
+2014-01-26 11:28:03	--	NickServ (NickServ@services.snoonet.org): The following commands are available:
+2014-01-26 11:28:03	--	NickServ (NickServ@services.snoonet.org): GHOST           Reclaims use of a nickname.
+2014-01-26 11:28:03	--	NickServ (NickServ@services.snoonet.org): IDENTIFY        Identifies to services for a nickname.
+2014-01-26 11:28:03	--	NickServ (NickServ@services.snoonet.org): INFO            Displays information on registrations.
+2014-01-26 11:28:03	--	NickServ (NickServ@services.snoonet.org): LISTCHANS       Lists channels that you have access to.
+2014-01-26 11:28:03	--	NickServ (NickServ@services.snoonet.org): REGISTER        Registers a nickname.
+2014-01-26 11:28:03	--	NickServ (NickServ@services.snoonet.org): RELEASE         Releases a services enforcer.
+2014-01-26 11:28:03	--	NickServ (NickServ@services.snoonet.org):  
+2014-01-26 11:28:03	--	NickServ (NickServ@services.snoonet.org): Other commands: ACC, ACCESS, CERT, DROP, HELP, LISTGROUPS, 
+2014-01-26 11:28:03	--	NickServ (NickServ@services.snoonet.org):                 LOGIN, LOGOUT, REGAIN, SETPASS, STATUS, 
+2014-01-26 11:28:03	--	NickServ (NickServ@services.snoonet.org):                 TAXONOMY, VERIFY
+2014-01-26 11:28:03	--	NickServ (NickServ@services.snoonet.org): ***** End of Help *****
+2014-01-26 11:28:03	--	NickServ (NickServ@services.snoonet.org): If you're having trouble or you need some additional help, you may want to join the help channel #help or visit the help webpage http://www.snoonet.org/
+2014-07-22 19:20:46	--	irc: connecting to server irc.snoonet.org/6667...
+2014-07-22 19:20:46	--	irc: connected to irc.snoonet.org/6667 (173.255.215.131)
+2014-07-22 19:20:46	--	fremont.snoonet.org (fremont.snoonet.org): *** Looking up your hostname...
+2014-07-22 19:20:47	--	This server has anti-spambot mechanisms enabled.
+2014-07-22 19:20:47	--	Malicious bots, spammers, and other automated systems of dubious origin are NOT welcome here.
+2014-07-22 19:20:47	--	CTCP requested by fremont.snoonet.org: TIME
+2014-07-22 19:20:47	--	CTCP reply to fremont.snoonet.org: TIME Tue, 22 Jul 2014 19:20:47 -0700
+2014-07-22 19:20:47	--	fremont.snoonet.org (fremont.snoonet.org): *** If you are having problems connecting due to ping timeouts, please type /quote PONG ~vMrSEevZp or /raw PONG ~vMrSEevZp now.
+2014-07-22 19:20:47	--	fremont.snoonet.org (fremont.snoonet.org): *** Found your hostname (cpe-107-184-110-135.socal.res.rr.com)
+2014-07-22 19:20:48	--	fremont.snoonet.org (fremont.snoonet.org): Welcome to Snoonet!
+2014-07-22 19:20:48	--	Welcome to the Snoonet IRC Network dan!dan@cpe-107-184-110-135.socal.res.rr.com
+2014-07-22 19:20:48	--	Your host is fremont.snoonet.org, running version InspIRCd-2.0
+2014-07-22 19:20:48	--	This server was created 04:12:12 Jun  8 2014
+2014-07-22 19:20:48	--	fremont.snoonet.org InspIRCd-2.0 BGHILRSTWcdghikorswx ABCDFGHIJKLMNOPQRSTXYZbcdefghijklmnoprstuvwxz FHIJLXYZbdefghjklovwx
+2014-07-22 19:20:48	--	AWAYLEN=200 CALLERID=g CASEMAPPING=rfc1459 CHANMODES=IXZbegw,k,FHJLdfjlx,ABCDGKMNOPQRSTcimnprstuz CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU ESILENCE EXCEPTS=e EXTBAN=,ABCNOQRSTUcjmprsz FNC INVEX=I :are supported by this server
+2014-07-22 19:20:48	--	KICKLEN=255 MAP MAXBANS=60 MAXCHANNELS=200 MAXPARA=32 MAXTARGETS=20 MODES=50 NAMESX NETWORK=Snoonet NICKLEN=27 OPERLOG PREFIX=(Yohv)!@%+ REMOVE :are supported by this server
+2014-07-22 19:20:48	--	SECURELIST SILENCE=32 SSL=[::]:6697 STARTTLS STATUSMSG=!@%+ TOPICLEN=1000 UHNAMES USERIP VBANLIST WALLCHOPS WALLVOICES WATCH=64 :are supported by this server
+2014-07-22 19:20:48	--	1FRAAEDVE :your unique ID
+2014-07-22 19:20:48	--	fremont.snoonet.org message of the day
+2014-07-22 19:20:48	--	- Welcome to the Snoonet IRC Network
+2014-07-22 19:20:48	--	- The home of reddit communities on IRC!
+2014-07-22 19:20:48	--	- Type /list to see which communities might
+2014-07-22 19:20:48	--	- interest you! The full channel list (with more detailed info) may also
+2014-07-22 19:20:48	--	- be found at http://stats.snoonet.org/index.php/channel
+2014-07-22 19:20:48	--	-
+2014-07-22 19:20:48	--	- We offer channel and user statistics for communities who wish to
+2014-07-22 19:20:48	--	- have them at http://stats.snoonet.org
+2014-07-22 19:20:48	--	- To request the stats services bot for your channel, please
+2014-07-22 19:20:48	--	- request assistance in #help.
+2014-07-22 19:20:48	--	-
+2014-07-22 19:20:48	--	- New to IRC? Please view http://www.irchelp.org/irchelp/new2irc.html
+2014-07-22 19:20:48	--	- to make sure you're up to par! It's not as hard as you think!
+2014-07-22 19:20:48	--	- If you need any help for Snoonet or IRC related questions,
+2014-07-22 19:20:48	--	- please /join #help and you will be assisted.
+2014-07-22 19:20:48	--	-
+2014-07-22 19:20:48	--	- Please note: #help is not for technical support with your computer.
+2014-07-22 19:20:48	--	- For technical support with your computer, please visit #techsupport.
+2014-07-22 19:20:48	--	-
+2014-07-22 19:20:48	--	- TOR users may access our services by viewing
+2014-07-22 19:20:48	--	- http://www.snoonet.org/tor and following its instructions.
+2014-07-22 19:20:48	--	-
+2014-07-22 19:20:48	--	- We encourage the use of SASL identification, but do not require it.
+2014-07-22 19:20:48	--	- http://www.snoonet.org/connect-auth for information on SASL connectivity.
+2014-07-22 19:20:48	--	-
+2014-07-22 19:20:48	--	- vHosts (hiding your scrambled IP address) are automatically applied
+2014-07-22 19:20:48	--	- to your account upon registration with nickserv and verification of
+2014-07-22 19:20:48	--	- your email address.
+2014-07-22 19:20:48	--	-
+2014-07-22 19:20:48	--	-
+2014-07-22 19:20:48	--	-
+2014-07-22 19:20:48	--	- Please view our short ruleset on www.snoonet.org
+2014-07-22 19:20:48	--	- We do not have very many rules, but our network is fully protected
+2014-07-22 19:20:48	--	- by automation. Failure to comply will result in a network ban.
+2014-07-22 19:20:48	--	-
+2014-07-22 19:20:48	--	-
+2014-07-22 19:20:48	--	- Our twitter may be found at http://www.twitter.com/snoonetIRC
+2014-07-22 19:20:48	--	- Or @snoonetIRC - Feel free to follow us on events, give-aways, tournaments,
+2014-07-22 19:20:48	--	- network news, and all Snoonet.org related news.
+2014-07-22 19:20:48	--	- For more detailed updates and network news, subscribe to
+2014-07-22 19:20:48	--	- www.reddit.com/r/snoonet on reddit
+2014-07-22 19:20:48	--	-
+2014-07-22 19:20:48	--	-
+2014-07-22 19:20:48	--	- This network is based on www.reddit.com communities
+2014-07-22 19:20:48	--	-
+2014-07-22 19:20:48	--	- Our IRC Operators can be found by typing /stats P
+2014-07-22 19:20:48	--	- Viewing http://www.snoonet.org/staff
+2014-07-22 19:20:48	--	- Our staff will continue to work closely with users and communities
+2014-07-22 19:20:48	--	- to develop new features and accommodations for events communities may
+2014-07-22 19:20:48	--	- be having.
+2014-07-22 19:20:48	--	-
+2014-07-22 19:20:48	--	- Need help? /join #help
+2014-07-22 19:20:48	--	- Have ideas/requests? /join #snoonet
+2014-07-22 19:20:48	--	-
+2014-07-22 19:20:48	--	- You may modmail /r/snoonet (http://goo.gl/WYIs1P) for web based support.
+2014-07-22 19:20:48	--	- Please be specific in details, be sure to include your NickServ name
+2014-07-22 19:20:48	--	- and any issues you may have.
+2014-07-22 19:20:48	--	-
+2014-07-22 19:20:48	--	- Revised 5/2/2014
+2014-07-22 19:20:48	--	-
+2014-07-22 19:20:48	--	- --------------------
+2014-07-22 19:20:48	--	- Snoonet COPPA Notice
+2014-07-22 19:20:48	--	- --------------------
+2014-07-22 19:20:48	--	-
+2014-07-22 19:20:48	--	- While Snoonet welcomes users and communities from all ends
+2014-07-22 19:20:48	--	- of the spectrum, our network is not designed for nor aimed
+2014-07-22 19:20:48	--	- at children - in accordance with the United States government
+2014-07-22 19:20:48	--	- and the Children's Online Privacy Protection Act of 1998,
+2014-07-22 19:20:48	--	- individuals under the age of 13 are not permitted to browse
+2014-07-22 19:20:48	--	- Snoonet nor create user accounts. We strongly recommend that
+2014-07-22 19:20:48	--	- minors 13 years of age or older ask their parents for
+2014-07-22 19:20:48	--	- permission before logging on, and to refrain from posting
+2014-07-22 19:20:48	--	- any information about themselves, personal or otherwise, on
+2014-07-22 19:20:48	--	- the network. If you have collected information from or about
+2014-07-22 19:20:48	--	- a child under the age of 13, you will face a network ban.
+2014-07-22 19:20:48	--	End of message of the day.
+2014-07-22 19:20:48	--	There are 70 users and 2092 invisible on 11 servers
+2014-07-22 19:20:48	--	71 :operator(s) online
+2014-07-22 19:20:48	--	1076 :channels formed
+2014-07-22 19:20:48	--	I have 389 clients and 1 servers
+2014-07-22 19:20:48	--	Current Local Users: 389  Max: 432
+2014-07-22 19:20:48	--	Current Global Users: 2162  Max: 3239
+2014-07-22 19:20:48	--	Snoonet-mg3.uuf.us0t1f.IP :is now your displayed host
+2014-07-22 19:20:48	--	User mode [+xiw] by dan
+2014-07-22 19:20:48	--	InfoServ (InfoServ@services.snoonet.org): *** Message(s) of the Day ***
+2014-07-22 19:20:48	--	InfoServ (InfoServ@services.snoonet.org): [Channel Statistics] Notice from flotwig, posted 15:27 on 06/25/2014:
+2014-07-22 19:20:48	--	InfoServ (InfoServ@services.snoonet.org): Like numbers? /invite Statistics to your channel today, and he'll generate interesting statistics about your channel and the users within. Visit https://goo.gl/T1sxhj for an example (#reddit) and https://goo.gl/tUAEvh for a user-friendly guide today!
+2014-07-22 19:20:48	--	InfoServ (InfoServ@services.snoonet.org): [Bouncer Services] Notice from flotwig, posted 15:34 on 05/20/2014:
+2014-07-22 19:20:48	--	InfoServ (InfoServ@services.snoonet.org): Did you know that Snoonet offers free ZNC bouncers? Stay connected securely to Snoonet 24/7 with buffers that replay whenever you connect to ensure that you're never out of the loop. For more information or to sign up, join ##bnc
+2014-07-22 19:20:48	--	InfoServ (InfoServ@services.snoonet.org): [Open Proxy Scanning] Notice from idahodude, posted 22:01 on 10/29/2013:
+2014-07-22 19:20:48	--	InfoServ (InfoServ@services.snoonet.org): On connect to this network, you will be actively scanned to determine if your IP address is running an open proxy or poses a risk to our servers.  This is for the safety of the network and its users.
+2014-07-22 19:20:48	--	InfoServ (InfoServ@services.snoonet.org): [VHOSTS and Network Info] Notice from rdv, posted 03:06 on 04/12/2013:
+2014-07-22 19:20:48	--	InfoServ (InfoServ@services.snoonet.org): Please type /motd if hasn't been presented already for information regarding policies, vhosts (IP Spoofing), and network events such as gaming channels etc.
+2014-07-22 19:20:48	--	InfoServ (InfoServ@services.snoonet.org): [Webchat] Notice from rdv, posted 05:42 on 03/13/2013:
+2014-07-22 19:20:48	--	InfoServ (InfoServ@services.snoonet.org): For communities http://webchat.snoonet.org/yourchannel will link users directly to your IRC channel - We will be making webchat more user-friendly as time progresses, for those that do not know IRC too well. An example of webchat linking to reddit would be: http://webchat.snoonet.org/reddit - If you'd like to donate/help snoonet, contact us in #snoonet !
+2014-07-22 19:20:48	--	InfoServ (InfoServ@services.snoonet.org): *** End of Message(s) of the Day ***
+2014-07-22 19:20:48	--	NickServ (NickServ@services.snoonet.org): This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify <password>.
+2014-07-22 19:20:48	--	NickServ (NickServ@services.snoonet.org): You have 30 seconds to identify to your nickname before it is changed.
+2014-07-22 19:20:48	--	CTCP requested by StatServ: VERSION
+2014-07-22 19:20:48	--	CTCP reply to StatServ: VERSION WeeChat 0.4.1 (Jun 29 2013)
+2014-07-22 19:21:04	--	NickServ (NickServ@services.snoonet.org): Welcome to Snoonet, dfrown! Here on Snoonet, we provide services to enable the registration of nicknames and channels! For details, type /msg NickServ help and /msg ChanServ help.
+2014-07-22 19:21:36	--	MSG(nickserv): help
+2014-07-22 19:21:36	--	NickServ (NickServ@services.snoonet.org): ***** NickServ Help *****
+2014-07-22 19:21:36	--	NickServ (NickServ@services.snoonet.org): NickServ allows users to 'register' a nickname, and stop
+2014-07-22 19:21:36	--	NickServ (NickServ@services.snoonet.org): others from using that nick. NickServ allows the owner of a
+2014-07-22 19:21:36	--	NickServ (NickServ@services.snoonet.org): nickname to disconnect a user from the network that is using
+2014-07-22 19:21:36	--	NickServ (NickServ@services.snoonet.org): their nickname.
+2014-07-22 19:21:36	--	NickServ (NickServ@services.snoonet.org):  
+2014-07-22 19:21:36	--	NickServ (NickServ@services.snoonet.org): For more information on a command, type:
+2014-07-22 19:21:36	--	NickServ (NickServ@services.snoonet.org): /msg NickServ help <command>
+2014-07-22 19:21:36	--	NickServ (NickServ@services.snoonet.org): For a verbose listing of all commands, type:
+2014-07-22 19:21:36	--	NickServ (NickServ@services.snoonet.org): /msg NickServ help commands
+2014-07-22 19:21:36	--	NickServ (NickServ@services.snoonet.org):  
+2014-07-22 19:21:36	--	NickServ (NickServ@services.snoonet.org): The following commands are available:
+2014-07-22 19:21:36	--	NickServ (NickServ@services.snoonet.org): GHOST           Reclaims use of a nickname.
+2014-07-22 19:21:36	--	NickServ (NickServ@services.snoonet.org): IDENTIFY        Identifies to services for a nickname.
+2014-07-22 19:21:36	--	NickServ (NickServ@services.snoonet.org): INFO            Displays information on registrations.
+2014-07-22 19:21:36	--	NickServ (NickServ@services.snoonet.org): LISTCHANS       Lists channels that you have access to.
+2014-07-22 19:21:36	--	NickServ (NickServ@services.snoonet.org): REGISTER        Registers a nickname.
+2014-07-22 19:21:36	--	NickServ (NickServ@services.snoonet.org): RELEASE         Releases a services enforcer.
+2014-07-22 19:21:36	--	NickServ (NickServ@services.snoonet.org):  
+2014-07-22 19:21:36	--	NickServ (NickServ@services.snoonet.org): Other commands: ACC, ACCESS, CERT, DROP, HELP, LISTGROUPS, 
+2014-07-22 19:21:36	--	NickServ (NickServ@services.snoonet.org):                 LOGIN, LOGOUT, REGAIN, SETPASS, STATUS, 
+2014-07-22 19:21:36	--	NickServ (NickServ@services.snoonet.org):                 TAXONOMY, VERIFY
+2014-07-22 19:21:36	--	NickServ (NickServ@services.snoonet.org): ***** End of Help *****
+2014-07-22 19:21:36	--	NickServ (NickServ@services.snoonet.org): If you're having trouble or you need some additional help, you may want to join the help channel #help or visit the help webpage http://www.snoonet.org/
+2014-07-22 19:22:44	--	ChanServ (ChanServ@services.snoonet.org): [#subredditdrama] Rules for #subredditdrama: Don't be a dick and don't release personal info. Mods are oped but may not be available at any given time
+2014-07-22 20:03:26	--	irc: connecting to server irc.snoonet.org/6667...
+2014-07-22 20:03:26	--	irc: connected to irc.snoonet.org/6667 (70.42.74.186)
+2014-07-22 20:03:26	--	ny.snoonet.org (ny.snoonet.org): *** Looking up your hostname...
+2014-07-22 20:03:26	--	ny.snoonet.org (ny.snoonet.org): *** Found your hostname (cpe-107-184-110-135.socal.res.rr.com)
+2014-07-22 20:03:27	--	This server has anti-spambot mechanisms enabled.
+2014-07-22 20:03:27	--	Malicious bots, spammers, and other automated systems of dubious origin are NOT welcome here.
+2014-07-22 20:03:27	--	CTCP requested by ny.snoonet.org: TIME
+2014-07-22 20:03:27	--	CTCP reply to ny.snoonet.org: TIME Tue, 22 Jul 2014 20:03:27 -0700
+2014-07-22 20:03:27	--	ny.snoonet.org (ny.snoonet.org): *** If you are having problems connecting due to ping timeouts, please type /quote PONG ban{l[NyIF or /raw PONG ban{l[NyIF now.
+2014-07-22 20:03:28	--	ny.snoonet.org (ny.snoonet.org): Welcome to Snoonet!
+2014-07-22 20:03:28	--	Welcome to the Snoonet IRC Network dan!dan@cpe-107-184-110-135.socal.res.rr.com
+2014-07-22 20:03:28	--	Your host is ny.snoonet.org, running version InspIRCd-2.0
+2014-07-22 20:03:28	--	This server was created 16:57:34 May  9 2014
+2014-07-22 20:03:28	--	ny.snoonet.org InspIRCd-2.0 BGHILRSTWcdghikorswx ABCDFGHIJKLMNOPQRSTXYZbcdefghijklmnoprstuvwxz FHIJLXYZbdefghjklovwx
+2014-07-22 20:03:28	--	AWAYLEN=200 CALLERID=g CASEMAPPING=rfc1459 CHANMODES=IXZbegw,k,FHJLdfjlx,ABCDGKMNOPQRSTcimnprstuz CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU ESILENCE EXCEPTS=e EXTBAN=,ABCNOQRSTUcjmprsz FNC INVEX=I :are supported by this server
+2014-07-22 20:03:28	--	KICKLEN=255 MAP MAXBANS=60 MAXCHANNELS=200 MAXPARA=32 MAXTARGETS=20 MODES=50 NAMESX NETWORK=Snoonet NICKLEN=27 OPERLOG PREFIX=(Yohv)!@%+ REMOVE :are supported by this server
+2014-07-22 20:03:28	--	SECURELIST SILENCE=32 SSL=[::]:6697 STARTTLS STATUSMSG=!@%+ TOPICLEN=1000 UHNAMES USERIP VBANLIST WALLCHOPS WALLVOICES WATCH=64 :are supported by this server
+2014-07-22 20:03:28	--	1NYAAEQQB :your unique ID
+2014-07-22 20:03:28	--	ny.snoonet.org message of the day
+2014-07-22 20:03:28	--	- Welcome to the Snoonet IRC Network
+2014-07-22 20:03:28	--	- The home of reddit communities on IRC!
+2014-07-22 20:03:28	--	- Type /list to see which communities might
+2014-07-22 20:03:28	--	- interest you! The full channel list (with more detailed info) may also
+2014-07-22 20:03:28	--	- be found at http://stats.snoonet.org/index.php/channel
+2014-07-22 20:03:28	--	-
+2014-07-22 20:03:28	--	- We offer channel and user statistics for communities who wish to
+2014-07-22 20:03:28	--	- have them at http://stats.snoonet.org
+2014-07-22 20:03:28	--	- To request the stats services bot for your channel, please
+2014-07-22 20:03:28	--	- request assistance in #help.
+2014-07-22 20:03:28	--	-
+2014-07-22 20:03:28	--	- New to IRC? Please view http://www.irchelp.org/irchelp/new2irc.html
+2014-07-22 20:03:28	--	- to make sure you're up to par! It's not as hard as you think!
+2014-07-22 20:03:28	--	- If you need any help for Snoonet or IRC related questions,
+2014-07-22 20:03:28	--	- please /join #help and you will be assisted.
+2014-07-22 20:03:28	--	-
+2014-07-22 20:03:28	--	- Please note: #help is not for technical support with your computer.
+2014-07-22 20:03:28	--	- For technical support with your computer, please visit #techsupport.
+2014-07-22 20:03:28	--	-
+2014-07-22 20:03:28	--	- TOR users may access our services by viewing
+2014-07-22 20:03:28	--	- http://www.snoonet.org/tor and following its instructions.
+2014-07-22 20:03:28	--	-
+2014-07-22 20:03:28	--	- We encourage the use of SASL identification, but do not require it.
+2014-07-22 20:03:28	--	- http://www.snoonet.org/connect-auth for information on SASL connectivity.
+2014-07-22 20:03:28	--	-
+2014-07-22 20:03:28	--	- vHosts (hiding your scrambled IP address) are automatically applied
+2014-07-22 20:03:28	--	- to your account upon registration with nickserv and verification of
+2014-07-22 20:03:28	--	- your email address.
+2014-07-22 20:03:28	--	-
+2014-07-22 20:03:28	--	-
+2014-07-22 20:03:28	--	-
+2014-07-22 20:03:28	--	- Please view our short ruleset on www.snoonet.org
+2014-07-22 20:03:28	--	- We do not have very many rules, but our network is fully protected
+2014-07-22 20:03:28	--	- by automation. Failure to comply will result in a network ban.
+2014-07-22 20:03:28	--	-
+2014-07-22 20:03:28	--	-
+2014-07-22 20:03:28	--	- Our twitter may be found at http://www.twitter.com/snoonetIRC
+2014-07-22 20:03:28	--	- Or @snoonetIRC - Feel free to follow us on events, give-aways, tournaments,
+2014-07-22 20:03:28	--	- network news, and all Snoonet.org related news.
+2014-07-22 20:03:28	--	- For more detailed updates and network news, subscribe to
+2014-07-22 20:03:28	--	- www.reddit.com/r/snoonet on reddit
+2014-07-22 20:03:28	--	-
+2014-07-22 20:03:28	--	-
+2014-07-22 20:03:28	--	- This network is based on www.reddit.com communities
+2014-07-22 20:03:28	--	-
+2014-07-22 20:03:28	--	- Our IRC Operators can be found by typing /stats P
+2014-07-22 20:03:28	--	- Viewing http://www.snoonet.org/staff
+2014-07-22 20:03:28	--	- Our staff will continue to work closely with users and communities
+2014-07-22 20:03:28	--	- to develop new features and accommodations for events communities may
+2014-07-22 20:03:28	--	- be having.
+2014-07-22 20:03:28	--	-
+2014-07-22 20:03:28	--	- Need help? /join #help
+2014-07-22 20:03:28	--	- Have ideas/requests? /join #snoonet
+2014-07-22 20:03:28	--	-
+2014-07-22 20:03:28	--	- You may modmail /r/snoonet (http://goo.gl/WYIs1P) for web based support.
+2014-07-22 20:03:28	--	- Please be specific in details, be sure to include your NickServ name
+2014-07-22 20:03:28	--	- and any issues you may have.
+2014-07-22 20:03:28	--	-
+2014-07-22 20:03:28	--	- Revised 5/2/2014
+2014-07-22 20:03:28	--	-
+2014-07-22 20:03:28	--	- --------------------
+2014-07-22 20:03:28	--	- Snoonet COPPA Notice
+2014-07-22 20:03:28	--	- --------------------
+2014-07-22 20:03:28	--	-
+2014-07-22 20:03:28	--	- While Snoonet welcomes users and communities from all ends
+2014-07-22 20:03:28	--	- of the spectrum, our network is not designed for nor aimed
+2014-07-22 20:03:28	--	- at children - in accordance with the United States government
+2014-07-22 20:03:28	--	- and the Children's Online Privacy Protection Act of 1998,
+2014-07-22 20:03:28	--	- individuals under the age of 13 are not permitted to browse
+2014-07-22 20:03:28	--	- Snoonet nor create user accounts. We strongly recommend that
+2014-07-22 20:03:28	--	- minors 13 years of age or older ask their parents for
+2014-07-22 20:03:28	--	- permission before logging on, and to refrain from posting
+2014-07-22 20:03:28	--	- any information about themselves, personal or otherwise, on
+2014-07-22 20:03:28	--	- the network. If you have collected information from or about
+2014-07-22 20:03:28	--	- a child under the age of 13, you will face a network ban.
+2014-07-22 20:03:28	--	End of message of the day.
+2014-07-22 20:03:28	--	There are 69 users and 2101 invisible on 11 servers
+2014-07-22 20:03:28	--	71 :operator(s) online
+2014-07-22 20:03:28	--	1 :unknown connections
+2014-07-22 20:03:28	--	1073 :channels formed
+2014-07-22 20:03:28	--	I have 344 clients and 1 servers
+2014-07-22 20:03:28	--	Current Local Users: 344  Max: 451
+2014-07-22 20:03:28	--	Current Global Users: 2170  Max: 3239
+2014-07-22 20:03:28	--	Snoonet-mg3.uuf.us0t1f.IP :is now your displayed host
+2014-07-22 20:03:28	--	User mode [+xiw] by dan
+2014-07-22 20:03:28	--	InfoServ (InfoServ@services.snoonet.org): *** Message(s) of the Day ***
+2014-07-22 20:03:28	--	InfoServ (InfoServ@services.snoonet.org): [Channel Statistics] Notice from flotwig, posted 15:27 on 06/25/2014:
+2014-07-22 20:03:28	--	InfoServ (InfoServ@services.snoonet.org): Like numbers? /invite Statistics to your channel today, and he'll generate interesting statistics about your channel and the users within. Visit https://goo.gl/T1sxhj for an example (#reddit) and https://goo.gl/tUAEvh for a user-friendly guide today!
+2014-07-22 20:03:28	--	InfoServ (InfoServ@services.snoonet.org): [Bouncer Services] Notice from flotwig, posted 15:34 on 05/20/2014:
+2014-07-22 20:03:28	--	InfoServ (InfoServ@services.snoonet.org): Did you know that Snoonet offers free ZNC bouncers? Stay connected securely to Snoonet 24/7 with buffers that replay whenever you connect to ensure that you're never out of the loop. For more information or to sign up, join ##bnc
+2014-07-22 20:03:28	--	InfoServ (InfoServ@services.snoonet.org): [Open Proxy Scanning] Notice from idahodude, posted 22:01 on 10/29/2013:
+2014-07-22 20:03:28	--	InfoServ (InfoServ@services.snoonet.org): On connect to this network, you will be actively scanned to determine if your IP address is running an open proxy or poses a risk to our servers.  This is for the safety of the network and its users.
+2014-07-22 20:03:28	--	InfoServ (InfoServ@services.snoonet.org): [VHOSTS and Network Info] Notice from rdv, posted 03:06 on 04/12/2013:
+2014-07-22 20:03:28	--	InfoServ (InfoServ@services.snoonet.org): Please type /motd if hasn't been presented already for information regarding policies, vhosts (IP Spoofing), and network events such as gaming channels etc.
+2014-07-22 20:03:28	--	InfoServ (InfoServ@services.snoonet.org): [Webchat] Notice from rdv, posted 05:42 on 03/13/2013:
+2014-07-22 20:03:28	--	InfoServ (InfoServ@services.snoonet.org): For communities http://webchat.snoonet.org/yourchannel will link users directly to your IRC channel - We will be making webchat more user-friendly as time progresses, for those that do not know IRC too well. An example of webchat linking to reddit would be: http://webchat.snoonet.org/reddit - If you'd like to donate/help snoonet, contact us in #snoonet !
+2014-07-22 20:03:28	--	InfoServ (InfoServ@services.snoonet.org): *** End of Message(s) of the Day ***
+2014-07-22 20:03:28	--	NickServ (NickServ@services.snoonet.org): This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify <password>.
+2014-07-22 20:03:28	--	NickServ (NickServ@services.snoonet.org): You have 30 seconds to identify to your nickname before it is changed.
+2014-07-22 20:03:28	--	CTCP requested by StatServ: VERSION
+2014-07-22 20:03:28	--	CTCP reply to StatServ: VERSION WeeChat 0.4.1 (Jun 29 2013)
+2014-07-22 20:03:42	--	NickServ (NickServ@services.snoonet.org): This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify <password>.
+2014-07-22 20:03:42	--	NickServ (NickServ@services.snoonet.org): You have 30 seconds to identify to your nickname before it is changed.
+2014-07-22 20:03:55	--	MSG(nickserv): identify ******
+2014-07-22 20:03:55	--	NickServ (NickServ@services.snoonet.org): You are now identified for dfrown.
+2014-07-22 20:04:14	--	ChanServ (ChanServ@services.snoonet.org): [#subredditdrama] Rules for #subredditdrama: Don't be a dick and don't release personal info. Mods are oped but may not be available at any given time
+2014-07-22 20:25:52	--	irc: connecting to server irc.snoonet.org/6667...
+2014-07-22 20:25:52	--	irc: connected to irc.snoonet.org/6667 (142.4.212.102)
+2014-07-22 20:25:52	--	lemon.snoonet.org (lemon.snoonet.org): *** Looking up your hostname...
+2014-07-22 20:25:52	--	lemon.snoonet.org (lemon.snoonet.org): *** Found your hostname (cpe-107-184-110-135.socal.res.rr.com) -- cached
+2014-07-22 20:25:53	--	This server has anti-spambot mechanisms enabled.
+2014-07-22 20:25:53	--	Malicious bots, spammers, and other automated systems of dubious origin are NOT welcome here.
+2014-07-22 20:25:53	--	CTCP requested by lemon.snoonet.org: TIME
+2014-07-22 20:25:53	--	CTCP reply to lemon.snoonet.org: TIME Tue, 22 Jul 2014 20:25:53 -0700
+2014-07-22 20:25:53	--	lemon.snoonet.org (lemon.snoonet.org): *** If you are having problems connecting due to ping timeouts, please type /quote PONG BurvyrA?BR or /raw PONG BurvyrA?BR now.
+2014-07-22 20:25:53	--	lemon.snoonet.org (lemon.snoonet.org): Welcome to Snoonet!
+2014-07-22 20:25:53	--	Welcome to the Snoonet IRC Network dan!dan@cpe-107-184-110-135.socal.res.rr.com
+2014-07-22 20:25:53	--	Your host is lemon.snoonet.org, running version InspIRCd-2.0
+2014-07-22 20:25:53	--	This server was created 20:02:40 Apr 29 2014
+2014-07-22 20:25:53	--	lemon.snoonet.org InspIRCd-2.0 BGHILRSTWcdghikorswx ABCDFGHIJKLMNOPQRSTXYZbcdefghijklmnoprstuvwxz FHIJLXYZbdefghjklovwx
+2014-07-22 20:25:53	--	AWAYLEN=200 CALLERID=g CASEMAPPING=rfc1459 CHANMODES=IXZbegw,k,FHJLdfjlx,ABCDGKMNOPQRSTcimnprstuz CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU ESILENCE EXCEPTS=e EXTBAN=,ABCNOQRSTUcjmprsz FNC INVEX=I :are supported by this server
+2014-07-22 20:25:53	--	KICKLEN=255 MAP MAXBANS=60 MAXCHANNELS=200 MAXPARA=32 MAXTARGETS=20 MODES=50 NAMESX NETWORK=Snoonet NICKLEN=27 OPERLOG PREFIX=(Yohv)!@%+ REMOVE :are supported by this server
+2014-07-22 20:25:53	--	SECURELIST SILENCE=32 SSL=[::]:6697 STARTTLS STATUSMSG=!@%+ TOPICLEN=1000 UHNAMES USERIP VBANLIST WALLCHOPS WALLVOICES WATCH=64 :are supported by this server
+2014-07-22 20:25:53	--	1LEAAFHMI :your unique ID
+2014-07-22 20:25:53	--	lemon.snoonet.org message of the day
+2014-07-22 20:25:53	--	- Welcome to the Snoonet IRC Network
+2014-07-22 20:25:53	--	- The home of reddit communities on IRC!
+2014-07-22 20:25:53	--	- Type /list to see which communities might
+2014-07-22 20:25:53	--	- interest you! The full channel list (with more detailed info) may also
+2014-07-22 20:25:53	--	- be found at http://stats.snoonet.org/index.php/channel
+2014-07-22 20:25:53	--	-
+2014-07-22 20:25:53	--	- We offer channel and user statistics for communities who wish to
+2014-07-22 20:25:53	--	- have them at http://stats.snoonet.org
+2014-07-22 20:25:53	--	- To request the stats services bot for your channel, please
+2014-07-22 20:25:53	--	- request assistance in #help.
+2014-07-22 20:25:53	--	-
+2014-07-22 20:25:53	--	- New to IRC? Please view http://www.irchelp.org/irchelp/new2irc.html
+2014-07-22 20:25:53	--	- to make sure you're up to par! It's not as hard as you think!
+2014-07-22 20:25:53	--	- If you need any help for Snoonet or IRC related questions,
+2014-07-22 20:25:53	--	- please /join #help and you will be assisted.
+2014-07-22 20:25:53	--	-
+2014-07-22 20:25:53	--	- Please note: #help is not for technical support with your computer.
+2014-07-22 20:25:53	--	- For technical support with your computer, please visit #techsupport.
+2014-07-22 20:25:53	--	-
+2014-07-22 20:25:53	--	- TOR users may access our services by viewing
+2014-07-22 20:25:53	--	- http://www.snoonet.org/tor and following its instructions.
+2014-07-22 20:25:53	--	-
+2014-07-22 20:25:53	--	- We encourage the use of SASL identification, but do not require it.
+2014-07-22 20:25:53	--	- http://www.snoonet.org/connect-auth for information on SASL connectivity.
+2014-07-22 20:25:53	--	-
+2014-07-22 20:25:53	--	- vHosts (hiding your scrambled IP address) are automatically applied
+2014-07-22 20:25:53	--	- to your account upon registration with nickserv and verification of
+2014-07-22 20:25:53	--	- your email address.
+2014-07-22 20:25:53	--	-
+2014-07-22 20:25:53	--	-
+2014-07-22 20:25:53	--	-
+2014-07-22 20:25:53	--	- Please view our short ruleset on www.snoonet.org
+2014-07-22 20:25:53	--	- We do not have very many rules, but our network is fully protected
+2014-07-22 20:25:53	--	- by automation. Failure to comply will result in a network ban.
+2014-07-22 20:25:53	--	-
+2014-07-22 20:25:53	--	-
+2014-07-22 20:25:53	--	- Our twitter may be found at http://www.twitter.com/snoonetIRC
+2014-07-22 20:25:53	--	- Or @snoonetIRC - Feel free to follow us on events, give-aways, tournaments,
+2014-07-22 20:25:53	--	- network news, and all Snoonet.org related news.
+2014-07-22 20:25:53	--	- For more detailed updates and network news, subscribe to
+2014-07-22 20:25:53	--	- www.reddit.com/r/snoonet on reddit
+2014-07-22 20:25:53	--	-
+2014-07-22 20:25:53	--	-
+2014-07-22 20:25:53	--	- This network is based on www.reddit.com communities
+2014-07-22 20:25:53	--	-
+2014-07-22 20:25:53	--	- Our IRC Operators can be found by typing /stats P
+2014-07-22 20:25:53	--	- Viewing http://www.snoonet.org/staff
+2014-07-22 20:25:53	--	- Our staff will continue to work closely with users and communities
+2014-07-22 20:25:53	--	- to develop new features and accommodations for events communities may
+2014-07-22 20:25:53	--	- be having.
+2014-07-22 20:25:53	--	-
+2014-07-22 20:25:53	--	- Need help? /join #help
+2014-07-22 20:25:53	--	- Have ideas/requests? /join #snoonet
+2014-07-22 20:25:53	--	-
+2014-07-22 20:25:53	--	- You may modmail /r/snoonet (http://goo.gl/WYIs1P) for web based support.
+2014-07-22 20:25:53	--	- Please be specific in details, be sure to include your NickServ name
+2014-07-22 20:25:53	--	- and any issues you may have.
+2014-07-22 20:25:53	--	-
+2014-07-22 20:25:53	--	- Revised 5/2/2014
+2014-07-22 20:25:53	--	-
+2014-07-22 20:25:53	--	- --------------------
+2014-07-22 20:25:53	--	- Snoonet COPPA Notice
+2014-07-22 20:25:53	--	- --------------------
+2014-07-22 20:25:53	--	-
+2014-07-22 20:25:53	--	- While Snoonet welcomes users and communities from all ends
+2014-07-22 20:25:53	--	- of the spectrum, our network is not designed for nor aimed
+2014-07-22 20:25:53	--	- at children - in accordance with the United States government
+2014-07-22 20:25:53	--	- and the Children's Online Privacy Protection Act of 1998,
+2014-07-22 20:25:53	--	- individuals under the age of 13 are not permitted to browse
+2014-07-22 20:25:53	--	- Snoonet nor create user accounts. We strongly recommend that
+2014-07-22 20:25:53	--	- minors 13 years of age or older ask their parents for
+2014-07-22 20:25:53	--	- permission before logging on, and to refrain from posting
+2014-07-22 20:25:53	--	- any information about themselves, personal or otherwise, on
+2014-07-22 20:25:53	--	- the network. If you have collected information from or about
+2014-07-22 20:25:53	--	- a child under the age of 13, you will face a network ban.
+2014-07-22 20:25:53	--	End of message of the day.
+2014-07-22 20:25:53	--	There are 70 users and 2075 invisible on 11 servers
+2014-07-22 20:25:53	--	71 :operator(s) online
+2014-07-22 20:25:53	--	1076 :channels formed
+2014-07-22 20:25:53	--	I have 519 clients and 1 servers
+2014-07-22 20:25:53	--	Current Local Users: 519  Max: 586
+2014-07-22 20:25:53	--	Current Global Users: 2145  Max: 3239
+2014-07-22 20:25:53	--	Snoonet-mg3.uuf.us0t1f.IP :is now your displayed host
+2014-07-22 20:25:53	--	User mode [+xiw] by dan
+2014-07-22 20:25:53	--	InfoServ (InfoServ@services.snoonet.org): *** Message(s) of the Day ***
+2014-07-22 20:25:53	--	InfoServ (InfoServ@services.snoonet.org): [Channel Statistics] Notice from flotwig, posted 15:27 on 06/25/2014:
+2014-07-22 20:25:53	--	InfoServ (InfoServ@services.snoonet.org): Like numbers? /invite Statistics to your channel today, and he'll generate interesting statistics about your channel and the users within. Visit https://goo.gl/T1sxhj for an example (#reddit) and https://goo.gl/tUAEvh for a user-friendly guide today!
+2014-07-22 20:25:53	--	InfoServ (InfoServ@services.snoonet.org): [Bouncer Services] Notice from flotwig, posted 15:34 on 05/20/2014:
+2014-07-22 20:25:53	--	InfoServ (InfoServ@services.snoonet.org): Did you know that Snoonet offers free ZNC bouncers? Stay connected securely to Snoonet 24/7 with buffers that replay whenever you connect to ensure that you're never out of the loop. For more information or to sign up, join ##bnc
+2014-07-22 20:25:53	--	InfoServ (InfoServ@services.snoonet.org): [Open Proxy Scanning] Notice from idahodude, posted 22:01 on 10/29/2013:
+2014-07-22 20:25:53	--	InfoServ (InfoServ@services.snoonet.org): On connect to this network, you will be actively scanned to determine if your IP address is running an open proxy or poses a risk to our servers.  This is for the safety of the network and its users.
+2014-07-22 20:25:53	--	InfoServ (InfoServ@services.snoonet.org): [VHOSTS and Network Info] Notice from rdv, posted 03:06 on 04/12/2013:
+2014-07-22 20:25:53	--	InfoServ (InfoServ@services.snoonet.org): Please type /motd if hasn't been presented already for information regarding policies, vhosts (IP Spoofing), and network events such as gaming channels etc.
+2014-07-22 20:25:53	--	InfoServ (InfoServ@services.snoonet.org): [Webchat] Notice from rdv, posted 05:42 on 03/13/2013:
+2014-07-22 20:25:53	--	InfoServ (InfoServ@services.snoonet.org): For communities http://webchat.snoonet.org/yourchannel will link users directly to your IRC channel - We will be making webchat more user-friendly as time progresses, for those that do not know IRC too well. An example of webchat linking to reddit would be: http://webchat.snoonet.org/reddit - If you'd like to donate/help snoonet, contact us in #snoonet !
+2014-07-22 20:25:53	--	InfoServ (InfoServ@services.snoonet.org): *** End of Message(s) of the Day ***
+2014-07-22 20:25:53	--	NickServ (NickServ@services.snoonet.org): This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify <password>.
+2014-07-22 20:25:53	--	NickServ (NickServ@services.snoonet.org): You have 30 seconds to identify to your nickname before it is changed.
+2014-07-22 20:25:53	--	CTCP requested by StatServ: VERSION
+2014-07-22 20:25:53	--	CTCP reply to StatServ: VERSION WeeChat 0.4.1 (Jun 29 2013)
+2014-07-22 20:26:04	--	NickServ (NickServ@services.snoonet.org): This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify <password>.
+2014-07-22 20:26:04	--	NickServ (NickServ@services.snoonet.org): You have 30 seconds to identify to your nickname before it is changed.
+2014-07-22 20:26:20	--	MSG(nickserv): identify ******
+2014-07-22 20:26:21	--	NickServ (NickServ@services.snoonet.org): You are now identified for dfrown.
+2014-07-22 20:26:21	--	User mode [-x] by lemon.snoonet.org
+2014-07-22 20:26:21	--	user/dfrown :is now your displayed host
+2014-07-22 20:26:38	--	Zionist (jidf@jews.will.conquer.the.earth): [#drama] did you know the bathtub was first marketed in north america as a horse trough and a hog scalader
+2014-07-23 11:53:06	--	irc: connecting to server irc.snoonet.org/6667...
+2014-07-23 11:53:07	--	irc: connected to irc.snoonet.org/6667 (198.245.51.167)
+2014-07-23 11:53:07	--	veronica.snoonet.org (veronica.snoonet.org): *** Looking up your hostname...
+2014-07-23 11:53:07	--	veronica.snoonet.org (veronica.snoonet.org): *** Found your hostname (cpe-107-184-110-135.socal.res.rr.com) -- cached
+2014-07-23 11:53:07	--	This server has anti-spambot mechanisms enabled.
+2014-07-23 11:53:07	--	Malicious bots, spammers, and other automated systems of dubious origin are NOT welcome here.
+2014-07-23 11:53:07	--	CTCP requested by veronica.snoonet.org: TIME
+2014-07-23 11:53:07	--	CTCP reply to veronica.snoonet.org: TIME Wed, 23 Jul 2014 11:53:07 -0700
+2014-07-23 11:53:07	--	veronica.snoonet.org (veronica.snoonet.org): *** If you are having problems connecting due to ping timeouts, please type /quote PONG KBLDI]`hkA or /raw PONG KBLDI]`hkA now.
+2014-07-23 11:53:08	--	veronica.snoonet.org (veronica.snoonet.org): Welcome to Snoonet!
+2014-07-23 11:53:08	--	Welcome to the Snoonet IRC Network dan!dan@cpe-107-184-110-135.socal.res.rr.com
+2014-07-23 11:53:08	--	Your host is veronica.snoonet.org, running version InspIRCd-2.0
+2014-07-23 11:53:08	--	This server was created 02:45:52 May 28 2014
+2014-07-23 11:53:08	--	veronica.snoonet.org InspIRCd-2.0 BGHILRSTWcdghikorswx ABCDFGHIJKLMNOPQRSTXYZbcdefghijklmnoprstuvwxz FHIJLXYZbdefghjklovwx
+2014-07-23 11:53:08	--	AWAYLEN=200 CALLERID=g CASEMAPPING=rfc1459 CHANMODES=IXZbegw,k,FHJLdfjlx,ABCDGKMNOPQRSTcimnprstuz CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU ESILENCE EXCEPTS=e EXTBAN=,ABCNOQRSTUcjmprsz FNC INVEX=I :are supported by this server
+2014-07-23 11:53:08	--	KICKLEN=255 MAP MAXBANS=60 MAXCHANNELS=200 MAXPARA=32 MAXTARGETS=20 MODES=50 NAMESX NETWORK=Snoonet NICKLEN=27 OPERLOG PREFIX=(Yohv)!@%+ REMOVE :are supported by this server
+2014-07-23 11:53:08	--	SECURELIST SILENCE=32 SSL=[::]:6697 STARTTLS STATUSMSG=!@%+ TOPICLEN=1000 UHNAMES USERIP VBANLIST WALLCHOPS WALLVOICES WATCH=64 :are supported by this server
+2014-07-23 11:53:08	--	1VEAAD2TU :your unique ID
+2014-07-23 11:53:08	--	veronica.snoonet.org message of the day
+2014-07-23 11:53:08	--	- Welcome to the Snoonet IRC Network
+2014-07-23 11:53:08	--	- The home of reddit communities on IRC!
+2014-07-23 11:53:08	--	- Type /list to see which communities might
+2014-07-23 11:53:08	--	- interest you! The full channel list (with more detailed info) may also
+2014-07-23 11:53:08	--	- be found at http://stats.snoonet.org/index.php/channel
+2014-07-23 11:53:08	--	-
+2014-07-23 11:53:08	--	- We offer channel and user statistics for communities who wish to
+2014-07-23 11:53:08	--	- have them at http://stats.snoonet.org
+2014-07-23 11:53:08	--	- To request the stats services bot for your channel, please
+2014-07-23 11:53:08	--	- request assistance in #help.
+2014-07-23 11:53:08	--	-
+2014-07-23 11:53:08	--	- New to IRC? Please view http://www.irchelp.org/irchelp/new2irc.html
+2014-07-23 11:53:08	--	- to make sure you're up to par! It's not as hard as you think!
+2014-07-23 11:53:08	--	- If you need any help for Snoonet or IRC related questions,
+2014-07-23 11:53:08	--	- please /join #help and you will be assisted.
+2014-07-23 11:53:08	--	-
+2014-07-23 11:53:08	--	- Please note: #help is not for technical support with your computer.
+2014-07-23 11:53:08	--	- For technical support with your computer, please visit #techsupport.
+2014-07-23 11:53:08	--	-
+2014-07-23 11:53:08	--	- TOR users may access our services by viewing
+2014-07-23 11:53:08	--	- http://www.snoonet.org/tor and following its instructions.
+2014-07-23 11:53:08	--	-
+2014-07-23 11:53:08	--	- We encourage the use of SASL identification, but do not require it.
+2014-07-23 11:53:08	--	- http://www.snoonet.org/connect-auth for information on SASL connectivity.
+2014-07-23 11:53:08	--	-
+2014-07-23 11:53:08	--	- vHosts (hiding your scrambled IP address) are automatically applied
+2014-07-23 11:53:08	--	- to your account upon registration with nickserv and verification of
+2014-07-23 11:53:08	--	- your email address.
+2014-07-23 11:53:08	--	-
+2014-07-23 11:53:08	--	-
+2014-07-23 11:53:08	--	-
+2014-07-23 11:53:08	--	- Please view our short ruleset on www.snoonet.org
+2014-07-23 11:53:08	--	- We do not have very many rules, but our network is fully protected
+2014-07-23 11:53:08	--	- by automation. Failure to comply will result in a network ban.
+2014-07-23 11:53:08	--	-
+2014-07-23 11:53:08	--	-
+2014-07-23 11:53:08	--	- Our twitter may be found at http://www.twitter.com/snoonetIRC
+2014-07-23 11:53:08	--	- Or @snoonetIRC - Feel free to follow us on events, give-aways, tournaments,
+2014-07-23 11:53:08	--	- network news, and all Snoonet.org related news.
+2014-07-23 11:53:08	--	- For more detailed updates and network news, subscribe to
+2014-07-23 11:53:08	--	- www.reddit.com/r/snoonet on reddit
+2014-07-23 11:53:08	--	-
+2014-07-23 11:53:08	--	-
+2014-07-23 11:53:08	--	- This network is based on www.reddit.com communities
+2014-07-23 11:53:08	--	-
+2014-07-23 11:53:08	--	- Our IRC Operators can be found by typing /stats P
+2014-07-23 11:53:08	--	- Viewing http://www.snoonet.org/staff
+2014-07-23 11:53:08	--	- Our staff will continue to work closely with users and communities
+2014-07-23 11:53:08	--	- to develop new features and accommodations for events communities may
+2014-07-23 11:53:08	--	- be having.
+2014-07-23 11:53:08	--	-
+2014-07-23 11:53:08	--	- Need help? /join #help
+2014-07-23 11:53:08	--	- Have ideas/requests? /join #snoonet
+2014-07-23 11:53:08	--	-
+2014-07-23 11:53:08	--	- You may modmail /r/snoonet (http://goo.gl/WYIs1P) for web based support.
+2014-07-23 11:53:08	--	- Please be specific in details, be sure to include your NickServ name
+2014-07-23 11:53:08	--	- and any issues you may have.
+2014-07-23 11:53:08	--	-
+2014-07-23 11:53:08	--	- Revised 5/2/2014
+2014-07-23 11:53:08	--	-
+2014-07-23 11:53:08	--	- --------------------
+2014-07-23 11:53:08	--	- Snoonet COPPA Notice
+2014-07-23 11:53:08	--	- --------------------
+2014-07-23 11:53:08	--	-
+2014-07-23 11:53:08	--	- While Snoonet welcomes users and communities from all ends
+2014-07-23 11:53:08	--	- of the spectrum, our network is not designed for nor aimed
+2014-07-23 11:53:08	--	- at children - in accordance with the United States government
+2014-07-23 11:53:08	--	- and the Children's Online Privacy Protection Act of 1998,
+2014-07-23 11:53:08	--	- individuals under the age of 13 are not permitted to browse
+2014-07-23 11:53:08	--	- Snoonet nor create user accounts. We strongly recommend that
+2014-07-23 11:53:08	--	- minors 13 years of age or older ask their parents for
+2014-07-23 11:53:08	--	- permission before logging on, and to refrain from posting
+2014-07-23 11:53:08	--	- any information about themselves, personal or otherwise, on
+2014-07-23 11:53:08	--	- the network. If you have collected information from or about
+2014-07-23 11:53:08	--	- a child under the age of 13, you will face a network ban.
+2014-07-23 11:53:08	--	End of message of the day.
+2014-07-23 11:53:08	--	There are 69 users and 2184 invisible on 11 servers
+2014-07-23 11:53:08	--	72 :operator(s) online
+2014-07-23 11:53:08	--	1083 :channels formed
+2014-07-23 11:53:08	--	I have 383 clients and 1 servers
+2014-07-23 11:53:08	--	Current Local Users: 383  Max: 435
+2014-07-23 11:53:08	--	Current Global Users: 2253  Max: 2378
+2014-07-23 11:53:08	--	Snoonet-mg3.uuf.us0t1f.IP :is now your displayed host
+2014-07-23 11:53:08	--	User mode [+xiw] by dan
+2014-07-23 11:53:08	--	InfoServ (InfoServ@services.snoonet.org): *** Message(s) of the Day ***
+2014-07-23 11:53:08	--	InfoServ (InfoServ@services.snoonet.org): [Channel Statistics] Notice from flotwig, posted 15:27 on 06/25/2014:
+2014-07-23 11:53:08	--	InfoServ (InfoServ@services.snoonet.org): Like numbers? /invite Statistics to your channel today, and he'll generate interesting statistics about your channel and the users within. Visit https://goo.gl/T1sxhj for an example (#reddit) and https://goo.gl/tUAEvh for a user-friendly guide today!
+2014-07-23 11:53:08	--	InfoServ (InfoServ@services.snoonet.org): [Bouncer Services] Notice from flotwig, posted 15:34 on 05/20/2014:
+2014-07-23 11:53:08	--	InfoServ (InfoServ@services.snoonet.org): Did you know that Snoonet offers free ZNC bouncers? Stay connected securely to Snoonet 24/7 with buffers that replay whenever you connect to ensure that you're never out of the loop. For more information or to sign up, join ##bnc
+2014-07-23 11:53:08	--	InfoServ (InfoServ@services.snoonet.org): [Open Proxy Scanning] Notice from idahodude, posted 22:01 on 10/29/2013:
+2014-07-23 11:53:08	--	InfoServ (InfoServ@services.snoonet.org): On connect to this network, you will be actively scanned to determine if your IP address is running an open proxy or poses a risk to our servers.  This is for the safety of the network and its users.
+2014-07-23 11:53:08	--	InfoServ (InfoServ@services.snoonet.org): [VHOSTS and Network Info] Notice from rdv, posted 03:06 on 04/12/2013:
+2014-07-23 11:53:08	--	InfoServ (InfoServ@services.snoonet.org): Please type /motd if hasn't been presented already for information regarding policies, vhosts (IP Spoofing), and network events such as gaming channels etc.
+2014-07-23 11:53:08	--	InfoServ (InfoServ@services.snoonet.org): [Webchat] Notice from rdv, posted 05:42 on 03/13/2013:
+2014-07-23 11:53:08	--	InfoServ (InfoServ@services.snoonet.org): For communities http://webchat.snoonet.org/yourchannel will link users directly to your IRC channel - We will be making webchat more user-friendly as time progresses, for those that do not know IRC too well. An example of webchat linking to reddit would be: http://webchat.snoonet.org/reddit - If you'd like to donate/help snoonet, contact us in #snoonet !
+2014-07-23 11:53:08	--	InfoServ (InfoServ@services.snoonet.org): *** End of Message(s) of the Day ***
+2014-07-23 11:53:08	--	NickServ (NickServ@services.snoonet.org): This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify <password>.
+2014-07-23 11:53:08	--	NickServ (NickServ@services.snoonet.org): You have 30 seconds to identify to your nickname before it is changed.
+2014-07-23 11:53:08	--	CTCP requested by StatServ: VERSION
+2014-07-23 11:53:08	--	CTCP reply to StatServ: VERSION WeeChat 0.4.1 (Jun 29 2013)
+2014-07-23 11:53:15	--	NickServ (NickServ@services.snoonet.org): This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify <password>.
+2014-07-23 11:53:15	--	NickServ (NickServ@services.snoonet.org): You have 30 seconds to identify to your nickname before it is changed.
+2014-07-23 11:53:28	--	MSG(nickserv): identify ******
+2014-07-23 11:53:29	--	NickServ (NickServ@services.snoonet.org): You are now identified for DanKai.
+2014-07-23 11:53:29	--	You are now logged in as DanKai (DanKai!dan@Snoonet-mg3.uuf.us0t1f.IP)
+2014-07-23 11:53:29	--	User mode [-x] by veronica.snoonet.org
+2014-07-23 11:53:29	--	user/DanKai :is now your displayed host
+2014-07-23 11:54:04	--	ChanServ (ChanServ@services.snoonet.org): [#subredditdrama] Rules for #subredditdrama: Don't be a dick and don't release personal info. Mods are oped but may not be available at any given time
+2014-07-23 12:13:31	--	irc: connecting to server irc.snoonet.org/6667...
+2014-07-23 12:13:32	--	irc: connected to irc.snoonet.org/6667 (173.255.215.131)
+2014-07-23 12:13:32	--	fremont.snoonet.org (fremont.snoonet.org): *** Looking up your hostname...
+2014-07-23 12:13:32	--	fremont.snoonet.org (fremont.snoonet.org): *** Found your hostname (cpe-107-184-110-135.socal.res.rr.com) -- cached
+2014-07-23 12:13:32	--	This server has anti-spambot mechanisms enabled.
+2014-07-23 12:13:32	--	Malicious bots, spammers, and other automated systems of dubious origin are NOT welcome here.
+2014-07-23 12:13:32	--	CTCP requested by fremont.snoonet.org: TIME
+2014-07-23 12:13:32	--	CTCP reply to fremont.snoonet.org: TIME Wed, 23 Jul 2014 12:13:32 -0700
+2014-07-23 12:13:32	--	fremont.snoonet.org (fremont.snoonet.org): *** If you are having problems connecting due to ping timeouts, please type /quote PONG bGegGQ]FkC or /raw PONG bGegGQ]FkC now.
+2014-07-23 12:13:33	--	fremont.snoonet.org (fremont.snoonet.org): Welcome to Snoonet!
+2014-07-23 12:13:33	--	Welcome to the Snoonet IRC Network dan!dan@cpe-107-184-110-135.socal.res.rr.com
+2014-07-23 12:13:33	--	Your host is fremont.snoonet.org, running version InspIRCd-2.0
+2014-07-23 12:13:33	--	This server was created 04:12:12 Jun  8 2014
+2014-07-23 12:13:33	--	fremont.snoonet.org InspIRCd-2.0 BGHILRSTWcdghikorswx ABCDFGHIJKLMNOPQRSTXYZbcdefghijklmnoprstuvwxz FHIJLXYZbdefghjklovwx
+2014-07-23 12:13:33	--	AWAYLEN=200 CALLERID=g CASEMAPPING=rfc1459 CHANMODES=IXZbegw,k,FHJLdfjlx,ABCDGKMNOPQRSTcimnprstuz CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU ESILENCE EXCEPTS=e EXTBAN=,ABCNOQRSTUcjmprsz FNC INVEX=I :are supported by this server
+2014-07-23 12:13:33	--	KICKLEN=255 MAP MAXBANS=60 MAXCHANNELS=200 MAXPARA=32 MAXTARGETS=20 MODES=50 NAMESX NETWORK=Snoonet NICKLEN=27 OPERLOG PREFIX=(Yohv)!@%+ REMOVE :are supported by this server
+2014-07-23 12:13:33	--	SECURELIST SILENCE=32 SSL=[::]:6697 STARTTLS STATUSMSG=!@%+ TOPICLEN=1000 UHNAMES USERIP VBANLIST WALLCHOPS WALLVOICES WATCH=64 :are supported by this server
+2014-07-23 12:13:33	--	1FRAAELM8 :your unique ID
+2014-07-23 12:13:33	--	fremont.snoonet.org message of the day
+2014-07-23 12:13:33	--	- Welcome to the Snoonet IRC Network
+2014-07-23 12:13:33	--	- The home of reddit communities on IRC!
+2014-07-23 12:13:33	--	- Type /list to see which communities might
+2014-07-23 12:13:33	--	- interest you! The full channel list (with more detailed info) may also
+2014-07-23 12:13:33	--	- be found at http://stats.snoonet.org/index.php/channel
+2014-07-23 12:13:33	--	-
+2014-07-23 12:13:33	--	- We offer channel and user statistics for communities who wish to
+2014-07-23 12:13:33	--	- have them at http://stats.snoonet.org
+2014-07-23 12:13:33	--	- To request the stats services bot for your channel, please
+2014-07-23 12:13:33	--	- request assistance in #help.
+2014-07-23 12:13:33	--	-
+2014-07-23 12:13:33	--	- New to IRC? Please view http://www.irchelp.org/irchelp/new2irc.html
+2014-07-23 12:13:33	--	- to make sure you're up to par! It's not as hard as you think!
+2014-07-23 12:13:33	--	- If you need any help for Snoonet or IRC related questions,
+2014-07-23 12:13:33	--	- please /join #help and you will be assisted.
+2014-07-23 12:13:33	--	-
+2014-07-23 12:13:33	--	- Please note: #help is not for technical support with your computer.
+2014-07-23 12:13:33	--	- For technical support with your computer, please visit #techsupport.
+2014-07-23 12:13:33	--	-
+2014-07-23 12:13:33	--	- TOR users may access our services by viewing
+2014-07-23 12:13:33	--	- http://www.snoonet.org/tor and following its instructions.
+2014-07-23 12:13:33	--	-
+2014-07-23 12:13:33	--	- We encourage the use of SASL identification, but do not require it.
+2014-07-23 12:13:33	--	- http://www.snoonet.org/connect-auth for information on SASL connectivity.
+2014-07-23 12:13:33	--	-
+2014-07-23 12:13:33	--	- vHosts (hiding your scrambled IP address) are automatically applied
+2014-07-23 12:13:33	--	- to your account upon registration with nickserv and verification of
+2014-07-23 12:13:33	--	- your email address.
+2014-07-23 12:13:33	--	-
+2014-07-23 12:13:33	--	-
+2014-07-23 12:13:33	--	-
+2014-07-23 12:13:33	--	- Please view our short ruleset on www.snoonet.org
+2014-07-23 12:13:33	--	- We do not have very many rules, but our network is fully protected
+2014-07-23 12:13:33	--	- by automation. Failure to comply will result in a network ban.
+2014-07-23 12:13:33	--	-
+2014-07-23 12:13:33	--	-
+2014-07-23 12:13:33	--	- Our twitter may be found at http://www.twitter.com/snoonetIRC
+2014-07-23 12:13:33	--	- Or @snoonetIRC - Feel free to follow us on events, give-aways, tournaments,
+2014-07-23 12:13:33	--	- network news, and all Snoonet.org related news.
+2014-07-23 12:13:33	--	- For more detailed updates and network news, subscribe to
+2014-07-23 12:13:33	--	- www.reddit.com/r/snoonet on reddit
+2014-07-23 12:13:33	--	-
+2014-07-23 12:13:33	--	-
+2014-07-23 12:13:33	--	- This network is based on www.reddit.com communities
+2014-07-23 12:13:33	--	-
+2014-07-23 12:13:33	--	- Our IRC Operators can be found by typing /stats P
+2014-07-23 12:13:33	--	- Viewing http://www.snoonet.org/staff
+2014-07-23 12:13:33	--	- Our staff will continue to work closely with users and communities
+2014-07-23 12:13:33	--	- to develop new features and accommodations for events communities may
+2014-07-23 12:13:33	--	- be having.
+2014-07-23 12:13:33	--	-
+2014-07-23 12:13:33	--	- Need help? /join #help
+2014-07-23 12:13:33	--	- Have ideas/requests? /join #snoonet
+2014-07-23 12:13:33	--	-
+2014-07-23 12:13:33	--	- You may modmail /r/snoonet (http://goo.gl/WYIs1P) for web based support.
+2014-07-23 12:13:33	--	- Please be specific in details, be sure to include your NickServ name
+2014-07-23 12:13:33	--	- and any issues you may have.
+2014-07-23 12:13:33	--	-
+2014-07-23 12:13:33	--	- Revised 5/2/2014
+2014-07-23 12:13:33	--	-
+2014-07-23 12:13:33	--	- --------------------
+2014-07-23 12:13:33	--	- Snoonet COPPA Notice
+2014-07-23 12:13:33	--	- --------------------
+2014-07-23 12:13:33	--	-
+2014-07-23 12:13:33	--	- While Snoonet welcomes users and communities from all ends
+2014-07-23 12:13:33	--	- of the spectrum, our network is not designed for nor aimed
+2014-07-23 12:13:33	--	- at children - in accordance with the United States government
+2014-07-23 12:13:33	--	- and the Children's Online Privacy Protection Act of 1998,
+2014-07-23 12:13:33	--	- individuals under the age of 13 are not permitted to browse
+2014-07-23 12:13:33	--	- Snoonet nor create user accounts. We strongly recommend that
+2014-07-23 12:13:33	--	- minors 13 years of age or older ask their parents for
+2014-07-23 12:13:33	--	- permission before logging on, and to refrain from posting
+2014-07-23 12:13:33	--	- any information about themselves, personal or otherwise, on
+2014-07-23 12:13:33	--	- the network. If you have collected information from or about
+2014-07-23 12:13:33	--	- a child under the age of 13, you will face a network ban.
+2014-07-23 12:13:33	--	End of message of the day.
+2014-07-23 12:13:33	--	There are 71 users and 2189 invisible on 11 servers
+2014-07-23 12:13:33	--	72 :operator(s) online
+2014-07-23 12:13:33	--	1083 :channels formed
+2014-07-23 12:13:33	--	I have 412 clients and 1 servers
+2014-07-23 12:13:33	--	Current Local Users: 412  Max: 432
+2014-07-23 12:13:33	--	Current Global Users: 2260  Max: 3239
+2014-07-23 12:13:33	--	Snoonet-mg3.uuf.us0t1f.IP :is now your displayed host
+2014-07-23 12:13:33	--	User mode [+xiw] by dan
+2014-07-23 12:13:33	--	InfoServ (InfoServ@services.snoonet.org): *** Message(s) of the Day ***
+2014-07-23 12:13:33	--	InfoServ (InfoServ@services.snoonet.org): [Channel Statistics] Notice from flotwig, posted 15:27 on 06/25/2014:
+2014-07-23 12:13:33	--	InfoServ (InfoServ@services.snoonet.org): Like numbers? /invite Statistics to your channel today, and he'll generate interesting statistics about your channel and the users within. Visit https://goo.gl/T1sxhj for an example (#reddit) and https://goo.gl/tUAEvh for a user-friendly guide today!
+2014-07-23 12:13:33	--	InfoServ (InfoServ@services.snoonet.org): [Bouncer Services] Notice from flotwig, posted 15:34 on 05/20/2014:
+2014-07-23 12:13:33	--	InfoServ (InfoServ@services.snoonet.org): Did you know that Snoonet offers free ZNC bouncers? Stay connected securely to Snoonet 24/7 with buffers that replay whenever you connect to ensure that you're never out of the loop. For more information or to sign up, join ##bnc
+2014-07-23 12:13:33	--	InfoServ (InfoServ@services.snoonet.org): [Open Proxy Scanning] Notice from idahodude, posted 22:01 on 10/29/2013:
+2014-07-23 12:13:33	--	InfoServ (InfoServ@services.snoonet.org): On connect to this network, you will be actively scanned to determine if your IP address is running an open proxy or poses a risk to our servers.  This is for the safety of the network and its users.
+2014-07-23 12:13:33	--	InfoServ (InfoServ@services.snoonet.org): [VHOSTS and Network Info] Notice from rdv, posted 03:06 on 04/12/2013:
+2014-07-23 12:13:33	--	InfoServ (InfoServ@services.snoonet.org): Please type /motd if hasn't been presented already for information regarding policies, vhosts (IP Spoofing), and network events such as gaming channels etc.
+2014-07-23 12:13:33	--	InfoServ (InfoServ@services.snoonet.org): [Webchat] Notice from rdv, posted 05:42 on 03/13/2013:
+2014-07-23 12:13:33	--	InfoServ (InfoServ@services.snoonet.org): For communities http://webchat.snoonet.org/yourchannel will link users directly to your IRC channel - We will be making webchat more user-friendly as time progresses, for those that do not know IRC too well. An example of webchat linking to reddit would be: http://webchat.snoonet.org/reddit - If you'd like to donate/help snoonet, contact us in #snoonet !
+2014-07-23 12:13:33	--	InfoServ (InfoServ@services.snoonet.org): *** End of Message(s) of the Day ***
+2014-07-23 12:13:33	--	NickServ (NickServ@services.snoonet.org): This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify <password>.
+2014-07-23 12:13:33	--	NickServ (NickServ@services.snoonet.org): You have 30 seconds to identify to your nickname before it is changed.
+2014-07-23 12:13:33	--	CTCP requested by StatServ: VERSION
+2014-07-23 12:13:33	--	CTCP reply to StatServ: VERSION WeeChat 0.4.1 (Jun 29 2013)
+2014-07-23 12:13:38	--	NickServ (NickServ@services.snoonet.org): This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify <password>.
+2014-07-23 12:13:38	--	NickServ (NickServ@services.snoonet.org): You have 30 seconds to identify to your nickname before it is changed.
+2014-07-23 12:13:53	--	MSG(nickserv): identify ******
+2014-07-23 12:13:53	--	NickServ (NickServ@services.snoonet.org): You are now identified for DanKai.
+2014-07-23 12:13:53	--	You are now logged in as DanKai (DanKai!dan@Snoonet-mg3.uuf.us0t1f.IP)
+2014-07-23 12:13:53	--	User mode [-x] by fremont.snoonet.org
+2014-07-23 12:13:53	--	user/DanKai :is now your displayed host
+2014-07-23 12:14:12	--	ChanServ (ChanServ@services.snoonet.org): [#subredditdrama] Rules for #subredditdrama: Don't be a dick and don't release personal info. Mods are oped but may not be available at any given time
+2014-07-23 12:27:22	=!=	irc: "part" command can only be executed in a channel or private buffer

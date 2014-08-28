@@ -1,0 +1,1133 @@
+2014-01-26 11:09:50		Plugins loaded: alias, charset, irc, logger, xfer
+2014-01-26 11:15:03		Plugins loaded: alias, aspell, charset, fifo, irc, logger, lua, perl, python, relay, rmodifier, ruby, script, tcl, xfer
+2014-01-26 11:17:27	=!=	Error: unknown command "hostname" (type /help for help)
+2014-01-26 11:17:32	=!=	Error: unknown command "host" (type /help for help)
+2014-01-26 11:17:48	=!=	Error: unknown command "realname" (type /help for help)
+2014-01-26 11:17:51		[core]
+2014-01-26 11:17:51		  away    command filter  key     plugin  repeat  upgrade window 
+2014-01-26 11:17:51		  bar     cursor  help    layout  proxy   save    uptime 
+2014-01-26 11:17:51		  buffer  debug   history mouse   quit    set     version
+2014-01-26 11:17:51		  color   eval    input   mute    reload  unset   wait   
+2014-01-26 11:17:51		[aspell]
+2014-01-26 11:17:51		  aspell
+2014-01-26 11:17:51		[script]
+2014-01-26 11:17:51		  script
+2014-01-26 11:17:51		[perl]
+2014-01-26 11:17:51		  perl
+2014-01-26 11:17:51		[relay]
+2014-01-26 11:17:51		  relay
+2014-01-26 11:17:51		[xfer]
+2014-01-26 11:17:51		  me   xfer
+2014-01-26 11:17:51		[tcl]
+2014-01-26 11:17:51		  tcl
+2014-01-26 11:17:51		[ruby]
+2014-01-26 11:17:51		  ruby
+2014-01-26 11:17:51		[irc]
+2014-01-26 11:17:51		  admin      disconnect lusers     part       sapart     unban     
+2014-01-26 11:17:51		  allchan    halfop     map        ping       saquit     userhost  
+2014-01-26 11:17:51		  allserv    ignore     me         pong       server     users     
+2014-01-26 11:17:51		  ban        info       mode       query      service    version   
+2014-01-26 11:17:51		  connect    invite     motd       quiet      servlist   voice     
+2014-01-26 11:17:51		  ctcp       ison       msg        quote      squery     wallchops 
+2014-01-26 11:17:51		  cycle      join       names      reconnect  squit      wallops   
+2014-01-26 11:17:51		  dcc        kick       nick       rehash     stats      who       
+2014-01-26 11:17:51		  dehalfop   kickban    notice     restart    summon     whois     
+2014-01-26 11:17:51		  deop       kill       notify     sajoin     time       whowas    
+2014-01-26 11:17:51		  devoice    links      op         samode     topic     
+2014-01-26 11:17:51		  die        list       oper       sanick     trace     
+2014-01-26 11:17:51		[rmodifier]
+2014-01-26 11:17:51		  rmodifier
+2014-01-26 11:17:51		[python]
+2014-01-26 11:17:51		  python
+2014-01-26 11:17:51		[alias]
+2014-01-26 11:17:51		  AAWAY   ANICK   CL      J       M       REDRAW  UB      W       WW     
+2014-01-26 11:17:51		  alias   BYE     CLOSE   K       MUB     SAY     UMODE   WC     
+2014-01-26 11:17:51		  AME     C       EXIT    KB      N       SIGNOFF unalias WI     
+2014-01-26 11:17:51		  AMSG    CHAT    IG      LEAVE   Q       T       V       WII    
+2014-01-26 11:17:51		[charset]
+2014-01-26 11:17:51		  charset
+2014-01-26 11:17:51		[logger]
+2014-01-26 11:17:51		  logger
+2014-01-26 11:17:51		[lua]
+2014-01-26 11:17:51		  lua
+2014-01-26 11:18:31	=!=	Error: option "hostname" not found
+2014-01-26 11:19:56	=!=	Error: option "realname" not found
+2014-01-26 11:22:57	=!=	Error: option "real_name" not found
+2014-01-26 11:26:26		irc: server irc.snoonet.org created (temporary server, NOT SAVED!)
+2014-07-22 18:45:21		Plugins loaded: alias, aspell, charset, fifo, irc, logger, lua, perl, python, relay, rmodifier, ruby, script, tcl, xfer
+2014-07-22 18:51:44		Plugins loaded: alias, aspell, charset, fifo, irc, logger, lua, perl, python, relay, rmodifier, ruby, script, tcl, xfer
+2014-07-22 18:52:59		irc: server chat.freenode.net created (temporary server, NOT SAVED!)
+2014-07-22 18:54:11	=!=	Error: unknown command "reset" (type /help for help)
+2014-07-22 19:07:08		Plugins loaded: alias, aspell, charset, fifo, irc, logger, lua, perl, python, relay, rmodifier, ruby, script, tcl, xfer
+2014-07-22 19:07:30		irc: server chat.freenode.net created (temporary server, NOT SAVED!)
+2014-07-22 19:07:37	=!=	ruby: unable to run function "auth_notice_cb"
+2014-07-22 19:07:37	=!=	ruby: error: (eval):77:in `string_eval_expression': wrong number of arguments(4 for 3) (ArgumentError)
+2014-07-22 19:07:37	=!=	ruby: error:      from (eval):77:in `auth_notice_cb'
+2014-07-22 19:07:46	=!=	Error: option "nick" not found
+2014-07-22 19:09:31		[startup] (weechat.conf)
+2014-07-22 19:09:31		  weechat.startup.command_after_plugins = ""
+2014-07-22 19:09:31		  weechat.startup.command_before_plugins = ""
+2014-07-22 19:09:31		  weechat.startup.display_logo = on
+2014-07-22 19:09:31		  weechat.startup.display_version = on
+2014-07-22 19:09:31		  weechat.startup.sys_rlimit = ""
+2014-07-22 19:09:31		[look] (weechat.conf)
+2014-07-22 19:09:31		  weechat.look.align_end_of_lines = message
+2014-07-22 19:09:31		  weechat.look.bar_more_down = "++"
+2014-07-22 19:09:31		  weechat.look.bar_more_left = "<<"
+2014-07-22 19:09:31		  weechat.look.bar_more_right = ">>"
+2014-07-22 19:09:31		  weechat.look.bar_more_up = "--"
+2014-07-22 19:09:31		  weechat.look.buffer_notify_default = all
+2014-07-22 19:09:31		  weechat.look.buffer_time_format = "%H:%M:%S"
+2014-07-22 19:09:31		  weechat.look.color_basic_force_bold = off
+2014-07-22 19:09:31		  weechat.look.color_inactive_buffer = off
+2014-07-22 19:09:31		  weechat.look.color_inactive_message = on
+2014-07-22 19:09:31		  weechat.look.color_inactive_prefix = on
+2014-07-22 19:09:31		  weechat.look.color_inactive_prefix_buffer = on
+2014-07-22 19:09:31		  weechat.look.color_inactive_time = off
+2014-07-22 19:09:31		  weechat.look.color_inactive_window = off
+2014-07-22 19:09:31		  weechat.look.color_nick_offline = off
+2014-07-22 19:09:31		  weechat.look.color_pairs_auto_reset = 5
+2014-07-22 19:09:31		  weechat.look.color_real_white = off
+2014-07-22 19:09:31		  weechat.look.command_chars = ""
+2014-07-22 19:09:31		  weechat.look.confirm_quit = off
+2014-07-22 19:09:31		  weechat.look.day_change = on
+2014-07-22 19:09:31		  weechat.look.day_change_time_format = "%a, %d %b %Y"
+2014-07-22 19:09:31		  weechat.look.eat_newline_glitch = off
+2014-07-22 19:09:31		  weechat.look.highlight = ""
+2014-07-22 19:09:31		  weechat.look.highlight_regex = ""
+2014-07-22 19:09:31		  weechat.look.highlight_tags = ""
+2014-07-22 19:09:31		  weechat.look.hotlist_add_buffer_if_away = on
+2014-07-22 19:09:31		  weechat.look.hotlist_buffer_separator = ", "
+2014-07-22 19:09:31		  weechat.look.hotlist_count_max = 2
+2014-07-22 19:09:31		  weechat.look.hotlist_count_min_msg = 2
+2014-07-22 19:09:31		  weechat.look.hotlist_names_count = 3
+2014-07-22 19:09:31		  weechat.look.hotlist_names_length = 0
+2014-07-22 19:09:31		  weechat.look.hotlist_names_level = 12
+2014-07-22 19:09:31		  weechat.look.hotlist_names_merged_buffers = off
+2014-07-22 19:09:31		  weechat.look.hotlist_short_names = on
+2014-07-22 19:09:31		  weechat.look.hotlist_sort = group_time_asc
+2014-07-22 19:09:31		  weechat.look.hotlist_unique_numbers = on
+2014-07-22 19:09:31		  weechat.look.input_cursor_scroll = 20
+2014-07-22 19:09:31		  weechat.look.input_share = none
+2014-07-22 19:09:31		  weechat.look.input_share_overwrite = off
+2014-07-22 19:09:31		  weechat.look.input_undo_max = 32
+2014-07-22 19:09:31		  weechat.look.item_buffer_filter = "*"
+2014-07-22 19:09:31		  weechat.look.item_time_format = "%H:%M"
+2014-07-22 19:09:31		  weechat.look.jump_current_to_previous_buffer = on
+2014-07-22 19:09:31		  weechat.look.jump_previous_buffer_when_closing = on
+2014-07-22 19:09:31		  weechat.look.jump_smart_back_to_buffer = on
+2014-07-22 19:09:31		  weechat.look.mouse = off
+2014-07-22 19:09:31		  weechat.look.mouse_timer_delay = 100
+2014-07-22 19:09:31		  weechat.look.nick_prefix = ""
+2014-07-22 19:09:31		  weechat.look.nick_suffix = ""
+2014-07-22 19:09:31		  weechat.look.paste_bracketed = off
+2014-07-22 19:09:31		  weechat.look.paste_bracketed_timer_delay = 10
+2014-07-22 19:09:31		  weechat.look.paste_max_lines = 1
+2014-07-22 19:09:31		  weechat.look.prefix_action = " *"
+2014-07-22 19:09:31		  weechat.look.prefix_align = right
+2014-07-22 19:09:31		  weechat.look.prefix_align_max = 0
+2014-07-22 19:09:31		  weechat.look.prefix_align_min = 0
+2014-07-22 19:09:31		  weechat.look.prefix_align_more = "+"
+2014-07-22 19:09:31		  weechat.look.prefix_align_more_after = on
+2014-07-22 19:09:31		  weechat.look.prefix_buffer_align = right
+2014-07-22 19:09:31		  weechat.look.prefix_buffer_align_max = 0
+2014-07-22 19:09:31		  weechat.look.prefix_buffer_align_more = "+"
+2014-07-22 19:09:31		  weechat.look.prefix_buffer_align_more_after = on
+2014-07-22 19:09:31		  weechat.look.prefix_error = "=!="
+2014-07-22 19:09:31		  weechat.look.prefix_join = "-->"
+2014-07-22 19:09:31		  weechat.look.prefix_network = "--"
+2014-07-22 19:09:31		  weechat.look.prefix_quit = "<--"
+2014-07-22 19:09:31		  weechat.look.prefix_same_nick = ""
+2014-07-22 19:09:31		  weechat.look.prefix_suffix = "|"
+2014-07-22 19:09:31		  weechat.look.read_marker = line
+2014-07-22 19:09:31		  weechat.look.read_marker_always_show = off
+2014-07-22 19:09:31		  weechat.look.read_marker_string = "- "
+2014-07-22 19:09:31		  weechat.look.save_config_on_exit = on
+2014-07-22 19:09:31		  weechat.look.save_layout_on_exit = none
+2014-07-22 19:09:31		  weechat.look.scroll_amount = 3
+2014-07-22 19:09:31		  weechat.look.scroll_bottom_after_switch = off
+2014-07-22 19:09:31		  weechat.look.scroll_page_percent = 100
+2014-07-22 19:09:31		  weechat.look.search_text_not_found_alert = on
+2014-07-22 19:09:31		  weechat.look.separator_horizontal = "-"
+2014-07-22 19:09:31		  weechat.look.separator_vertical = ""
+2014-07-22 19:09:31		  weechat.look.set_title = on
+2014-07-22 19:09:31		  weechat.look.time_format = "%a, %d %b %Y %T"
+2014-07-22 19:09:31		  weechat.look.window_separator_horizontal = on
+2014-07-22 19:09:31		  weechat.look.window_separator_vertical = on
+2014-07-22 19:09:31		[color] (weechat.conf)
+2014-07-22 19:09:31		  weechat.color.bar_more = lightmagenta
+2014-07-22 19:09:31		  weechat.color.chat = default
+2014-07-22 19:09:31		  weechat.color.chat_bg = default
+2014-07-22 19:09:31		  weechat.color.chat_buffer = white
+2014-07-22 19:09:31		  weechat.color.chat_channel = white
+2014-07-22 19:09:31		  weechat.color.chat_delimiters = green
+2014-07-22 19:09:31		  weechat.color.chat_highlight = yellow
+2014-07-22 19:09:31		  weechat.color.chat_highlight_bg = magenta
+2014-07-22 19:09:31		  weechat.color.chat_host = cyan
+2014-07-22 19:09:31		  weechat.color.chat_inactive_buffer = darkgray
+2014-07-22 19:09:31		  weechat.color.chat_inactive_window = darkgray
+2014-07-22 19:09:31		  weechat.color.chat_nick = lightcyan
+2014-07-22 19:09:31		  weechat.color.chat_nick_colors = "cyan,magenta,green,brown,lightblue,default,lightcyan,lightmagenta,lightgreen,blue"
+2014-07-22 19:09:31		  weechat.color.chat_nick_offline = darkgray
+2014-07-22 19:09:31		  weechat.color.chat_nick_offline_highlight = default
+2014-07-22 19:09:31		  weechat.color.chat_nick_offline_highlight_bg = darkgray
+2014-07-22 19:09:31		  weechat.color.chat_nick_other = cyan
+2014-07-22 19:09:31		  weechat.color.chat_nick_prefix = green
+2014-07-22 19:09:31		  weechat.color.chat_nick_self = white
+2014-07-22 19:09:31		  weechat.color.chat_nick_suffix = green
+2014-07-22 19:09:31		  weechat.color.chat_prefix_action = white
+2014-07-22 19:09:31		  weechat.color.chat_prefix_buffer = brown
+2014-07-22 19:09:31		  weechat.color.chat_prefix_buffer_inactive_buffer = darkgray
+2014-07-22 19:09:31		  weechat.color.chat_prefix_error = yellow
+2014-07-22 19:09:31		  weechat.color.chat_prefix_join = lightgreen
+2014-07-22 19:09:31		  weechat.color.chat_prefix_more = lightmagenta
+2014-07-22 19:09:31		  weechat.color.chat_prefix_network = magenta
+2014-07-22 19:09:31		  weechat.color.chat_prefix_quit = lightred
+2014-07-22 19:09:31		  weechat.color.chat_prefix_suffix = green
+2014-07-22 19:09:31		  weechat.color.chat_read_marker = magenta
+2014-07-22 19:09:31		  weechat.color.chat_read_marker_bg = default
+2014-07-22 19:09:31		  weechat.color.chat_server = brown
+2014-07-22 19:09:31		  weechat.color.chat_tags = red
+2014-07-22 19:09:31		  weechat.color.chat_text_found = yellow
+2014-07-22 19:09:31		  weechat.color.chat_text_found_bg = lightmagenta
+2014-07-22 19:09:31		  weechat.color.chat_time = default
+2014-07-22 19:09:31		  weechat.color.chat_time_delimiters = brown
+2014-07-22 19:09:31		  weechat.color.chat_value = cyan
+2014-07-22 19:09:31		  weechat.color.input_actions = lightgreen
+2014-07-22 19:09:31		  weechat.color.input_text_not_found = red
+2014-07-22 19:09:31		  weechat.color.nicklist_away = cyan
+2014-07-22 19:09:31		  weechat.color.nicklist_group = green
+2014-07-22 19:09:31		  weechat.color.nicklist_offline = blue
+2014-07-22 19:09:31		  weechat.color.separator = blue
+2014-07-22 19:09:31		  weechat.color.status_count_highlight = magenta
+2014-07-22 19:09:31		  weechat.color.status_count_msg = brown
+2014-07-22 19:09:31		  weechat.color.status_count_other = default
+2014-07-22 19:09:31		  weechat.color.status_count_private = green
+2014-07-22 19:09:31		  weechat.color.status_data_highlight = lightmagenta
+2014-07-22 19:09:31		  weechat.color.status_data_msg = yellow
+2014-07-22 19:09:31		  weechat.color.status_data_other = default
+2014-07-22 19:09:31		  weechat.color.status_data_private = lightgreen
+2014-07-22 19:09:31		  weechat.color.status_filter = green
+2014-07-22 19:09:31		  weechat.color.status_more = yellow
+2014-07-22 19:09:31		  weechat.color.status_name = white
+2014-07-22 19:09:31		  weechat.color.status_name_ssl = lightgreen
+2014-07-22 19:09:31		  weechat.color.status_number = yellow
+2014-07-22 19:09:31		  weechat.color.status_time = default
+2014-07-22 19:09:31		[completion] (weechat.conf)
+2014-07-22 19:09:31		  weechat.completion.base_word_until_cursor = on
+2014-07-22 19:09:31		  weechat.completion.default_template = "%(nicks)|%(irc_channels)"
+2014-07-22 19:09:31		  weechat.completion.nick_add_space = on
+2014-07-22 19:09:31		  weechat.completion.nick_completer = ":"
+2014-07-22 19:09:31		  weechat.completion.nick_first_only = off
+2014-07-22 19:09:31		  weechat.completion.nick_ignore_chars = "[]`_-^"
+2014-07-22 19:09:31		  weechat.completion.partial_completion_alert = on
+2014-07-22 19:09:31		  weechat.completion.partial_completion_command = off
+2014-07-22 19:09:31		  weechat.completion.partial_completion_command_arg = off
+2014-07-22 19:09:31		  weechat.completion.partial_completion_count = on
+2014-07-22 19:09:31		  weechat.completion.partial_completion_other = off
+2014-07-22 19:09:31		[history] (weechat.conf)
+2014-07-22 19:09:31		  weechat.history.display_default = 5
+2014-07-22 19:09:31		  weechat.history.max_buffer_lines_minutes = 0
+2014-07-22 19:09:31		  weechat.history.max_buffer_lines_number = 4096
+2014-07-22 19:09:31		  weechat.history.max_commands = 100
+2014-07-22 19:09:31		  weechat.history.max_visited_buffers = 50
+2014-07-22 19:09:31		[network] (weechat.conf)
+2014-07-22 19:09:31		  weechat.network.connection_timeout = 60
+2014-07-22 19:09:31		  weechat.network.gnutls_ca_file = "/etc/ssl/certs/ca-certificates.crt"
+2014-07-22 19:09:31		  weechat.network.gnutls_handshake_timeout = 30
+2014-07-22 19:09:31		[plugin] (weechat.conf)
+2014-07-22 19:09:31		  weechat.plugin.autoload = "*"
+2014-07-22 19:09:31		  weechat.plugin.debug = off
+2014-07-22 19:09:31		  weechat.plugin.extension = ".so,.dll"
+2014-07-22 19:09:31		  weechat.plugin.path = "%h/plugins"
+2014-07-22 19:09:31		  weechat.plugin.save_config_on_unload = on
+2014-07-22 19:09:31		[bar] (weechat.conf)
+2014-07-22 19:09:31		  weechat.bar.input.color_bg = default
+2014-07-22 19:09:31		  weechat.bar.input.color_delim = cyan
+2014-07-22 19:09:31		  weechat.bar.input.color_fg = default
+2014-07-22 19:09:31		  weechat.bar.input.conditions = ""
+2014-07-22 19:09:31		  weechat.bar.input.filling_left_right = vertical
+2014-07-22 19:09:31		  weechat.bar.input.filling_top_bottom = horizontal
+2014-07-22 19:09:31		  weechat.bar.input.hidden = off
+2014-07-22 19:09:31		  weechat.bar.input.items = "[input_prompt]+(away),[input_search],[input_paste],input_text"
+2014-07-22 19:09:31		  weechat.bar.input.position = bottom
+2014-07-22 19:09:31		  weechat.bar.input.priority = 1000
+2014-07-22 19:09:31		  weechat.bar.input.separator = off
+2014-07-22 19:09:31		  weechat.bar.input.size = 1
+2014-07-22 19:09:31		  weechat.bar.input.size_max = 0
+2014-07-22 19:09:31		  weechat.bar.input.type = window
+2014-07-22 19:09:31		  weechat.bar.nicklist.color_bg = default
+2014-07-22 19:09:31		  weechat.bar.nicklist.color_delim = cyan
+2014-07-22 19:09:31		  weechat.bar.nicklist.color_fg = default
+2014-07-22 19:09:31		  weechat.bar.nicklist.conditions = "${nicklist}"
+2014-07-22 19:09:31		  weechat.bar.nicklist.filling_left_right = vertical
+2014-07-22 19:09:31		  weechat.bar.nicklist.filling_top_bottom = columns_vertical
+2014-07-22 19:09:31		  weechat.bar.nicklist.hidden = off
+2014-07-22 19:09:31		  weechat.bar.nicklist.items = "buffer_nicklist"
+2014-07-22 19:09:31		  weechat.bar.nicklist.position = right
+2014-07-22 19:09:31		  weechat.bar.nicklist.priority = 200
+2014-07-22 19:09:31		  weechat.bar.nicklist.separator = on
+2014-07-22 19:09:31		  weechat.bar.nicklist.size = 0
+2014-07-22 19:09:31		  weechat.bar.nicklist.size_max = 0
+2014-07-22 19:09:31		  weechat.bar.nicklist.type = window
+2014-07-22 19:09:31		  weechat.bar.status.color_bg = blue
+2014-07-22 19:09:31		  weechat.bar.status.color_delim = cyan
+2014-07-22 19:09:31		  weechat.bar.status.color_fg = default
+2014-07-22 19:09:31		  weechat.bar.status.conditions = ""
+2014-07-22 19:09:31		  weechat.bar.status.filling_left_right = vertical
+2014-07-22 19:09:31		  weechat.bar.status.filling_top_bottom = horizontal
+2014-07-22 19:09:31		  weechat.bar.status.hidden = off
+2014-07-22 19:09:31		  weechat.bar.status.items = "[time],[buffer_count],[buffer_plugin],buffer_number+:+buffer_name+(buffer_modes)+{buffer_nicklist_count}+buffer_filter,[lag],[hotlist],completion,scroll"
+2014-07-22 19:09:31		  weechat.bar.status.position = bottom
+2014-07-22 19:09:31		  weechat.bar.status.priority = 500
+2014-07-22 19:09:31		  weechat.bar.status.separator = off
+2014-07-22 19:09:31		  weechat.bar.status.size = 1
+2014-07-22 19:09:31		  weechat.bar.status.size_max = 0
+2014-07-22 19:09:31		  weechat.bar.status.type = window
+2014-07-22 19:09:31		  weechat.bar.title.color_bg = blue
+2014-07-22 19:09:31		  weechat.bar.title.color_delim = cyan
+2014-07-22 19:09:31		  weechat.bar.title.color_fg = default
+2014-07-22 19:09:31		  weechat.bar.title.conditions = ""
+2014-07-22 19:09:31		  weechat.bar.title.filling_left_right = vertical
+2014-07-22 19:09:31		  weechat.bar.title.filling_top_bottom = horizontal
+2014-07-22 19:09:31		  weechat.bar.title.hidden = off
+2014-07-22 19:09:31		  weechat.bar.title.items = "buffer_title"
+2014-07-22 19:09:31		  weechat.bar.title.position = top
+2014-07-22 19:09:31		  weechat.bar.title.priority = 500
+2014-07-22 19:09:31		  weechat.bar.title.separator = off
+2014-07-22 19:09:31		  weechat.bar.title.size = 1
+2014-07-22 19:09:31		  weechat.bar.title.size_max = 0
+2014-07-22 19:09:31		  weechat.bar.title.type = window
+2014-07-22 19:09:31		[var] (plugins.conf)
+2014-07-22 19:09:31		  plugins.var.fifo.fifo = "on"
+2014-07-22 19:09:31		  plugins.var.lua.check_license = "off"
+2014-07-22 19:09:31		  plugins.var.perl.check_license = "off"
+2014-07-22 19:09:31		  plugins.var.perl.colorize_lines.blacklist_buffers = ""
+2014-07-22 19:09:31		  plugins.var.perl.colorize_lines.buffers = "all"
+2014-07-22 19:09:31		  plugins.var.perl.colorize_lines.highlight = "on"
+2014-07-22 19:09:31		  plugins.var.perl.colorize_lines.lines = "on"
+2014-07-22 19:09:31		  plugins.var.perl.colorize_lines.nicks = ""
+2014-07-22 19:09:31		  plugins.var.perl.colorize_lines.own_lines = "on"
+2014-07-22 19:09:31		  plugins.var.python.check_license = "off"
+2014-07-22 19:09:31		  plugins.var.python.colorize_nicks.blacklist_channels = ""
+2014-07-22 19:09:31		  plugins.var.python.colorize_nicks.blacklist_nicks = "so,root"
+2014-07-22 19:09:31		  plugins.var.python.colorize_nicks.colorize_input = "off"
+2014-07-22 19:09:31		  plugins.var.python.colorize_nicks.greedy_matching = "on"
+2014-07-22 19:09:31		  plugins.var.python.colorize_nicks.ignore_tags = ""
+2014-07-22 19:09:31		  plugins.var.python.colorize_nicks.min_nick_length = "2"
+2014-07-22 19:09:31		  plugins.var.ruby.check_license = "off"
+2014-07-22 19:09:31		  plugins.var.tcl.check_license = "off"
+2014-07-22 19:09:31		[desc] (plugins.conf)
+2014-07-22 19:09:31		  plugins.desc.perl.colorize_lines.blacklist_buffers = "comma-separated list of channels to be ignored (e.g. freenode.#weechat,*.#python)"
+2014-07-22 19:09:31		  plugins.desc.perl.colorize_lines.buffers = "buffer type affected by the script (all/channel/query, default: all)"
+2014-07-22 19:09:31		  plugins.desc.perl.colorize_lines.highlight = "apply highlight color to the highlighted lines (off/on/nicks). the latter will limit highlighting to nicknames in option 'nicks'"
+2014-07-22 19:09:31		  plugins.desc.perl.colorize_lines.lines = "apply nickname color to the lines (off/on/nicks). the latter will limit highlighting to nicknames in option 'nicks'"
+2014-07-22 19:09:31		  plugins.desc.perl.colorize_lines.nicks = "comma-separater list of nicks (e.g. freenode.cat,*.dog) OR file name starting with '/' (e.g. /file.txt). in the latter case, nicknames will get loaded from that file inside weechat folder (e.g. from ~/.weechat/file.txt). nicknames in file are newline-separated (e.g. freenode.dog\n*.cat)"
+2014-07-22 19:09:31		  plugins.desc.perl.colorize_lines.own_lines = "apply nickname color to own lines (off/on/only). the latter turns off all other kinds of coloring altogether"
+2014-07-22 19:09:31		[look] (aspell.conf)
+2014-07-22 19:09:31		  aspell.look.color = lightred
+2014-07-22 19:09:31		[check] (aspell.conf)
+2014-07-22 19:09:31		  aspell.check.commands = "ame,amsg,away,command,cycle,kick,kickban,me,msg,notice,part,query,quit,topic"
+2014-07-22 19:09:31		  aspell.check.default_dict = ""
+2014-07-22 19:09:31		  aspell.check.during_search = off
+2014-07-22 19:09:31		  aspell.check.enabled = off
+2014-07-22 19:09:31		  aspell.check.real_time = off
+2014-07-22 19:09:31		  aspell.check.suggestions = -1
+2014-07-22 19:09:31		  aspell.check.word_min_length = 2
+2014-07-22 19:09:31		[look] (script.conf)
+2014-07-22 19:09:31		  script.look.columns = "%s %n %V %v %u | %d | %t"
+2014-07-22 19:09:31		  script.look.diff_color = on
+2014-07-22 19:09:31		  script.look.diff_command = "auto"
+2014-07-22 19:09:31		  script.look.display_source = on
+2014-07-22 19:09:31		  script.look.quiet_actions = on
+2014-07-22 19:09:31		  script.look.sort = "p,n"
+2014-07-22 19:09:31		  script.look.translate_description = on
+2014-07-22 19:09:31		  script.look.use_keys = on
+2014-07-22 19:09:31		[color] (script.conf)
+2014-07-22 19:09:31		  script.color.status_autoloaded = cyan
+2014-07-22 19:09:31		  script.color.status_held = white
+2014-07-22 19:09:31		  script.color.status_installed = lightcyan
+2014-07-22 19:09:31		  script.color.status_obsolete = lightmagenta
+2014-07-22 19:09:31		  script.color.status_popular = yellow
+2014-07-22 19:09:31		  script.color.status_running = lightgreen
+2014-07-22 19:09:31		  script.color.status_unknown = lightred
+2014-07-22 19:09:31		  script.color.text = default
+2014-07-22 19:09:31		  script.color.text_bg = default
+2014-07-22 19:09:31		  script.color.text_bg_selected = red
+2014-07-22 19:09:31		  script.color.text_date = default
+2014-07-22 19:09:32		  script.color.text_date_selected = white
+2014-07-22 19:09:32		  script.color.text_delimiters = darkgray
+2014-07-22 19:09:32		  script.color.text_description = default
+2014-07-22 19:09:32		  script.color.text_description_selected = white
+2014-07-22 19:09:32		  script.color.text_extension = default
+2014-07-22 19:09:32		  script.color.text_extension_selected = white
+2014-07-22 19:09:32		  script.color.text_name = cyan
+2014-07-22 19:09:32		  script.color.text_name_selected = lightcyan
+2014-07-22 19:09:32		  script.color.text_selected = white
+2014-07-22 19:09:32		  script.color.text_tags = brown
+2014-07-22 19:09:32		  script.color.text_tags_selected = yellow
+2014-07-22 19:09:32		  script.color.text_version = magenta
+2014-07-22 19:09:32		  script.color.text_version_loaded = default
+2014-07-22 19:09:32		  script.color.text_version_loaded_selected = white
+2014-07-22 19:09:32		  script.color.text_version_selected = lightmagenta
+2014-07-22 19:09:32		[scripts] (script.conf)
+2014-07-22 19:09:32		  script.scripts.autoload = on
+2014-07-22 19:09:32		  script.scripts.cache_expire = 60
+2014-07-22 19:09:32		  script.scripts.dir = "%h/script"
+2014-07-22 19:09:32		  script.scripts.hold = ""
+2014-07-22 19:09:32		  script.scripts.url = "http://www.weechat.org/files/plugins.xml.gz"
+2014-07-22 19:09:32		[look] (relay.conf)
+2014-07-22 19:09:32		  relay.look.auto_open_buffer = on
+2014-07-22 19:09:32		  relay.look.raw_messages = 256
+2014-07-22 19:09:32		[color] (relay.conf)
+2014-07-22 19:09:32		  relay.color.client = cyan
+2014-07-22 19:09:32		  relay.color.status_active = lightblue
+2014-07-22 19:09:32		  relay.color.status_auth_failed = lightred
+2014-07-22 19:09:32		  relay.color.status_connecting = yellow
+2014-07-22 19:09:32		  relay.color.status_disconnected = lightred
+2014-07-22 19:09:32		  relay.color.status_waiting_auth = brown
+2014-07-22 19:09:32		  relay.color.text = default
+2014-07-22 19:09:32		  relay.color.text_bg = default
+2014-07-22 19:09:32		  relay.color.text_selected = white
+2014-07-22 19:09:32		[network] (relay.conf)
+2014-07-22 19:09:32		  relay.network.allowed_ips = ""
+2014-07-22 19:09:32		  relay.network.bind_address = ""
+2014-07-22 19:09:32		  relay.network.compression_level = 6
+2014-07-22 19:09:32		  relay.network.ipv6 = on
+2014-07-22 19:09:32		  relay.network.max_clients = 5
+2014-07-22 19:09:32		  relay.network.password = ""
+2014-07-22 19:09:32		  relay.network.ssl_cert_key = "%h/ssl/relay.pem"
+2014-07-22 19:09:32		  relay.network.websocket_allowed_origins = ""
+2014-07-22 19:09:32		[irc] (relay.conf)
+2014-07-22 19:09:32		  relay.irc.backlog_max_minutes = 1440
+2014-07-22 19:09:32		  relay.irc.backlog_max_number = 256
+2014-07-22 19:09:32		  relay.irc.backlog_since_last_disconnect = on
+2014-07-22 19:09:32		  relay.irc.backlog_tags = "irc_privmsg"
+2014-07-22 19:09:32		  relay.irc.backlog_time_format = "[%H:%M] "
+2014-07-22 19:09:32		[look] (xfer.conf)
+2014-07-22 19:09:32		  xfer.look.auto_open_buffer = on
+2014-07-22 19:09:32		  xfer.look.progress_bar_size = 20
+2014-07-22 19:09:32		[color] (xfer.conf)
+2014-07-22 19:09:32		  xfer.color.status_aborted = lightred
+2014-07-22 19:09:32		  xfer.color.status_active = lightblue
+2014-07-22 19:09:32		  xfer.color.status_connecting = yellow
+2014-07-22 19:09:32		  xfer.color.status_done = lightgreen
+2014-07-22 19:09:32		  xfer.color.status_failed = lightred
+2014-07-22 19:09:32		  xfer.color.status_waiting = lightcyan
+2014-07-22 19:09:32		  xfer.color.text = default
+2014-07-22 19:09:32		  xfer.color.text_bg = default
+2014-07-22 19:09:32		  xfer.color.text_selected = white
+2014-07-22 19:09:32		[network] (xfer.conf)
+2014-07-22 19:09:32		  xfer.network.blocksize = 65536
+2014-07-22 19:09:32		  xfer.network.fast_send = on
+2014-07-22 19:09:32		  xfer.network.own_ip = ""
+2014-07-22 19:09:32		  xfer.network.port_range = ""
+2014-07-22 19:09:32		  xfer.network.speed_limit = 0
+2014-07-22 19:09:32		  xfer.network.timeout = 300
+2014-07-22 19:09:32		[file] (xfer.conf)
+2014-07-22 19:09:32		  xfer.file.auto_accept_chats = off
+2014-07-22 19:09:32		  xfer.file.auto_accept_files = off
+2014-07-22 19:09:32		  xfer.file.auto_accept_nicks = ""
+2014-07-22 19:09:32		  xfer.file.auto_rename = on
+2014-07-22 19:09:32		  xfer.file.auto_resume = on
+2014-07-22 19:09:32		  xfer.file.convert_spaces = on
+2014-07-22 19:09:32		  xfer.file.download_path = "%h/xfer"
+2014-07-22 19:09:32		  xfer.file.upload_path = "~"
+2014-07-22 19:09:32		  xfer.file.use_nick_in_filename = on
+2014-07-22 19:09:32		[look] (irc.conf)
+2014-07-22 19:09:32		  irc.look.buffer_switch_autojoin = on
+2014-07-22 19:09:32		  irc.look.buffer_switch_join = on
+2014-07-22 19:09:32		  irc.look.color_nicks_in_names = off
+2014-07-22 19:09:32		  irc.look.color_nicks_in_nicklist = off
+2014-07-22 19:09:32		  irc.look.color_nicks_in_server_messages = on
+2014-07-22 19:09:32		  irc.look.color_pv_nick_like_channel = on
+2014-07-22 19:09:32		  irc.look.ctcp_time_format = "%a, %d %b %Y %T %z"
+2014-07-22 19:09:32		  irc.look.display_away = local
+2014-07-22 19:09:32		  irc.look.display_ctcp_blocked = on
+2014-07-22 19:09:32		  irc.look.display_ctcp_reply = on
+2014-07-22 19:09:32		  irc.look.display_ctcp_unknown = on
+2014-07-22 19:09:32		  irc.look.display_host_join = on
+2014-07-22 19:09:32		  irc.look.display_host_join_local = on
+2014-07-22 19:09:32		  irc.look.display_host_quit = on
+2014-07-22 19:09:32		  irc.look.display_join_message = "329,332,333,366"
+2014-07-22 19:09:32		  irc.look.display_old_topic = on
+2014-07-22 19:09:32		  irc.look.display_pv_away_once = on
+2014-07-22 19:09:32		  irc.look.display_pv_back = on
+2014-07-22 19:09:32		  irc.look.highlight_channel = "$nick"
+2014-07-22 19:09:32		  irc.look.highlight_pv = "$nick"
+2014-07-22 19:09:32		  irc.look.highlight_server = "$nick"
+2014-07-22 19:09:32		  irc.look.highlight_tags = "irc_privmsg,irc_notice"
+2014-07-22 19:09:32		  irc.look.item_away_message = on
+2014-07-22 19:09:32		  irc.look.item_channel_modes_hide_key = off
+2014-07-22 19:09:32		  irc.look.item_display_server = buffer_plugin
+2014-07-22 19:09:32		  irc.look.item_nick_modes = on
+2014-07-22 19:09:32		  irc.look.item_nick_prefix = on
+2014-07-22 19:09:32		  irc.look.msgbuffer_fallback = current
+2014-07-22 19:09:32		  irc.look.new_channel_position = none
+2014-07-22 19:09:32		  irc.look.new_pv_position = none
+2014-07-22 19:09:32		  irc.look.nick_color_force = ""
+2014-07-22 19:09:32		  irc.look.nick_color_stop_chars = "_|["
+2014-07-22 19:09:32		  irc.look.nick_completion_smart = speakers
+2014-07-22 19:09:32		  irc.look.nick_mode = prefix
+2014-07-22 19:09:32		  irc.look.nick_mode_empty = off
+2014-07-22 19:09:32		  irc.look.nicks_hide_password = "nickserv"
+2014-07-22 19:09:32		  irc.look.notice_as_pv = auto
+2014-07-22 19:09:32		  irc.look.notify_tags_ison = "notify_message"
+2014-07-22 19:09:32		  irc.look.notify_tags_whois = "notify_message"
+2014-07-22 19:09:32		  irc.look.part_closes_buffer = off
+2014-07-22 19:09:32		  irc.look.pv_buffer = independent
+2014-07-22 19:09:32		  irc.look.raw_messages = 256
+2014-07-22 19:09:32		  irc.look.server_buffer = merge_with_core
+2014-07-22 19:09:32		  irc.look.smart_filter = on
+2014-07-22 19:09:32		  irc.look.smart_filter_delay = 5
+2014-07-22 19:09:32		  irc.look.smart_filter_join = on
+2014-07-22 19:09:32		  irc.look.smart_filter_join_unmask = 30
+2014-07-22 19:09:32		  irc.look.smart_filter_nick = on
+2014-07-22 19:09:32		  irc.look.smart_filter_quit = on
+2014-07-22 19:09:32		  irc.look.topic_strip_colors = off
+2014-07-22 19:09:32		[color] (irc.conf)
+2014-07-22 19:09:32		  irc.color.input_nick = lightcyan
+2014-07-22 19:09:32		  irc.color.item_away = yellow
+2014-07-22 19:09:32		  irc.color.item_channel_modes = default
+2014-07-22 19:09:32		  irc.color.item_lag_counting = default
+2014-07-22 19:09:32		  irc.color.item_lag_finished = yellow
+2014-07-22 19:09:32		  irc.color.message_join = green
+2014-07-22 19:09:32		  irc.color.message_quit = red
+2014-07-22 19:09:32		  irc.color.mirc_remap = "1,-1:darkgray"
+2014-07-22 19:09:32		  irc.color.nick_prefixes = "q:lightred;a:lightcyan;o:lightgreen;h:lightmagenta;v:yellow;*:lightblue"
+2014-07-22 19:09:32		  irc.color.notice = green
+2014-07-22 19:09:32		  irc.color.reason_quit = default
+2014-07-22 19:09:32		  irc.color.topic_new = white
+2014-07-22 19:09:32		  irc.color.topic_old = darkgray
+2014-07-22 19:09:32		[network] (irc.conf)
+2014-07-22 19:09:32		  irc.network.alternate_nick = on
+2014-07-22 19:09:32		  irc.network.autoreconnect_delay_growing = 2
+2014-07-22 19:09:32		  irc.network.autoreconnect_delay_max = 1800
+2014-07-22 19:09:32		  irc.network.colors_receive = on
+2014-07-22 19:09:32		  irc.network.colors_send = on
+2014-07-22 19:09:32		  irc.network.lag_check = 60
+2014-07-22 19:09:32		  irc.network.lag_min_show = 500
+2014-07-22 19:09:32		  irc.network.lag_reconnect = 0
+2014-07-22 19:09:32		  irc.network.lag_refresh_interval = 1
+2014-07-22 19:09:32		  irc.network.notify_check_ison = 1
+2014-07-22 19:09:32		  irc.network.notify_check_whois = 5
+2014-07-22 19:09:32		  irc.network.send_unknown_commands = off
+2014-07-22 19:09:32		  irc.network.whois_double_nick = on
+2014-07-22 19:09:32		[server_default] (irc.conf)
+2014-07-22 19:09:32		  irc.server_default.addresses = ""
+2014-07-22 19:09:32		  irc.server_default.anti_flood_prio_high = 2
+2014-07-22 19:09:32		  irc.server_default.anti_flood_prio_low = 2
+2014-07-22 19:09:32		  irc.server_default.autoconnect = off
+2014-07-22 19:09:32		  irc.server_default.autojoin = ""
+2014-07-22 19:09:32		  irc.server_default.autoreconnect = on
+2014-07-22 19:09:32		  irc.server_default.autoreconnect_delay = 10
+2014-07-22 19:09:32		  irc.server_default.autorejoin = off
+2014-07-22 19:09:32		  irc.server_default.autorejoin_delay = 30
+2014-07-22 19:09:32		  irc.server_default.away_check = 0
+2014-07-22 19:09:32		  irc.server_default.away_check_max_nicks = 25
+2014-07-22 19:09:32		  irc.server_default.capabilities = ""
+2014-07-22 19:09:32		  irc.server_default.command = ""
+2014-07-22 19:09:32		  irc.server_default.command_delay = 0
+2014-07-22 19:09:32		  irc.server_default.connection_timeout = 60
+2014-07-22 19:09:32		  irc.server_default.default_msg_part = "WeeChat %v"
+2014-07-22 19:09:32		  irc.server_default.default_msg_quit = "WeeChat %v"
+2014-07-22 19:09:32		  irc.server_default.ipv6 = on
+2014-07-22 19:09:32		  irc.server_default.local_hostname = ""
+2014-07-22 19:09:32		  irc.server_default.nicks = "dan,dan1,dan2,dan3,dan4"  (default: "")
+2014-07-22 19:09:32		  irc.server_default.notify = ""
+2014-07-22 19:09:32		  irc.server_default.password = ""
+2014-07-22 19:09:32		  irc.server_default.proxy = ""
+2014-07-22 19:09:32		  irc.server_default.realname = ""
+2014-07-22 19:09:32		  irc.server_default.sasl_mechanism = plain
+2014-07-22 19:09:32		  irc.server_default.sasl_password = ""
+2014-07-22 19:09:32		  irc.server_default.sasl_timeout = 15
+2014-07-22 19:09:32		  irc.server_default.sasl_username = ""
+2014-07-22 19:09:32		  irc.server_default.ssl = off
+2014-07-22 19:09:32		  irc.server_default.ssl_cert = ""
+2014-07-22 19:09:32		  irc.server_default.ssl_dhkey_size = 2048
+2014-07-22 19:09:32		  irc.server_default.ssl_priorities = "NORMAL"
+2014-07-22 19:09:32		  irc.server_default.ssl_verify = on
+2014-07-22 19:09:32		  irc.server_default.username = "dan"  (default: "")
+2014-07-22 19:09:32		[server] (irc.conf)
+2014-07-22 19:09:32		  irc.server.chat.freenode.net.addresses = "chat.freenode.net"  (default: (undefined))
+2014-07-22 19:09:32		  irc.server.chat.freenode.net.anti_flood_prio_high
+2014-07-22 19:09:32		  irc.server.chat.freenode.net.anti_flood_prio_low
+2014-07-22 19:09:32		  irc.server.chat.freenode.net.autoconnect
+2014-07-22 19:09:32		  irc.server.chat.freenode.net.autojoin
+2014-07-22 19:09:32		  irc.server.chat.freenode.net.autoreconnect
+2014-07-22 19:09:32		  irc.server.chat.freenode.net.autoreconnect_delay
+2014-07-22 19:09:32		  irc.server.chat.freenode.net.autorejoin
+2014-07-22 19:09:32		  irc.server.chat.freenode.net.autorejoin_delay
+2014-07-22 19:09:32		  irc.server.chat.freenode.net.away_check
+2014-07-22 19:09:32		  irc.server.chat.freenode.net.away_check_max_nicks
+2014-07-22 19:09:32		  irc.server.chat.freenode.net.capabilities
+2014-07-22 19:09:32		  irc.server.chat.freenode.net.command
+2014-07-22 19:09:32		  irc.server.chat.freenode.net.command_delay
+2014-07-22 19:09:32		  irc.server.chat.freenode.net.connection_timeout
+2014-07-22 19:09:32		  irc.server.chat.freenode.net.default_msg_part
+2014-07-22 19:09:32		  irc.server.chat.freenode.net.default_msg_quit
+2014-07-22 19:09:32		  irc.server.chat.freenode.net.ipv6
+2014-07-22 19:09:32		  irc.server.chat.freenode.net.local_hostname
+2014-07-22 19:09:32		  irc.server.chat.freenode.net.nicks
+2014-07-22 19:09:32		  irc.server.chat.freenode.net.notify
+2014-07-22 19:09:32		  irc.server.chat.freenode.net.password
+2014-07-22 19:09:32		  irc.server.chat.freenode.net.proxy
+2014-07-22 19:09:32		  irc.server.chat.freenode.net.realname
+2014-07-22 19:09:32		  irc.server.chat.freenode.net.sasl_mechanism
+2014-07-22 19:09:32		  irc.server.chat.freenode.net.sasl_password
+2014-07-22 19:09:32		  irc.server.chat.freenode.net.sasl_timeout
+2014-07-22 19:09:32		  irc.server.chat.freenode.net.sasl_username
+2014-07-22 19:09:32		  irc.server.chat.freenode.net.ssl
+2014-07-22 19:09:32		  irc.server.chat.freenode.net.ssl_cert
+2014-07-22 19:09:32		  irc.server.chat.freenode.net.ssl_dhkey_size
+2014-07-22 19:09:32		  irc.server.chat.freenode.net.ssl_priorities
+2014-07-22 19:09:32		  irc.server.chat.freenode.net.ssl_verify
+2014-07-22 19:09:32		  irc.server.chat.freenode.net.username
+2014-07-22 19:09:32		  irc.server.freenode.addresses = "chat.freenode.net/6667"  (default: (undefined))
+2014-07-22 19:09:32		  irc.server.freenode.anti_flood_prio_high
+2014-07-22 19:09:32		  irc.server.freenode.anti_flood_prio_low
+2014-07-22 19:09:32		  irc.server.freenode.autoconnect
+2014-07-22 19:09:32		  irc.server.freenode.autojoin
+2014-07-22 19:09:32		  irc.server.freenode.autoreconnect
+2014-07-22 19:09:32		  irc.server.freenode.autoreconnect_delay
+2014-07-22 19:09:32		  irc.server.freenode.autorejoin
+2014-07-22 19:09:32		  irc.server.freenode.autorejoin_delay
+2014-07-22 19:09:32		  irc.server.freenode.away_check
+2014-07-22 19:09:32		  irc.server.freenode.away_check_max_nicks
+2014-07-22 19:09:32		  irc.server.freenode.capabilities
+2014-07-22 19:09:32		  irc.server.freenode.command
+2014-07-22 19:09:32		  irc.server.freenode.command_delay
+2014-07-22 19:09:32		  irc.server.freenode.connection_timeout
+2014-07-22 19:09:32		  irc.server.freenode.default_msg_part
+2014-07-22 19:09:32		  irc.server.freenode.default_msg_quit
+2014-07-22 19:09:32		  irc.server.freenode.ipv6
+2014-07-22 19:09:32		  irc.server.freenode.local_hostname
+2014-07-22 19:09:32		  irc.server.freenode.nicks
+2014-07-22 19:09:32		  irc.server.freenode.notify
+2014-07-22 19:09:32		  irc.server.freenode.password
+2014-07-22 19:09:32		  irc.server.freenode.proxy
+2014-07-22 19:09:32		  irc.server.freenode.realname
+2014-07-22 19:09:32		  irc.server.freenode.sasl_mechanism
+2014-07-22 19:09:32		  irc.server.freenode.sasl_password
+2014-07-22 19:09:32		  irc.server.freenode.sasl_timeout
+2014-07-22 19:09:32		  irc.server.freenode.sasl_username
+2014-07-22 19:09:32		  irc.server.freenode.ssl
+2014-07-22 19:09:32		  irc.server.freenode.ssl_cert
+2014-07-22 19:09:32		  irc.server.freenode.ssl_dhkey_size
+2014-07-22 19:09:32		  irc.server.freenode.ssl_priorities
+2014-07-22 19:09:32		  irc.server.freenode.ssl_verify
+2014-07-22 19:09:32		  irc.server.freenode.username
+2014-07-22 19:09:32		[look] (rmodifier.conf)
+2014-07-22 19:09:32		  rmodifier.look.hide_char = "*"
+2014-07-22 19:09:32		[modifier] (rmodifier.conf)
+2014-07-22 19:09:32		  rmodifier.modifier.command_auth = "history_add,input_text_display,irc_command_auth;^(/(msg|quote) +nickserv +(id|identify|register|ghost \S+|release \S+) +)(.*);1,4*"  (default: "")
+2014-07-22 19:09:32		  rmodifier.modifier.message_auth = "irc_message_auth;^(.*(id|identify|register|ghost \S+|release \S+) +)(.*);1,3*"  (default: "")
+2014-07-22 19:09:32		  rmodifier.modifier.oper = "history_add,input_text_display;^(/oper +\S+ +)(.*);1,2*"  (default: "")
+2014-07-22 19:09:32		  rmodifier.modifier.quote_pass = "history_add,input_text_display;^(/quote pass +)(.*);1,2*"  (default: "")
+2014-07-22 19:09:32		  rmodifier.modifier.server = "history_add,input_text_display;^(/(server|connect) .*-(sasl_)?password=)(\S+)(.*);1,4*,5"  (default: "")
+2014-07-22 19:09:32		  rmodifier.modifier.set_pass = "history_add;^(/set +\S*password\S* +)(.*);1,2*"  (default: "")
+2014-07-22 19:09:32		[cmd] (alias.conf)
+2014-07-22 19:09:32		  alias.cmd.AAWAY = "allserv /away"
+2014-07-22 19:09:32		  alias.cmd.AME = "allchan /me"
+2014-07-22 19:09:32		  alias.cmd.AMSG = "allchan /msg *"
+2014-07-22 19:09:32		  alias.cmd.ANICK = "allserv /nick"
+2014-07-22 19:09:32		  alias.cmd.BYE = "quit"
+2014-07-22 19:09:32		  alias.cmd.C = "buffer clear"
+2014-07-22 19:09:32		  alias.cmd.CHAT = "dcc chat"
+2014-07-22 19:09:32		  alias.cmd.CL = "buffer clear"
+2014-07-22 19:09:32		  alias.cmd.CLOSE = "buffer close"
+2014-07-22 19:09:32		  alias.cmd.EXIT = "quit"
+2014-07-22 19:09:32		  alias.cmd.IG = "ignore"
+2014-07-22 19:09:32		  alias.cmd.J = "join"
+2014-07-22 19:09:32		  alias.cmd.K = "kick"
+2014-07-22 19:09:32		  alias.cmd.KB = "kickban"
+2014-07-22 19:09:32		  alias.cmd.LEAVE = "part"
+2014-07-22 19:09:32		  alias.cmd.M = "msg"
+2014-07-22 19:09:32		  alias.cmd.MUB = "unban *"
+2014-07-22 19:09:32		  alias.cmd.N = "names"
+2014-07-22 19:09:32		  alias.cmd.Q = "query"
+2014-07-22 19:09:32		  alias.cmd.REDRAW = "window refresh"
+2014-07-22 19:09:32		  alias.cmd.SAY = "msg *"
+2014-07-22 19:09:32		  alias.cmd.SIGNOFF = "quit"
+2014-07-22 19:09:32		  alias.cmd.T = "topic"
+2014-07-22 19:09:32		  alias.cmd.UB = "unban"
+2014-07-22 19:09:32		  alias.cmd.UMODE = "mode $nick"
+2014-07-22 19:09:32		  alias.cmd.V = "command core version"
+2014-07-22 19:09:32		  alias.cmd.W = "who"
+2014-07-22 19:09:32		  alias.cmd.WC = "window merge"
+2014-07-22 19:09:32		  alias.cmd.WI = "whois"
+2014-07-22 19:09:32		  alias.cmd.WII = "whois $1 $1"
+2014-07-22 19:09:32		  alias.cmd.WW = "whowas"
+2014-07-22 19:09:32		[default] (charset.conf)
+2014-07-22 19:09:32		  charset.default.decode = "iso-8859-1"
+2014-07-22 19:09:32		  charset.default.encode = ""
+2014-07-22 19:09:32		[look] (logger.conf)
+2014-07-22 19:09:32		  logger.look.backlog = 20
+2014-07-22 19:09:32		[color] (logger.conf)
+2014-07-22 19:09:32		  logger.color.backlog_end = darkgray
+2014-07-22 19:09:32		  logger.color.backlog_line = darkgray
+2014-07-22 19:09:32		[file] (logger.conf)
+2014-07-22 19:09:32		  logger.file.auto_log = on
+2014-07-22 19:09:32		  logger.file.flush_delay = 120
+2014-07-22 19:09:32		  logger.file.info_lines = off
+2014-07-22 19:09:32		  logger.file.mask = "$plugin.$name.weechatlog"
+2014-07-22 19:09:32		  logger.file.name_lower_case = on
+2014-07-22 19:09:32		  logger.file.nick_prefix = ""
+2014-07-22 19:09:32		  logger.file.nick_suffix = ""
+2014-07-22 19:09:32		  logger.file.path = "%h/logs/"
+2014-07-22 19:09:32		  logger.file.replacement_char = "_"
+2014-07-22 19:09:32		  logger.file.time_format = "%Y-%m-%d %H:%M:%S"
+2014-07-22 19:09:32		578 options
+2014-07-22 19:09:52		[startup] (weechat.conf)
+2014-07-22 19:09:52		  weechat.startup.command_after_plugins = ""
+2014-07-22 19:09:52		  weechat.startup.command_before_plugins = ""
+2014-07-22 19:09:52		  weechat.startup.display_logo = on
+2014-07-22 19:09:52		  weechat.startup.display_version = on
+2014-07-22 19:09:52		  weechat.startup.sys_rlimit = ""
+2014-07-22 19:09:52		[look] (weechat.conf)
+2014-07-22 19:09:52		  weechat.look.align_end_of_lines = message
+2014-07-22 19:09:52		  weechat.look.bar_more_down = "++"
+2014-07-22 19:09:52		  weechat.look.bar_more_left = "<<"
+2014-07-22 19:09:52		  weechat.look.bar_more_right = ">>"
+2014-07-22 19:09:52		  weechat.look.bar_more_up = "--"
+2014-07-22 19:09:52		  weechat.look.buffer_notify_default = all
+2014-07-22 19:09:52		  weechat.look.buffer_time_format = "%H:%M:%S"
+2014-07-22 19:09:52		  weechat.look.color_basic_force_bold = off
+2014-07-22 19:09:52		  weechat.look.color_inactive_buffer = off
+2014-07-22 19:09:52		  weechat.look.color_inactive_message = on
+2014-07-22 19:09:52		  weechat.look.color_inactive_prefix = on
+2014-07-22 19:09:52		  weechat.look.color_inactive_prefix_buffer = on
+2014-07-22 19:09:52		  weechat.look.color_inactive_time = off
+2014-07-22 19:09:52		  weechat.look.color_inactive_window = off
+2014-07-22 19:09:52		  weechat.look.color_nick_offline = off
+2014-07-22 19:09:52		  weechat.look.color_pairs_auto_reset = 5
+2014-07-22 19:09:52		  weechat.look.color_real_white = off
+2014-07-22 19:09:52		  weechat.look.command_chars = ""
+2014-07-22 19:09:52		  weechat.look.confirm_quit = off
+2014-07-22 19:09:52		  weechat.look.day_change = on
+2014-07-22 19:09:52		  weechat.look.day_change_time_format = "%a, %d %b %Y"
+2014-07-22 19:09:52		  weechat.look.eat_newline_glitch = off
+2014-07-22 19:09:52		  weechat.look.highlight = ""
+2014-07-22 19:09:52		  weechat.look.highlight_regex = ""
+2014-07-22 19:09:52		  weechat.look.highlight_tags = ""
+2014-07-22 19:09:52		  weechat.look.hotlist_add_buffer_if_away = on
+2014-07-22 19:09:52		  weechat.look.hotlist_buffer_separator = ", "
+2014-07-22 19:09:52		  weechat.look.hotlist_count_max = 2
+2014-07-22 19:09:52		  weechat.look.hotlist_count_min_msg = 2
+2014-07-22 19:09:52		  weechat.look.hotlist_names_count = 3
+2014-07-22 19:09:52		  weechat.look.hotlist_names_length = 0
+2014-07-22 19:09:52		  weechat.look.hotlist_names_level = 12
+2014-07-22 19:09:52		  weechat.look.hotlist_names_merged_buffers = off
+2014-07-22 19:09:52		  weechat.look.hotlist_short_names = on
+2014-07-22 19:09:52		  weechat.look.hotlist_sort = group_time_asc
+2014-07-22 19:09:52		  weechat.look.hotlist_unique_numbers = on
+2014-07-22 19:09:52		  weechat.look.input_cursor_scroll = 20
+2014-07-22 19:09:52		  weechat.look.input_share = none
+2014-07-22 19:09:52		  weechat.look.input_share_overwrite = off
+2014-07-22 19:09:52		  weechat.look.input_undo_max = 32
+2014-07-22 19:09:52		  weechat.look.item_buffer_filter = "*"
+2014-07-22 19:09:52		  weechat.look.item_time_format = "%H:%M"
+2014-07-22 19:09:52		  weechat.look.jump_current_to_previous_buffer = on
+2014-07-22 19:09:52		  weechat.look.jump_previous_buffer_when_closing = on
+2014-07-22 19:09:52		  weechat.look.jump_smart_back_to_buffer = on
+2014-07-22 19:09:52		  weechat.look.mouse = off
+2014-07-22 19:09:52		  weechat.look.mouse_timer_delay = 100
+2014-07-22 19:09:52		  weechat.look.nick_prefix = ""
+2014-07-22 19:09:52		  weechat.look.nick_suffix = ""
+2014-07-22 19:09:52		  weechat.look.paste_bracketed = off
+2014-07-22 19:09:52		  weechat.look.paste_bracketed_timer_delay = 10
+2014-07-22 19:09:52		  weechat.look.paste_max_lines = 1
+2014-07-22 19:09:52		  weechat.look.prefix_action = " *"
+2014-07-22 19:09:52		  weechat.look.prefix_align = right
+2014-07-22 19:09:52		  weechat.look.prefix_align_max = 0
+2014-07-22 19:09:52		  weechat.look.prefix_align_min = 0
+2014-07-22 19:09:52		  weechat.look.prefix_align_more = "+"
+2014-07-22 19:09:52		  weechat.look.prefix_align_more_after = on
+2014-07-22 19:09:52		  weechat.look.prefix_buffer_align = right
+2014-07-22 19:09:52		  weechat.look.prefix_buffer_align_max = 0
+2014-07-22 19:09:52		  weechat.look.prefix_buffer_align_more = "+"
+2014-07-22 19:09:52		  weechat.look.prefix_buffer_align_more_after = on
+2014-07-22 19:09:52		  weechat.look.prefix_error = "=!="
+2014-07-22 19:09:52		  weechat.look.prefix_join = "-->"
+2014-07-22 19:09:52		  weechat.look.prefix_network = "--"
+2014-07-22 19:09:52		  weechat.look.prefix_quit = "<--"
+2014-07-22 19:09:52		  weechat.look.prefix_same_nick = ""
+2014-07-22 19:09:52		  weechat.look.prefix_suffix = "|"
+2014-07-22 19:09:52		  weechat.look.read_marker = line
+2014-07-22 19:09:52		  weechat.look.read_marker_always_show = off
+2014-07-22 19:09:52		  weechat.look.read_marker_string = "- "
+2014-07-22 19:09:52		  weechat.look.save_config_on_exit = on
+2014-07-22 19:09:52		  weechat.look.save_layout_on_exit = none
+2014-07-22 19:09:52		  weechat.look.scroll_amount = 3
+2014-07-22 19:09:52		  weechat.look.scroll_bottom_after_switch = off
+2014-07-22 19:09:52		  weechat.look.scroll_page_percent = 100
+2014-07-22 19:09:52		  weechat.look.search_text_not_found_alert = on
+2014-07-22 19:09:52		  weechat.look.separator_horizontal = "-"
+2014-07-22 19:09:52		  weechat.look.separator_vertical = ""
+2014-07-22 19:09:52		  weechat.look.set_title = on
+2014-07-22 19:09:52		  weechat.look.time_format = "%a, %d %b %Y %T"
+2014-07-22 19:09:52		  weechat.look.window_separator_horizontal = on
+2014-07-22 19:09:52		  weechat.look.window_separator_vertical = on
+2014-07-22 19:09:52		[color] (weechat.conf)
+2014-07-22 19:09:52		  weechat.color.bar_more = lightmagenta
+2014-07-22 19:09:52		  weechat.color.chat = default
+2014-07-22 19:09:52		  weechat.color.chat_bg = default
+2014-07-22 19:09:52		  weechat.color.chat_buffer = white
+2014-07-22 19:09:52		  weechat.color.chat_channel = white
+2014-07-22 19:09:52		  weechat.color.chat_delimiters = green
+2014-07-22 19:09:52		  weechat.color.chat_highlight = yellow
+2014-07-22 19:09:52		  weechat.color.chat_highlight_bg = magenta
+2014-07-22 19:09:52		  weechat.color.chat_host = cyan
+2014-07-22 19:09:52		  weechat.color.chat_inactive_buffer = darkgray
+2014-07-22 19:09:52		  weechat.color.chat_inactive_window = darkgray
+2014-07-22 19:09:52		  weechat.color.chat_nick = lightcyan
+2014-07-22 19:09:52		  weechat.color.chat_nick_colors = "cyan,magenta,green,brown,lightblue,default,lightcyan,lightmagenta,lightgreen,blue"
+2014-07-22 19:09:52		  weechat.color.chat_nick_offline = darkgray
+2014-07-22 19:09:52		  weechat.color.chat_nick_offline_highlight = default
+2014-07-22 19:09:52		  weechat.color.chat_nick_offline_highlight_bg = darkgray
+2014-07-22 19:09:52		  weechat.color.chat_nick_other = cyan
+2014-07-22 19:09:52		  weechat.color.chat_nick_prefix = green
+2014-07-22 19:09:52		  weechat.color.chat_nick_self = white
+2014-07-22 19:09:52		  weechat.color.chat_nick_suffix = green
+2014-07-22 19:09:52		  weechat.color.chat_prefix_action = white
+2014-07-22 19:09:52		  weechat.color.chat_prefix_buffer = brown
+2014-07-22 19:09:52		  weechat.color.chat_prefix_buffer_inactive_buffer = darkgray
+2014-07-22 19:09:52		  weechat.color.chat_prefix_error = yellow
+2014-07-22 19:09:52		  weechat.color.chat_prefix_join = lightgreen
+2014-07-22 19:09:52		  weechat.color.chat_prefix_more = lightmagenta
+2014-07-22 19:09:52		  weechat.color.chat_prefix_network = magenta
+2014-07-22 19:09:52		  weechat.color.chat_prefix_quit = lightred
+2014-07-22 19:09:52		  weechat.color.chat_prefix_suffix = green
+2014-07-22 19:09:52		  weechat.color.chat_read_marker = magenta
+2014-07-22 19:09:52		  weechat.color.chat_read_marker_bg = default
+2014-07-22 19:09:52		  weechat.color.chat_server = brown
+2014-07-22 19:09:52		  weechat.color.chat_tags = red
+2014-07-22 19:09:52		  weechat.color.chat_text_found = yellow
+2014-07-22 19:09:52		  weechat.color.chat_text_found_bg = lightmagenta
+2014-07-22 19:09:52		  weechat.color.chat_time = default
+2014-07-22 19:09:52		  weechat.color.chat_time_delimiters = brown
+2014-07-22 19:09:52		  weechat.color.chat_value = cyan
+2014-07-22 19:09:52		  weechat.color.input_actions = lightgreen
+2014-07-22 19:09:52		  weechat.color.input_text_not_found = red
+2014-07-22 19:09:52		  weechat.color.nicklist_away = cyan
+2014-07-22 19:09:52		  weechat.color.nicklist_group = green
+2014-07-22 19:09:52		  weechat.color.nicklist_offline = blue
+2014-07-22 19:09:52		  weechat.color.separator = blue
+2014-07-22 19:09:52		  weechat.color.status_count_highlight = magenta
+2014-07-22 19:09:52		  weechat.color.status_count_msg = brown
+2014-07-22 19:09:52		  weechat.color.status_count_other = default
+2014-07-22 19:09:52		  weechat.color.status_count_private = green
+2014-07-22 19:09:52		  weechat.color.status_data_highlight = lightmagenta
+2014-07-22 19:09:52		  weechat.color.status_data_msg = yellow
+2014-07-22 19:09:52		  weechat.color.status_data_other = default
+2014-07-22 19:09:52		  weechat.color.status_data_private = lightgreen
+2014-07-22 19:09:52		  weechat.color.status_filter = green
+2014-07-22 19:09:52		  weechat.color.status_more = yellow
+2014-07-22 19:09:52		  weechat.color.status_name = white
+2014-07-22 19:09:52		  weechat.color.status_name_ssl = lightgreen
+2014-07-22 19:09:52		  weechat.color.status_number = yellow
+2014-07-22 19:09:52		  weechat.color.status_time = default
+2014-07-22 19:09:52		[completion] (weechat.conf)
+2014-07-22 19:09:52		  weechat.completion.base_word_until_cursor = on
+2014-07-22 19:09:52		  weechat.completion.default_template = "%(nicks)|%(irc_channels)"
+2014-07-22 19:09:52		  weechat.completion.nick_add_space = on
+2014-07-22 19:09:52		  weechat.completion.nick_completer = ":"
+2014-07-22 19:09:52		  weechat.completion.nick_first_only = off
+2014-07-22 19:09:52		  weechat.completion.nick_ignore_chars = "[]`_-^"
+2014-07-22 19:09:52		  weechat.completion.partial_completion_alert = on
+2014-07-22 19:09:52		  weechat.completion.partial_completion_command = off
+2014-07-22 19:09:52		  weechat.completion.partial_completion_command_arg = off
+2014-07-22 19:09:52		  weechat.completion.partial_completion_count = on
+2014-07-22 19:09:52		  weechat.completion.partial_completion_other = off
+2014-07-22 19:09:52		[history] (weechat.conf)
+2014-07-22 19:09:52		  weechat.history.display_default = 5
+2014-07-22 19:09:52		  weechat.history.max_buffer_lines_minutes = 0
+2014-07-22 19:09:52		  weechat.history.max_buffer_lines_number = 4096
+2014-07-22 19:09:52		  weechat.history.max_commands = 100
+2014-07-22 19:09:52		  weechat.history.max_visited_buffers = 50
+2014-07-22 19:09:52		[network] (weechat.conf)
+2014-07-22 19:09:52		  weechat.network.connection_timeout = 60
+2014-07-22 19:09:52		  weechat.network.gnutls_ca_file = "/etc/ssl/certs/ca-certificates.crt"
+2014-07-22 19:09:52		  weechat.network.gnutls_handshake_timeout = 30
+2014-07-22 19:09:52		[plugin] (weechat.conf)
+2014-07-22 19:09:52		  weechat.plugin.autoload = "*"
+2014-07-22 19:09:52		  weechat.plugin.debug = off
+2014-07-22 19:09:52		  weechat.plugin.extension = ".so,.dll"
+2014-07-22 19:09:52		  weechat.plugin.path = "%h/plugins"
+2014-07-22 19:09:52		  weechat.plugin.save_config_on_unload = on
+2014-07-22 19:09:52		[bar] (weechat.conf)
+2014-07-22 19:09:52		  weechat.bar.input.color_bg = default
+2014-07-22 19:09:52		  weechat.bar.input.color_delim = cyan
+2014-07-22 19:09:52		  weechat.bar.input.color_fg = default
+2014-07-22 19:09:52		  weechat.bar.input.conditions = ""
+2014-07-22 19:09:52		  weechat.bar.input.filling_left_right = vertical
+2014-07-22 19:09:52		  weechat.bar.input.filling_top_bottom = horizontal
+2014-07-22 19:09:52		  weechat.bar.input.hidden = off
+2014-07-22 19:09:52		  weechat.bar.input.items = "[input_prompt]+(away),[input_search],[input_paste],input_text"
+2014-07-22 19:09:52		  weechat.bar.input.position = bottom
+2014-07-22 19:09:52		  weechat.bar.input.priority = 1000
+2014-07-22 19:09:52		  weechat.bar.input.separator = off
+2014-07-22 19:09:52		  weechat.bar.input.size = 1
+2014-07-22 19:09:52		  weechat.bar.input.size_max = 0
+2014-07-22 19:09:52		  weechat.bar.input.type = window
+2014-07-22 19:09:52		  weechat.bar.nicklist.color_bg = default
+2014-07-22 19:09:52		  weechat.bar.nicklist.color_delim = cyan
+2014-07-22 19:09:52		  weechat.bar.nicklist.color_fg = default
+2014-07-22 19:09:52		  weechat.bar.nicklist.conditions = "${nicklist}"
+2014-07-22 19:09:52		  weechat.bar.nicklist.filling_left_right = vertical
+2014-07-22 19:09:52		  weechat.bar.nicklist.filling_top_bottom = columns_vertical
+2014-07-22 19:09:52		  weechat.bar.nicklist.hidden = off
+2014-07-22 19:09:52		  weechat.bar.nicklist.items = "buffer_nicklist"
+2014-07-22 19:09:52		  weechat.bar.nicklist.position = right
+2014-07-22 19:09:52		  weechat.bar.nicklist.priority = 200
+2014-07-22 19:09:52		  weechat.bar.nicklist.separator = on
+2014-07-22 19:09:52		  weechat.bar.nicklist.size = 0
+2014-07-22 19:09:52		  weechat.bar.nicklist.size_max = 0
+2014-07-22 19:09:52		  weechat.bar.nicklist.type = window
+2014-07-22 19:09:52		  weechat.bar.status.color_bg = blue
+2014-07-22 19:09:52		  weechat.bar.status.color_delim = cyan
+2014-07-22 19:09:52		  weechat.bar.status.color_fg = default
+2014-07-22 19:09:52		  weechat.bar.status.conditions = ""
+2014-07-22 19:09:52		  weechat.bar.status.filling_left_right = vertical
+2014-07-22 19:09:52		  weechat.bar.status.filling_top_bottom = horizontal
+2014-07-22 19:09:52		  weechat.bar.status.hidden = off
+2014-07-22 19:09:52		  weechat.bar.status.items = "[time],[buffer_count],[buffer_plugin],buffer_number+:+buffer_name+(buffer_modes)+{buffer_nicklist_count}+buffer_filter,[lag],[hotlist],completion,scroll"
+2014-07-22 19:09:52		  weechat.bar.status.position = bottom
+2014-07-22 19:09:52		  weechat.bar.status.priority = 500
+2014-07-22 19:09:52		  weechat.bar.status.separator = off
+2014-07-22 19:09:52		  weechat.bar.status.size = 1
+2014-07-22 19:09:52		  weechat.bar.status.size_max = 0
+2014-07-22 19:09:52		  weechat.bar.status.type = window
+2014-07-22 19:09:52		  weechat.bar.title.color_bg = blue
+2014-07-22 19:09:52		  weechat.bar.title.color_delim = cyan
+2014-07-22 19:09:52		  weechat.bar.title.color_fg = default
+2014-07-22 19:09:52		  weechat.bar.title.conditions = ""
+2014-07-22 19:09:52		  weechat.bar.title.filling_left_right = vertical
+2014-07-22 19:09:52		  weechat.bar.title.filling_top_bottom = horizontal
+2014-07-22 19:09:52		  weechat.bar.title.hidden = off
+2014-07-22 19:09:52		  weechat.bar.title.items = "buffer_title"
+2014-07-22 19:09:52		  weechat.bar.title.position = top
+2014-07-22 19:09:52		  weechat.bar.title.priority = 500
+2014-07-22 19:09:52		  weechat.bar.title.separator = off
+2014-07-22 19:09:52		  weechat.bar.title.size = 1
+2014-07-22 19:09:52		  weechat.bar.title.size_max = 0
+2014-07-22 19:09:52		  weechat.bar.title.type = window
+2014-07-22 19:09:52		226 options (matching with "weechat.*")
+2014-07-22 19:11:28		Option changed: irc.server.freenode.nicks = "dfrown"  (default: (undefined))
+2014-07-22 19:12:14		Option changed: irc.server.freenode.username = "dfrown"  (default: (undefined))
+2014-07-22 19:12:30		Plugins loaded: alias, aspell, charset, fifo, irc, logger, lua, perl, python, relay, rmodifier, ruby, script, tcl, xfer
+2014-07-22 19:12:45		irc: server irc.freenode.net created (temporary server, NOT SAVED!)
+2014-07-22 19:12:52	=!=	ruby: unable to run function "auth_notice_cb"
+2014-07-22 19:12:52	=!=	ruby: error: (eval):77:in `string_eval_expression': wrong number of arguments(4 for 3) (ArgumentError)
+2014-07-22 19:12:52	=!=	ruby: error:      from (eval):77:in `auth_notice_cb'
+2014-07-22 19:13:22	=!=	ruby: unable to run function "auth_notice_cb"
+2014-07-22 19:13:22	=!=	ruby: error: (eval):77:in `string_eval_expression': wrong number of arguments(4 for 3) (ArgumentError)
+2014-07-22 19:13:22	=!=	ruby: error:      from (eval):77:in `auth_notice_cb'
+2014-07-22 19:14:28		Option changed: irc.server.freenode.autoconnect = on  (default: (undefined))
+2014-07-22 19:14:34		Options saved to weechat.conf
+2014-07-22 19:14:34		Options saved to plugins.conf
+2014-07-22 19:14:34		Options saved to aspell.conf
+2014-07-22 19:14:34		Options saved to script.conf
+2014-07-22 19:14:34		Options saved to relay.conf
+2014-07-22 19:14:34		Options saved to xfer.conf
+2014-07-22 19:14:34		Options saved to irc.conf
+2014-07-22 19:14:34		Options saved to rmodifier.conf
+2014-07-22 19:14:34		Options saved to alias.conf
+2014-07-22 19:14:34		Options saved to charset.conf
+2014-07-22 19:14:34		Options saved to logger.conf
+2014-07-22 19:14:46		Plugins loaded: alias, aspell, charset, fifo, irc, logger, lua, perl, python, relay, rmodifier, ruby, script, tcl, xfer
+2014-07-22 19:14:57	=!=	ruby: unable to run function "auth_notice_cb"
+2014-07-22 19:14:57	=!=	ruby: error: (eval):77:in `string_eval_expression': wrong number of arguments(4 for 3) (ArgumentError)
+2014-07-22 19:14:57	=!=	ruby: error:      from (eval):77:in `auth_notice_cb'
+2014-07-22 19:20:46		irc: server irc.snoonet.org created (temporary server, NOT SAVED!)
+2014-07-22 19:20:48	=!=	ruby: unable to run function "auth_notice_cb"
+2014-07-22 19:20:48	=!=	ruby: error: (eval):77:in `string_eval_expression': wrong number of arguments(4 for 3) (ArgumentError)
+2014-07-22 19:20:48	=!=	ruby: error:      from (eval):77:in `auth_notice_cb'
+2014-07-22 19:25:36		Option changed: irc.server.freenode.command = "/msg nickserv identify dr.wu1"  (default: (undefined))
+2014-07-22 19:25:46		Options saved to weechat.conf
+2014-07-22 19:25:46		Options saved to plugins.conf
+2014-07-22 19:25:46		Options saved to aspell.conf
+2014-07-22 19:25:46		Options saved to script.conf
+2014-07-22 19:25:46		Options saved to relay.conf
+2014-07-22 19:25:46		Options saved to xfer.conf
+2014-07-22 19:25:46		Options saved to irc.conf
+2014-07-22 19:25:46		Options saved to rmodifier.conf
+2014-07-22 19:25:46		Options saved to alias.conf
+2014-07-22 19:25:46		Options saved to charset.conf
+2014-07-22 19:25:46		Options saved to logger.conf
+2014-07-22 19:27:49		[script]  /script  list [-o|-i]
+2014-07-22 19:27:49		                   search <text>
+2014-07-22 19:27:49		                   show <script>
+2014-07-22 19:27:49		                   load|unload|reload <script> [<script>...]
+2014-07-22 19:27:49		                   autoload|noautoload|toggleautoload <script> [<script>...]
+2014-07-22 19:27:49		                   install|remove|installremove|hold [-q] <script> [<script>...]
+2014-07-22 19:27:49		                   upgrade
+2014-07-22 19:27:49		                   update
+2014-07-22 19:27:49		WeeChat scripts manager
+2014-07-22 19:27:49		          list: list loaded scripts (all languages)
+2014-07-22 19:27:49		            -o: send list of loaded scripts to buffer
+2014-07-22 19:27:49		            -i: copy list of loaded scripts in command line (for sending to buffer)
+2014-07-22 19:27:49		        search: search scripts by tags or text and display result on scripts buffer
+2014-07-22 19:27:49		          show: show detailed info about a script
+2014-07-22 19:27:49		          load: load script(s)
+2014-07-22 19:27:49		        unload: unload script(s)
+2014-07-22 19:27:49		        reload: reload script(s)
+2014-07-22 19:27:49		      autoload: autoload the script
+2014-07-22 19:27:49		    noautoload: do not autoload the script
+2014-07-22 19:27:49		toggleautoload: toggle autoload
+2014-07-22 19:27:49		       install: install/upgrade script(s)
+2014-07-22 19:27:49		        remove: remove script(s)
+2014-07-22 19:27:49		 installremove: install or remove script(s), depending on current state
+2014-07-22 19:27:49		          hold: hold/unhold script(s) (a script held will not be upgraded any more and cannot be removed)
+2014-07-22 19:27:49		            -q: quiet mode: do not display messages
+2014-07-22 19:27:49		       upgrade: upgrade all installed scripts which are obsolete (new version available)
+2014-07-22 19:27:49		        update: update local scripts cache
+2014-07-22 19:27:49		Without argument, this command opens a buffer with list of scripts.
+2014-07-22 19:27:49		On script buffer, the possible status for each script are:
+2014-07-22 19:27:49		  * i a H r N
+2014-07-22 19:27:49		  | | | | | |
+2014-07-22 19:27:49		  | | | | | obsolete (new version available)
+2014-07-22 19:27:49		  | | | | running (loaded)
+2014-07-22 19:27:49		  | | | held
+2014-07-22 19:27:49		  | | autoloaded
+2014-07-22 19:27:49		  | installed
+2014-07-22 19:27:49		  popular script
+2014-07-22 19:27:49		Keys on script buffer:
+2014-07-22 19:27:49		  alt+i  install script
+2014-07-22 19:27:49		  alt+r  remove script
+2014-07-22 19:27:49		  alt+l  load script
+2014-07-22 19:27:49		  alt+L  reload script
+2014-07-22 19:27:49		  alt+u  unload script
+2014-07-22 19:27:49		  alt+A  autoload script
+2014-07-22 19:27:49		  alt+h  (un)hold script
+2014-07-22 19:27:49		  alt+v  view script
+2014-07-22 19:27:49		Input allowed on script buffer:
+2014-07-22 19:27:49		  i/r/l/L/u/h  action on script (same as keys above)
+2014-07-22 19:27:49		  q            close buffer
+2014-07-22 19:27:49		  $            refresh buffer
+2014-07-22 19:27:49		  s:x,y        sort buffer using keys x and y (see /help script.look.sort)
+2014-07-22 19:27:49		  s:           reset sort (use default sort)
+2014-07-22 19:27:49		  word(s)      filter scripts: search word(s) in scripts (description, tags, ...)
+2014-07-22 19:27:49		  *            remove filter
+2014-07-22 19:27:49		Mouse actions on script buffer:
+2014-07-22 19:27:49		  wheel         scroll list
+2014-07-22 19:27:49		  left button   select script
+2014-07-22 19:27:49		  right button  install/remove script
+2014-07-22 19:27:49		Examples:
+2014-07-22 19:27:49		  /script search url
+2014-07-22 19:27:49		  /script install iset.pl buffers.pl
+2014-07-22 19:27:49		  /script remove iset.pl
+2014-07-22 19:27:49		  /script hold urlserver.py
+2014-07-22 19:27:49		  /script reload urlserver
+2014-07-22 19:27:49		  /script upgrade
+2014-07-22 19:35:04	=!=	Error: unknown command "scripts" (type /help for help)
+2014-07-22 19:35:21		script: downloading list of scripts...
+2014-07-22 19:35:23		script: 273 scripts for WeeChat 0.4.1
+2014-07-22 19:35:24		perl: loading script "/home/dan/.weechat/perl/buffers.pl"
+2014-07-22 19:35:24		perl: registered script "buffers", version 4.8 (Sidebar with list of buffers)
+2014-07-22 19:35:24		New key binding (context "mouse"): @bar(buffers):ctrl-wheeldown => hsignal:buffers_mouse
+2014-07-22 19:35:24		New key binding (context "mouse"): @bar(buffers):ctrl-wheelup => hsignal:buffers_mouse
+2014-07-22 19:35:24		New key binding (context "mouse"): @item(buffers):button2* => hsignal:buffers_mouse
+2014-07-22 19:35:24		New key binding (context "mouse"): @item(buffers):button1* => hsignal:buffers_mouse
+2014-07-22 19:39:01		Plugins loaded: alias, aspell, charset, fifo, irc, logger, lua, perl, python, relay, rmodifier, ruby, script, tcl, xfer
+2014-07-22 19:39:12	=!=	ruby: unable to run function "auth_notice_cb"
+2014-07-22 19:39:12	=!=	ruby: error: (eval):77:in `string_eval_expression': wrong number of arguments(4 for 3) (ArgumentError)
+2014-07-22 19:39:12	=!=	ruby: error:      from (eval):77:in `auth_notice_cb'
+2014-07-22 19:56:41		Plugins loaded: alias, aspell, charset, fifo, irc, logger, lua, perl, python, relay, rmodifier, ruby, script, tcl, xfer
+2014-07-22 19:56:49	=!=	ruby: unable to run function "auth_notice_cb"
+2014-07-22 19:56:49	=!=	ruby: error: (eval):77:in `string_eval_expression': wrong number of arguments(4 for 3) (ArgumentError)
+2014-07-22 19:56:49	=!=	ruby: error:      from (eval):77:in `auth_notice_cb'
+2014-07-22 20:03:26		irc: server irc.snoonet.org created (temporary server, NOT SAVED!)
+2014-07-22 20:03:28	=!=	ruby: unable to run function "auth_notice_cb"
+2014-07-22 20:03:28	=!=	ruby: error: (eval):77:in `string_eval_expression': wrong number of arguments(4 for 3) (ArgumentError)
+2014-07-22 20:03:28	=!=	ruby: error:      from (eval):77:in `auth_notice_cb'
+2014-07-22 20:03:42	=!=	ruby: unable to run function "auth_notice_cb"
+2014-07-22 20:03:42	=!=	ruby: error: (eval):77:in `string_eval_expression': wrong number of arguments(4 for 3) (ArgumentError)
+2014-07-22 20:03:42	=!=	ruby: error:      from (eval):77:in `auth_notice_cb'
+2014-07-22 20:25:20		Plugins loaded: alias, aspell, charset, fifo, irc, logger, lua, perl, python, relay, rmodifier, ruby, script, tcl, xfer
+2014-07-22 20:25:26	=!=	ruby: unable to run function "auth_notice_cb"
+2014-07-22 20:25:26	=!=	ruby: error: (eval):77:in `string_eval_expression': wrong number of arguments(4 for 3) (ArgumentError)
+2014-07-22 20:25:26	=!=	ruby: error:      from (eval):77:in `auth_notice_cb'
+2014-07-22 20:25:52		irc: server irc.snoonet.org created (temporary server, NOT SAVED!)
+2014-07-22 20:25:53	=!=	ruby: unable to run function "auth_notice_cb"
+2014-07-22 20:25:53	=!=	ruby: error: (eval):77:in `string_eval_expression': wrong number of arguments(4 for 3) (ArgumentError)
+2014-07-22 20:25:53	=!=	ruby: error:      from (eval):77:in `auth_notice_cb'
+2014-07-22 20:26:04	=!=	ruby: unable to run function "auth_notice_cb"
+2014-07-22 20:26:04	=!=	ruby: error: (eval):77:in `string_eval_expression': wrong number of arguments(4 for 3) (ArgumentError)
+2014-07-22 20:26:04	=!=	ruby: error:      from (eval):77:in `auth_notice_cb'
+2014-07-22 20:26:27		Options saved to weechat.conf
+2014-07-22 20:26:27		Options saved to plugins.conf
+2014-07-22 20:26:27		Options saved to aspell.conf
+2014-07-22 20:26:27		Options saved to script.conf
+2014-07-22 20:26:27		Options saved to buffers.conf
+2014-07-22 20:26:27		Options saved to relay.conf
+2014-07-22 20:26:27		Options saved to xfer.conf
+2014-07-22 20:26:27		Options saved to irc.conf
+2014-07-22 20:26:27		Options saved to rmodifier.conf
+2014-07-22 20:26:27		Options saved to alias.conf
+2014-07-22 20:26:27		Options saved to charset.conf
+2014-07-22 20:26:27		Options saved to logger.conf
+2014-07-22 20:29:17	=!=	Error: WeeChat main buffer can't be closed
+2014-07-22 20:34:31		Plugins loaded: alias, aspell, charset, fifo, irc, logger, lua, perl, python, relay, rmodifier, ruby, script, tcl, xfer
+2014-07-22 20:34:35		Options reloaded from weechat.conf
+2014-07-22 20:34:35	perl	warning: Use of uninitialized value.
+2014-07-22 20:34:35		Options reloaded from plugins.conf
+2014-07-22 20:34:35		Options reloaded from aspell.conf
+2014-07-22 20:34:35		Options reloaded from script.conf
+2014-07-22 20:34:35		Options reloaded from buffers.conf
+2014-07-22 20:34:35		Options reloaded from relay.conf
+2014-07-22 20:34:35		Options reloaded from xfer.conf
+2014-07-22 20:34:35		Options reloaded from irc.conf
+2014-07-22 20:34:35		Options reloaded from rmodifier.conf
+2014-07-22 20:34:35		Options reloaded from alias.conf
+2014-07-22 20:34:35		Options reloaded from charset.conf
+2014-07-22 20:34:35		Options reloaded from logger.conf
+2014-07-22 22:16:23		Plugins loaded: alias, aspell, charset, fifo, irc, logger, lua, perl, python, relay, rmodifier, ruby, script, tcl, xfer
+2014-07-22 22:16:25		script: 273 scripts for WeeChat 0.4.1
+2014-07-22 22:16:48		irc: server irc.rizon.net created (temporary server, NOT SAVED!)
+2014-07-22 22:16:58	=!=	ruby: unable to run function "auth_notice_cb"
+2014-07-22 22:16:58	=!=	ruby: error: (eval):77:in `string_eval_expression': wrong number of arguments(4 for 3) (ArgumentError)
+2014-07-22 22:16:58	=!=	ruby: error:      from (eval):77:in `auth_notice_cb'
+2014-07-22 22:17:39	=!=	Error: can not merge windows, there's no other window with same size near current one
+2014-07-22 22:17:44	=!=	Error: can not merge windows, there's no other window with same size near current one
+2014-07-22 22:24:52		Plugins loaded: alias, aspell, charset, fifo, irc, logger, lua, perl, python, relay, rmodifier, ruby, script, tcl, xfer
+2014-07-23 11:49:16		Plugins loaded: alias, aspell, charset, fifo, irc, logger, lua, perl, python, relay, rmodifier, ruby, script, tcl, xfer
+2014-07-23 11:49:18		script: 273 scripts for WeeChat 0.4.1
+2014-07-23 11:50:11	=!=	Error: can not merge windows, there's no other window with same size near current one
+2014-07-23 11:51:15		Plugins loaded: alias, aspell, charset, fifo, irc, logger, lua, perl, python, relay, rmodifier, ruby, script, tcl, xfer
+2014-07-23 11:51:24	=!=	ruby: unable to run function "auth_notice_cb"
+2014-07-23 11:51:24	=!=	ruby: error: (eval):77:in `string_eval_expression': wrong number of arguments(4 for 3) (ArgumentError)
+2014-07-23 11:51:24	=!=	ruby: error:      from (eval):77:in `auth_notice_cb'
+2014-07-23 11:51:35		irc: server irc.rizon.net created (temporary server, NOT SAVED!)
+2014-07-23 11:51:45	=!=	ruby: unable to run function "auth_notice_cb"
+2014-07-23 11:51:45	=!=	ruby: error: (eval):77:in `string_eval_expression': wrong number of arguments(4 for 3) (ArgumentError)
+2014-07-23 11:51:45	=!=	ruby: error:      from (eval):77:in `auth_notice_cb'
+2014-07-23 11:53:06		irc: server irc.snoonet.org created (temporary server, NOT SAVED!)
+2014-07-23 11:53:08	=!=	ruby: unable to run function "auth_notice_cb"
+2014-07-23 11:53:08	=!=	ruby: error: (eval):77:in `string_eval_expression': wrong number of arguments(4 for 3) (ArgumentError)
+2014-07-23 11:53:08	=!=	ruby: error:      from (eval):77:in `auth_notice_cb'
+2014-07-23 11:53:15	=!=	ruby: unable to run function "auth_notice_cb"
+2014-07-23 11:53:15	=!=	ruby: error: (eval):77:in `string_eval_expression': wrong number of arguments(4 for 3) (ArgumentError)
+2014-07-23 11:53:15	=!=	ruby: error:      from (eval):77:in `auth_notice_cb'
+2014-07-23 11:55:46	=!=	Error: can not merge windows, there's no other window with same size near current one
+2014-07-23 11:57:48	=!=	Error: WeeChat main buffer can't be closed
+2014-07-23 11:57:51	=!=	Error: can not merge windows, there's no other window with same size near current one
+2014-07-23 11:57:57	=!=	Error with command "disconnect" (try /help disconnect)
+2014-07-23 12:08:46		Plugins loaded: alias, aspell, charset, fifo, irc, logger, lua, perl, python, relay, rmodifier, ruby, script, tcl, xfer
+2014-07-23 12:09:12	=!=	ruby: unable to run function "auth_notice_cb"
+2014-07-23 12:09:12	=!=	ruby: error: (eval):77:in `string_eval_expression': wrong number of arguments(4 for 3) (ArgumentError)
+2014-07-23 12:09:12	=!=	ruby: error:      from (eval):77:in `auth_notice_cb'
+2014-07-23 12:09:27		irc: server irc.rizon.net created (temporary server, NOT SAVED!)
+2014-07-23 12:09:35	=!=	ruby: unable to run function "auth_notice_cb"
+2014-07-23 12:09:35	=!=	ruby: error: (eval):77:in `string_eval_expression': wrong number of arguments(4 for 3) (ArgumentError)
+2014-07-23 12:09:35	=!=	ruby: error:      from (eval):77:in `auth_notice_cb'
+2014-07-23 12:13:31		irc: server irc.snoonet.org created (temporary server, NOT SAVED!)
+2014-07-23 12:13:33	=!=	ruby: unable to run function "auth_notice_cb"
+2014-07-23 12:13:33	=!=	ruby: error: (eval):77:in `string_eval_expression': wrong number of arguments(4 for 3) (ArgumentError)
+2014-07-23 12:13:33	=!=	ruby: error:      from (eval):77:in `auth_notice_cb'
+2014-07-23 12:13:38	=!=	ruby: unable to run function "auth_notice_cb"
+2014-07-23 12:13:38	=!=	ruby: error: (eval):77:in `string_eval_expression': wrong number of arguments(4 for 3) (ArgumentError)
+2014-07-23 12:13:38	=!=	ruby: error:      from (eval):77:in `auth_notice_cb'
+2014-07-23 12:27:09	=!=	Error: can not merge windows, there's no other window with same size near current one
+2014-07-23 12:27:44	=!=	Error with command "disconnect" (try /help disconnect)
+2014-07-23 12:27:50	=!=	Error: WeeChat main buffer can't be closed
